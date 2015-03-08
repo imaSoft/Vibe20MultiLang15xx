@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="drive_fast_scroll_time_grouper_n_days_ago">
+        <item quantity="other">%d dni temu</item>
+        <item quantity="one">%d dzień temu</item>
+    </plurals>
+    <plurals name="drive_fast_scroll_time_grouper_n_weeks_ago">
+        <item quantity="other">%d tyg. temu</item>
+        <item quantity="one">%d tydzień temu</item>
+    </plurals>
+    <plurals name="wallet_minutes">
+        <item quantity="other">min</item>
+        <item quantity="one">min</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d lat(a)&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co rok&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d lat(a)&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co rok&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d lat(a)&amp;lt;/price> przez następne &amp;lt;duration>%3$d lat(a)&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co rok&amp;lt;/price> przez następne &amp;lt;duration>%3$d lat(a)&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_year_tax_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d lat(a)&amp;lt;/price> przez następne &amp;lt;duration>%3$d lat(a)&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co rok&amp;lt;/price> przez następne &amp;lt;duration>%3$d lat(a)&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d mies.&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co miesiąc&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d mies.&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co miesiąc&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d mies.&amp;lt;/price> przez następne &amp;lt;duration>%3$d mies.&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co miesiąc&amp;lt;/price> przez następne &amp;lt;duration>%3$d mies.&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_month_tax_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d mies.&amp;lt;/price> przez następne &amp;lt;duration>%3$d mies.&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co miesiąc&amp;lt;/price> przez następne &amp;lt;duration>%3$d mies.&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d dni&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s codziennie&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d dni&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki codziennie&amp;lt;/price>, począwszy od &amp;lt;start_time>%3$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s co %2$d dni&amp;lt;/price> przez następne &amp;lt;duration>%3$d dni&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s codziennie&amp;lt;/price> przez następne &amp;lt;duration>%3$d dni&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="wallet_recurrence_info_day_tax_limited">
+        <item quantity="other">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki co %2$d dni&amp;lt;/price> przez następne &amp;lt;duration>%3$d dni&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+        <item quantity="one">Dopóki nie anulujesz subskrypcji, będziemy automatycznie pobierać &amp;lt;price>%1$s plus podatki codziennie&amp;lt;/price> przez następne &amp;lt;duration>%3$d dni&amp;lt;/duration>, począwszy od &amp;lt;start_time>%4$s&amp;lt;/start_time>.</item>
+    </plurals>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d graczy</item>
+        <item quantity="one">Gracze</item>
+    </plurals>
+    <plurals name="games_select_players_del_autopick_players">
+        <item quantity="other">Usuń %1$d graczy</item>
+        <item quantity="one">Usuń %1$d gracza</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Zaproś do %1$d innych graczy</item>
+        <item quantity="one">Zaproś do %1$d innych graczy</item>
+    </plurals>
+    <plurals name="games_waiting_room_waited_start_early">
+        <item quantity="other">Brakuje jeszcze %1$d z %2$d graczy. Chcesz zacząć bez nich?</item>
+        <item quantity="one">Brakuje jeszcze %1$d z %2$d graczy. Chcesz zacząć bez niego?</item>
+    </plurals>
+    <plurals name="games_waiting_room_start_with">
+        <item quantity="other">Z %1$d graczami</item>
+        <item quantity="one">Z %1$d graczem</item>
+    </plurals>
+    <plurals name="games_waiting_room_players_ready">
+        <item quantity="other">%1$d graczy gotowych</item>
+        <item quantity="one">%1$d gracz gotowy</item>
+    </plurals>
+    <plurals name="games_notification_new_activity">
+        <item quantity="other">Nowe działania dotyczące gier: %1$d</item>
+        <item quantity="one">Oczekujące działanie dotyczące gry</item>
+    </plurals>
+    <plurals name="games_notification_non_acl_summary">
+        <item quantity="other">Jeszcze %1$d</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s graczy</item>
+        <item quantity="one">%1$s gracz</item>
+    </plurals>
+    <plurals name="games_inbox_my_turn_toast_message">
+        <item quantity="other">Moje kolejki: %1$d</item>
+        <item quantity="one">Moja kolejka</item>
+    </plurals>
+    <plurals name="games_inbox_their_turn_toast_message">
+        <item quantity="other">Kolejki %1$d użytkowników</item>
+        <item quantity="one">Kolejka %1$d użytkownika</item>
+    </plurals>
+    <plurals name="games_inbox_invitation_toast_message">
+        <item quantity="other">Zaproszenia: %1$d</item>
+        <item quantity="one">%1$d zaproszenie</item>
+    </plurals>
+    <plurals name="games_inbox_matches_toast_message">
+        <item quantity="other">Gry w toku: %1$d</item>
+        <item quantity="one">Trwa %1$d gra</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_gift_count_format">
+        <item quantity="other">Prezenty: %1$d</item>
+        <item quantity="one">%1$d prezent</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_wish_count_format">
+        <item quantity="other">Prośby (%1$d)</item>
+        <item quantity="one">%1$d prośba</item>
+    </plurals>
+    <plurals name="games_tile_request_summary_player_names_html">
+        <item quantity="other">"Od: &amp;lt;b>%1$s&amp;lt;/b>
+i innych osób"</item>
+        <item quantity="one">Od: &amp;lt;b>%1$s&amp;lt;/b></item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s osoby</item>
+        <item quantity="one">%1$s osoba</item>
+        <item quantity="two">%1$s osoby</item>
+        <item quantity="few">%1$s osoby</item>
+        <item quantity="many">%1$s osób</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">z przeglądarki na urządzeniu %1$s w: %2$s, mniej niż %s min temu</item>
+        <item quantity="one">z przeglądarki na urządzeniu %1$s w: %2$s, mniej niż %s min temu</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">z: %1$s, mniej niż %2$s min temu</item>
+        <item quantity="one">z: %1$s, mniej niż %2$s min temu</item>
+    </plurals>
+</resources>

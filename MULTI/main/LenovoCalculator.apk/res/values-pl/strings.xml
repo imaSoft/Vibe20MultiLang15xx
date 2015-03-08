@@ -2,14 +2,8 @@
 <resources>
     <string name="app_name">Kalkulator</string>
     <string name="error">Błąd</string>
-    <string name="advanced">Naukowe obliczenia</string>
-    <string name="clear_history">Wyczyść rekordy historii</string>
-    <string name="copy">Kopiuj</string>
-    <string name="paste">Wklej</string>
-    <string name="only_digit">Wklejać można tylko cyfry</string>
-    <string name="basic">Proste obliczenia</string>
-    <string name="copy_success">Skopiowano</string>
-    <string name="full_input">Wprowadzono już maksymalną wartość</string>
+    <string name="advanced">Panel zaawansowany</string>
+    <string name="clear_history">Wyczyść historię</string>
     <string name="digit0">0</string>
     <string name="digit1">1</string>
     <string name="digit2">2</string>
@@ -20,19 +14,17 @@
     <string name="digit7">7</string>
     <string name="digit8">8</string>
     <string name="digit9">9</string>
-    <string name="del">DEL</string>
-    <string name="clear">C</string>
+    <string name="del">USUŃ</string>
+    <string name="clear">CZYŚĆ</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
-    <string name="tan">tan</string>
-    <string name="abs">abs</string>
-    <string name="percent">%</string>
-    <string name="square">^2</string>
-    <string name="exp">e^</string>
-    <string name="divd">1/</string>
+    <string name="tan">tg</string>
     <string name="e">e</string>
     <string name="ln">ln</string>
     <string name="lg">log</string>
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
+    <string name="basic">Panel podstawowy</string>
+    <string name="copy_success">Skopiowano</string>
+    <string name="full_input">Wprowadzono już maksymalną wartość</string>
 </resources>

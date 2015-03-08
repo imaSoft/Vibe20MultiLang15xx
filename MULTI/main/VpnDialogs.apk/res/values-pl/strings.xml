@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt">Aplikacja %s próbuje utworzyć połączenie VPN.</string>
-    <string name="warning">Kontynuując, udzielasz aplikacji uprawnienia do przechwytywania całego ruchu sieciowego. <b>NIE rób tego, jeśli nie ufasz tej aplikacji.</b> W przeciwnym razie ryzykujesz, że bezpieczeństwo Twoich danych zostanie naruszone przez szkodliwe oprogramowanie.</string>
+    <string name="prompt">Aplikacja %s próbuje nawiązać połączenie VPN.</string>
+    <string name="warning">Kontynuując, udzielasz aplikacji pozwolenia na przechwytywanie całego ruchu sieciowego. <b>NIE rób tego, jeśli nie ufasz tej aplikacji.</b> W przeciwnym razie ryzykujesz, że bezpieczeństwo Twoich danych zostanie naruszone przez złośliwe oprogramowanie.</string>
     <string name="accept">Ufam tej aplikacji</string>
-    <string name="legacy_title">Połączono z siecią VPN</string>
+    <string name="legacy_title">Połączono z VPN</string>
     <string name="configure">Konfiguruj</string>
     <string name="disconnect">Rozłącz</string>
     <string name="session">Sesja:</string>

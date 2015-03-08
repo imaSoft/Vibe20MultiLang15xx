@@ -159,7 +159,6 @@
     <string name="slash">/</string>
     <string name="world_day_of_week_label">/ %s</string>
     <string name="next_alarm_description">Następny alarm: %s</string>
-    <string name="label_unlabeled" />
     <string name="alarms_selected">Wybrane: %d</string>
     <string name="deleted_message">Usunięto</string>
     <string name="timer_delete_confirmation">Usunąć ten minutnik?</string>
@@ -197,7 +196,6 @@
     <string name="time_setting">Ustaw godzinę</string>
     <string name="add_city">Dodaj miasto</string>
     <string name="alarms_full">Określono maksymalną liczbę alarmów</string>
-    <string name="alarms_pickup">Pobudka</string>
     <string name="once">Raz</string>
     <string name="poweroff_switch">Włącz alarm o wyłączeniu</string>
     <string name="incvol_switch">Crescendo</string>
@@ -208,7 +206,7 @@
     <string name="alarm_time_before_now"> %s godz. wcześniej</string>
     <string name="alarm_time_after_now"> %s godz. później</string>
     <string name="lenovo_dim_mode">Nocny tryb ekranu blokowania</string>
-    <string name="lenovo_show_alarm">Wyświetl alarm</string>
+    <string name="lenovo_show_alarm">Wyświetl ostatnie alarmy</string>
     <string name="lenovo_time_to">"    Do    "</string>
     <string name="lenovo_dim_setting_error_title">Błąd przy ustawianiu godziny</string>
     <string name="lenovo_dim_setting_error_description">Ustaw nową godzinę nocnego trybu ekranu blokowania.</string>
@@ -216,10 +214,5 @@
     <string name="lenovo_show_alarm_summary">Wyświetl nadchodzący alarm po przygaszeniu ekranu</string>
     <string name="dim_night_time_set">Ustaw długość nocy</string>
     <string name="date_time_set_timezone">Wybierz strefę czasową</string>
-    <string name="zone_auto">Auto strefa czasowa</string>
-    <string name="time_zone_settings">Ustawienia strefy czasowej</string>
-    <string name="home_time">Czas lokalny</string>
-    <string name="system_zone">Bieżąca strefa czasowa</string>
-    <string name="automatic_time_zone_summary">Użyj danych o strefie czasowej z Internetu. Ta funkcja zależy od dostawcy usług i nie jest dostępna w niektórych krajach</string>
-    <string name="automatic_home_clock_summary_new">Pokaż czas lokalny na ekranie blokowania i widżet podwójnego zegara podczas podróży pomiędzy strefami czasowymi</string>
+    <string name="zone_auto">Automatyczna strefa czasowa</string>
 </resources>

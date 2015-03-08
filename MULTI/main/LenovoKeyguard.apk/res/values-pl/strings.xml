@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Informacje</string>
+    <string name="ab_version_introduction">Wprowadzenie do funkcji</string>
+    <string name="ab_contacts">Sposób kontaktu</string>
+    <string name="ab_feedback">Informacje zwrotne</string>
     <string name="app_name">KeyguardTestActivity</string>
     <string name="secure_app_name">UnifiedCamera</string>
     <string name="none_menu_item">Bez zabezpieczeń</string>
@@ -19,7 +23,7 @@
     <string name="ct_time_new_event_unlock_tip_call">Przeciągnij w górę, aby wyświetlić połączenia przychodzące</string>
     <string name="ct_time_new_event_unlock_tip_message">Przeciągnij w górę, aby wyświetlić wiadomości</string>
     <string name="ct_timevision_ring_to_unloc_tips">Przeciągnij okrąg, aby odblokować</string>
-    <string name="ct_timevision_ring_to_unloc_tips_complete">"Odblokuj "</string>
+    <string name="ct_timevision_ring_to_unloc_tips_complete">Odblokuj</string>
     <string name="cancel">Anuluj</string>
     <string name="biometric_weak_improve_matching_title">Popraw rozpoznawanie twarzy</string>
     <string name="biometric_weak_liveliness_title">Sprawdzanie, czy użytkownik jest żywym człowiekiem</string>
@@ -29,7 +33,6 @@
     <string name="show_owner_info_on_lockscreen_label">Pokaż tę informację na ekranie blokady</string>
     <string name="owner_info_settings_title">Informacje o właścicielu</string>
     <string name="security_enable_widgets_disabled_summary">Wyłączone przez administratora</string>
-    <string name="owner_info_settings_summary" />
     <string name="owner_info_settings_edit_text_hint">Wpisz tekst do wyświetlenia na ekranie blokady.</string>
     <string name="show_user_info_on_lockscreen_label">Pokaż informacje o użytkowniku na zablokowanym ekranie</string>
     <string name="user_info_settings_title">Użytkownik – informacje</string>
@@ -48,7 +51,6 @@ Szyfrowanie może potrwać godzinę lub dłużej. Rozpocznij, gdy bateria jest w
     <string name="unlock_set_unlock_launch_picker_title">Blokada ekranu</string>
     <string name="unlock_backup_info_summary">Wybierz sposób odblokowania w przypadku, gdy Rozpoznanie twarzy nie zadziała.</string>
     <string name="unlock_set_unlock_off_title">Brak</string>
-    <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Przesunięcie palcem</string>
     <string name="unlock_set_unlock_none_summary">Bez zabezpieczeń</string>
     <string name="unlock_set_unlock_biometric_weak_title">Rozpoznanie twarzy</string>
@@ -121,29 +123,8 @@ Szyfrowanie może potrwać godzinę lub dłużej. Rozpocznij, gdy bateria jest w
     <string name="slot_1_3G_reminder">Porada: 3G obsługuje tylko gniazdo nr 1. Włóż kartę 3G do gniazda nr 1</string>
     <string name="searching_simcard">Wykrywanie...</string>
     <string name="keyguard_sim_auto">Automat.</string>
-    <string name="lenovo_keyguard_password_enter_puk_code">Wpisz PUK i nowy kod PIN karty %s</string>
-    <string name="lenovo_keyguard_password_enter_puk_prompt">Kod PUK karty %s</string>
-    <string name="lenovo_keyguard_password_enter_pin_prompt">Nowy kod PIN karty %s</string>
-    <string name="lenovo_keyguard_missing_sim_message_short">Brak karty %s</string>
-    <string name="lenovo_keyguard_missing_sim_message">Brak karty %s w telefonie.</string>
-    <string name="lenovo_keyguard_missing_sim_instructions">Włóż kartę %s.</string>
-    <string name="lenovo_keyguard_missing_sim_instructions_long">Brak karty %1$s lub nie można jej odczytać. Włóż kartę %1$s.</string>
-    <string name="lenovo_keyguard_permanent_disabled_sim_message_short">Karta %s bezużyteczna.</string>
-    <string name="lenovo_keyguard_permanent_disabled_sim_instructions">"Karta %1$s jest trwale wyłączona.
- Skontaktuj się z dostawcą usług bezprzewodowych, by otrzymać inną kartę %1$s."</string>
-    <string name="lenovo_keyguard_sim_locked_message">Karta %s jest zablokowana.</string>
-    <string name="lenovo_keyguard_sim_puk_locked_message">Karta %s jest zablokowana za pomocą kodu PUK.</string>
-    <string name="lenovo_keyguard_sim_unlock_progress_dialog_message">Odblokowuję kartę %s…</string>
-    <string name="lenovo_kg_sim_pin_instructions">Podaj PIN karty %s</string>
-    <string name="lenovo_kg_puk_enter_puk_hint">Karta %s została wyłączona. Podaj kod PUK, by przejść dalej. Szczegóły uzyskasz od operatora.</string>
-    <string name="lenovo_kg_sim_unlock_progress_dialog_message">Odblokowuję kartę %s…</string>
-    <string name="lenovo_kg_invalid_puk">Ponownie podaj poprawny kod PUK. Nieudane próby spowodują trwałe wyłączenie karty %s.</string>
-    <string name="lenovo_kg_password_wrong_pin_code_pukked">Nieprawidłowy kod PIN karty %s. Musisz teraz skontaktować się z operatorem, by odblokował Twoje urządzenie.</string>
-    <string name="lenovo_kg_password_wrong_puk_code_dead">Karta %s została trwale zablokowana. Skontaktuj się z operatorem.</string>
-    <string name="lenovo_kg_password_pin_failed">Operacja z kodem PIN karty %s nie udała się.</string>
-    <string name="lenovo_kg_password_puk_failed">Operacja z kodem PUK karty %s nie udała się.</string>
     <string name="lenovo_keyguard">Lenovo Lockscreen</string>
-    <string name="lenovo_keyguard_settings">Blokada ekranu</string>
+    <string name="lenovo_keyguard_settings">Lockscreen</string>
     <string name="lenovo_about_keyguard">Informacje o programie Lockscreen</string>
     <string name="leonvo_version_info">Informacje o wersji</string>
     <string name="lenovo_lockscreen_unlock_label">Odblokuj</string>
@@ -177,24 +158,7 @@ Szyfrowanie może potrwać godzinę lub dłużej. Rozpocznij, gdy bateria jest w
     <string name="lenovo_pinpuk_attempts">Pozostałe próby:</string>
     <string name="lenovo_double_click_turn_off_screen_title">Dotknij dwukrotnie, aby wyłączyć ekran</string>
     <string name="lenovo_double_click_turn_off_screen_summary">W interfejsie blokady ekranu dwukrotne dotknięcie spowoduje wyłączenie ekranu, jeśli nie dotkniesz niczego więcej</string>
-    <string name="lockscreen_network_puk_locked_message">Kod PUK sieci zablokowany. Skontaktuj się z obsługą klienta</string>
-    <string name="lockscreen_network_puk_locked_instructions">Skontaktuj się z obsługą klienta.</string>
     <string name="lenovo_app_unavailable">Aplikacja niedostępna</string>
-    <string name="lenovo_simplify_operator_info_setting_title">Uproszczenie informacji o dostawcy usług</string>
-    <string name="lenovo_simplify_operator_info_setting_summary">Pokazuj porady dotyczące pojedynczego pustego gniazda, gdy karty nie ma w żadnym gnieździe</string>
-    <string name="lenovo_any_direction_unlock_tip">Przesuń w dowolnym kierunku, aby odblokować</string>
-    <string name="lenovo_st_tip_change_wallpaper">Przesuń w lewo lub w prawo, aby zmienić tapetę</string>
-    <string name="lenovo_st_tip_drag_clock">Dotknij i przytrzymaj, a następnie przeciągnij, aby zmienić umiejscowienie zegara</string>
-    <string name="lenovo_st_tip_button_text">Wiem</string>
-    <string name="lenovo_st_tip_title_text">Wskazówki</string>
-    <string name="lenovo_keyboard_shuffle_setting_title">Przestawianie klawiszy</string>
-    <string name="lenovo_keyboard_shuffle_setting_summary">Dla większego bezpieczeństwa po włączeniu ekranu klawisze klawiatury będą przestawiane</string>
-    <string name="bubble2_to_unlock_tips">Przesuń ekran, aby odblokować</string>
-    <string name="bubble2_enter_the_game_tips">Uruchom grę w %d s</string>
-    <string name="bubble2_loading_game_tips">Uruchamianie gry...</string>
-    <string name="lenovo_any_direction_unlock_camera">Przesuń w dowolnym kierunku, aby uruchomić kamerę.</string>
-    <string name="lenovo_any_direction_unlock_sms">Przesuń w dowolnym kierunku, aby wyświetlić nieodczytane wiadomości.</string>
-    <string name="lenovo_any_direction_unlock_call">Przesuń w dowolnym kierunku, aby wyświetlić nieodebrane połączenia.</string>
     <string name="keyguard_password_enter_pin_code">Wpisz kod PIN.</string>
     <string name="keyguard_password_enter_puk_code">Wpisz PUK i nowy kod PIN karty SIM</string>
     <string name="keyguard_password_enter_puk_prompt">Kod PUK karty SIM</string>
@@ -327,6 +291,4 @@ Spróbuj ponownie za %d s."</string>
     <string name="keyguard_transport_play_description">Przycisk odtwarzania</string>
     <string name="keyguard_transport_stop_description">Przycisk zatrzymania</string>
     <string name="keyguard_carrier_default">Brak usługi.</string>
-    <string name="bubble_to_unloc_tips">Przeciągnij dymek, aby odblokować</string>
-    <string name="bubble_to_unloc_tips_complete">Odblokuj</string>
 </resources>
