@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
@@ -165,8 +165,8 @@
     <string name="bluetooth_connection_dialog_text">Подключиться к устройству \"%1$s\"?</string>
     <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
     <string name="bluetooth_pb_acceptance_dialog_text">Устройство \"%1$s\" пытается получить доступ к вашим контактам и журналу вызовов. Разрешить доступ для %2$s?</string>
-    <string name="bluetooth_remember_choice">"Больше не спрашивать"</string>
-    <string name="bluetooth_pb_remember_choice">"Больше не спрашивать"</string>
+    <string name="bluetooth_remember_choice">Больше не спрашивать</string>
+    <string name="bluetooth_pb_remember_choice">Больше не спрашивать</string>
     <string name="bluetooth_map_request">Запрос на доступ Сообщений</string>
     <string name="bluetooth_map_acceptance_dialog_text">%1$s хочет получить доступ к сообщениям. Дать доступ к %2$s?</string>
     <string name="date_and_time">Настройки даты и времени</string>
@@ -193,13 +193,13 @@
     <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_error">Внимание!</string>
     <string name="proxy_error_dismiss">ОК</string>
-    <string name="proxy_error_invalid_host">"Введено недействительное имя хоста."</string>
-    <string name="proxy_error_invalid_exclusion_list">"Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую."</string>
+    <string name="proxy_error_invalid_host">Введено недействительное имя хоста.</string>
+    <string name="proxy_error_invalid_exclusion_list">Список исключений отформатирован неверно. Перечислите исключаемые домены через запятую.</string>
     <string name="proxy_error_empty_port">Укажите порт.</string>
     <string name="proxy_error_empty_host_set_port">Если поле хоста не заполнено, поле порта также следует оставить пустым.</string>
-    <string name="proxy_error_invalid_port">"Указанный порт недействителен."</string>
+    <string name="proxy_error_invalid_port">Указанный порт недействителен.</string>
     <string name="proxy_warning_limited_support">Прокси-сервер HTTP используется браузером, но недоступен для других приложений.</string>
-    <string name="proxy_url">"URL файла автоконфигурации прокси-сервера:"</string>
+    <string name="proxy_url">URL файла автоконфигурации прокси-сервера:</string>
     <string name="radio_info_signal_location_label">Местоположение:</string>
     <string name="radio_info_neighboring_location_label">Соседний CID:</string>
     <string name="radio_info_cellinfo_label">Индекс сети:</string>
@@ -243,7 +243,7 @@
     <string name="sdcard_settings_not_present_status">Нет SD-карты.</string>
     <string name="sdcard_settings_available_bytes_label">Свободно байтов:</string>
     <string name="sdcard_settings_mass_storage_status">SD-карта используется как запоминающее устройство.</string>
-    <string name="sdcard_settings_unmounted_status">"SD-карту можно извлечь"</string>
+    <string name="sdcard_settings_unmounted_status">SD-карту можно извлечь</string>
     <string name="sdcard_settings_bad_removal_status">SD-карта была извлечена во время использования!</string>
     <string name="sdcard_settings_used_bytes_label">Использовано байтов:</string>
     <string name="sdcard_settings_scanning_status">Поиск мультимедиа на SD-карте...</string>
@@ -746,7 +746,7 @@
     <string name="dock_not_found_text">Чтобы настроить док-станцию, установите в нее телефон.</string>
     <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
     <string name="dock_sounds_enable_summary_on">Воспроизводить звук при установке или извлечении телефона</string>
-    <string name="dock_sounds_enable_summary_off">"Не воспроизводить звук при установке или извлечении телефона"</string>
+    <string name="dock_sounds_enable_summary_off">Не воспроизводить звук при установке или извлечении телефона</string>
     <string name="account_settings">Аккаунты</string>
     <string name="search_settings">Поиск</string>
     <string name="search_settings_summary">Настроить параметры и управлять историей поиска</string>
@@ -789,7 +789,7 @@
     <string name="sim_reenter_new">Введите новый PIN повторно</string>
     <string name="sim_change_pin">PIN-код SIM-карты</string>
     <string name="sim_bad_pin">Неверный PIN-код</string>
-    <string name="sim_pins_dont_match">"PIN-коды не совпадают"</string>
+    <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
     <string name="sim_change_failed">"Не удается изменить PIN.
 Возможно, код введен неверно."</string>
     <string name="sim_change_succeeded">PIN-код SIM-карты успешно изменен</string>
@@ -863,7 +863,7 @@
     <string name="dlg_confirm_unmount_title">Отключить SD-карту?</string>
     <string name="dlg_confirm_unmount_text">Если отключить SD-карту, некоторые приложения перестанут работать и могут оставаться недоступными до ее подключения.</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">"Не удалось отключить SD-карту. Повторите попытку позже."</string>
+    <string name="dlg_error_unmount_text">Не удалось отключить SD-карту. Повторите попытку позже.</string>
     <string name="unmount_inform_text">SD-карта будет отключена.</string>
     <string name="sd_ejecting_title">Извлечение</string>
     <string name="sd_ejecting_summary">Выполняется извлечение</string>
@@ -1360,8 +1360,8 @@
     <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран.
 
 При увеличенном масштабе можно:
-"<ul><li>"панорамировать – проведите пальцами по экрану;
-"<li>изменять масштаб – сведите или разведите пальцы.</li></li></ul>"
+"<li><ul>"панорамировать – проведите пальцами по экрану;
+"<li>изменять масштаб – сведите или разведите пальцы.</li></ul></li>"
 
 Чтобы временно увеличить изображение под пальцем, трижды нажмите на экран и удерживайте его. Проведя пальцем, вы можете посмотреть на другие области экрана. Чтобы вернуть экран в прежнее состояние, уберите палец.
 
@@ -1451,7 +1451,7 @@
     <string name="print_search_box_hidden_utterance">Скрыть окно поиска</string>
     <string name="power_usage_summary_title">Батарея</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
-    <string name="power_usage_not_available">"Расход батареи неизвестен"</string>
+    <string name="power_usage_not_available">Расход батареи неизвестен</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="battery_since_unplugged">Расход заряда батареи с момента отключения от сети питания</string>
     <string name="battery_since_reset">Расход заряда батареи с момента перезагрузки</string>
@@ -1636,7 +1636,7 @@
     <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
     <string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено.</string>
     <string name="credentials_erased">Хранилище регистрационных данных очищено</string>
-    <string name="credentials_not_erased">"Не удалось очистить хранилище"</string>
+    <string name="credentials_not_erased">Не удалось очистить хранилище</string>
     <string name="credentials_enabled">Хранилище регистрационных данных включено</string>
     <string name="credentials_configure_lock_screen_hint">Перед использованием хранилища учетных данных необходимо задать PIN-код или пароль блокировки экрана.</string>
     <string name="emergency_tone_title">Тональный сигнал экстренного вызова</string>
@@ -1802,7 +1802,7 @@
     <string name="animator_duration_scale_title">Скорость анимации</string>
     <string name="overlay_display_devices_title">Эмуляция дополнительных экранов</string>
     <string name="debug_applications_category">Приложения</string>
-    <string name="immediately_destroy_activities">"Не сохранять действия"</string>
+    <string name="immediately_destroy_activities">Не сохранять действия</string>
     <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
     <string name="app_process_limit_title">Лимит фоновых процессов</string>
     <string name="show_all_anrs">Все ANR</string>
@@ -1845,7 +1845,7 @@
     <string name="data_usage_app_restrict_dialog">"Если будут доступны только мобильные сети, программы, зависящие от фонового режима, могут перестать работать.
 
 Установите другие параметры передачи данных в настройках приложения"</string>
-    <string name="data_usage_restrict_denied_dialog">"Ограничение фонового режима возможно только при лимитировании мобильного трафика"</string>
+    <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика</string>
     <string name="data_usage_auto_sync_on_dialog_title">Включить авто-синхронизацию?</string>
     <string name="data_usage_auto_sync_on_dialog">"Все изменения, внесенные в аккаунты на компьютере, будут автоматически скопированы на устройство.
 
@@ -1853,7 +1853,7 @@
 
 Чтобы указать для каждого аккаунта, какие данные нужно синхронизировать, перейдите в меню Настройки -> Аккаунты"</string>
     <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
-    <string name="data_usage_auto_sync_off_dialog">"Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут"</string>
+    <string name="data_usage_auto_sync_off_dialog">Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут</string>
     <string name="data_usage_cycle_editor_title">Удаление статистики</string>
     <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
     <string name="data_usage_cycle_editor_positive">Установить</string>
@@ -1864,7 +1864,7 @@
 
 Во избежание дополнительных расходов старайтесь не достигать этого лимита, так как оператор и ваше устройство могут по-разному учитывать трафик."</string>
     <string name="data_usage_restrict_background_title">Ограничение фонового режима?</string>
-    <string name="data_usage_restrict_background">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi"</string>
+    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi</string>
     <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
 
 Настройки будут изменены для всех пользователей устройства"</string>
@@ -1876,7 +1876,7 @@
     <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
     <string name="data_usage_received_sent">%1$s получено, %2$s отправлено</string>
     <string name="data_usage_total_during_range">%2$s: около %1$s использовано</string>
-    <string name="data_usage_total_during_range_mobile">"%2$s: около %1$s использовано. Данные оператора могут отличаться"</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: около %1$s использовано. Данные оператора могут отличаться</string>
     <string name="data_usage_metered_title">Точки доступа мобильной сети</string>
     <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение</string>
     <string name="data_usage_metered_mobile">Мобильные сети</string>
@@ -1902,7 +1902,7 @@
     <string name="vpn_password">Пароль</string>
     <string name="vpn_save_login">Сохранить учетные данные</string>
     <string name="vpn_not_used">(не используется)</string>
-    <string name="vpn_no_ca_cert">"(не проверять сервер)"</string>
+    <string name="vpn_no_ca_cert">(не проверять сервер)</string>
     <string name="vpn_no_server_cert">(получено с сервера)</string>
     <string name="vpn_cancel">Отмена</string>
     <string name="vpn_save">Сохранить</string>
@@ -2057,6 +2057,7 @@
     <string name="auto_popup">Не показывать это меню</string>
     <string name="autopop_warning_title">Больше не показывать?</string>
     <string name="autopop_warning_message">Снимите галочку с данного элемента, чтобы окно не показывалось при последующих подключениях телефона к компьютеру. Чтобы зайти в это окно, щелкните системное оповещение.</string>
+    <string name="select_subscription">Выберите SIM-крту</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">"Чтобы увидеть устройства,
 включите Беспроводной дисплей"</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
@@ -2138,7 +2139,7 @@
     <string name="com_lenovo_lsf_psauthen_text19">Запрос на обращение</string>
     <string name="com_lenovo_lsf_psauthen_text20">Не можете войти в систему два diffent счета</string>
     <string name="com_lenovo_lsf_psauthen_error1">Ошибка подключения к сети. Пожалуйста, повторите попытку.</string>
-    <string name="com_lenovo_lsf_psauthen_error2">"Учётная запись PID не подключается"</string>
+    <string name="com_lenovo_lsf_psauthen_error2">Учётная запись PID не подключается</string>
     <string name="com_lenovo_lsf_psauthen_error3">Пользователь не существует</string>
     <string name="com_lenovo_lsf_psauthen_error4">Об ошибке Пароль</string>
     <string name="com_lenovo_lsf_psauthen_error5">Пожалуйста, включите свой аккаунт</string>
@@ -2348,21 +2349,6 @@
     <string name="k6kk_phone_info_runMemory">2.0GByte</string>
     <string name="k6kk_phone_info_screen">Разрешение: 1080*1920, Size: 5.5-inch</string>
     <string name="k6kk_phone_info_camera">Передняя 5million, задняя 13million</string>
-    <string name="phone_info_cpu_prada">quad-core 1.2GHz</string>
-    <string name="phone_info_memory_prada">1GB</string>
-    <string name="phone_info_storage_prada">4GB</string>
-    <string name="phone_info_cpu_s820">quad-core 1.2GHz</string>
-    <string name="phone_info_memory_s820">1GB</string>
-    <string name="phone_info_storage_s820">4GB</string>
-    <string name="phone_info_cpu_seine">quad-core 1.2GHz</string>
-    <string name="phone_info_memory_seine">1GB</string>
-    <string name="phone_info_storage_seine">4GB</string>
-    <string name="phone_info_cpu_snoopy">quad-core 1.5GHz</string>
-    <string name="phone_info_memory_snoopy">2GB</string>
-    <string name="phone_info_storage_snoopy">16GB</string>
-    <string name="phone_info_cpu_snoopytd">quad-core 1.5GHz</string>
-    <string name="phone_info_memory_snoopytd">2GB</string>
-    <string name="phone_info_storage_snoopytd">16GB</string>
     <string name="phone_info_cpu_default">Неизвестный</string>
     <string name="phone_info_memory_default">Неизвестно</string>
     <string name="phone_info_storage_default">Неизвестно</string>
@@ -2370,7 +2356,7 @@
     <string name="accessibility_toggle_script_injection_preference_title">Увеличить доступность веб-сервисов</string>
     <string name="accessibility_script_injection_security_warning_summary">Разрешить приложениям устанавливать скрипты от Google, это поможет сделать их сервис более доступным?</string>
     <string name="accessibility_script_injection_button_allow">Разрешить</string>
-    <string name="accessibility_script_injection_button_disallow">"Запретить"</string>
+    <string name="accessibility_script_injection_button_disallow">Запретить</string>
     <string name="colorLight_settings">Настройки подсветки</string>
     <string name="color_light">Эффективность лампы</string>
     <string name="color_light_demo">Демонстрация эффективности лампы</string>
@@ -2396,7 +2382,7 @@
     <string name="data_connect_settings_title">Передача данных</string>
     <string name="sim_not_available">SIM-карта недоступна</string>
     <string name="never_timeout">Никогда</string>
-    <string name="simple_settings">"Руководство для начинающих"</string>
+    <string name="simple_settings">Руководство для начинающих</string>
     <string name="device_info">Информация об устройстве</string>
     <string name="ota_title">Обновление системы</string>
     <string name="products_version">№ модели.</string>
@@ -2450,7 +2436,7 @@
     <string name="display_effect_of_screen_bright">Яркий</string>
     <string name="quicksettings">Быстрые настройки</string>
     <string name="exit">Выход</string>
-    <string name="mannual">"Войти в учебник для начинающих"</string>
+    <string name="mannual">Войти в учебник для начинающих</string>
     <string name="quicksettings_title">Быстрая настройка</string>
     <string name="quicksettings_summary">"Спасибо, что выбрали телефон Lenovo, начните с быстрой установки! Вы можете
  настроить под себя в настройках системы."</string>
@@ -2491,9 +2477,9 @@
     <string name="theme_settings_title">Настройка темы</string>
     <string name="volume_title">Громкость</string>
     <string name="incoming_call_ringer_title">Мелодия входящего вызова</string>
-    <string name="incoming_mms_ringer_title">"Мелодия сообщения"</string>
+    <string name="incoming_mms_ringer_title">Мелодия сообщения</string>
     <string name="sound_settings_title">Громкость</string>
-    <string name="show_frame_count_title">"Открыть учебник для начинающих"</string>
+    <string name="show_frame_count_title">Открыть учебник для начинающих</string>
     <string name="track_frame_time_summary">Measure rendering time in adb shell dumpsys gfxinfo</string>
     <string name="show_frame_count_summary">Show frame count when it is enable.</string>
     <string name="enable_traces_title">Enable traces</string>
@@ -2578,9 +2564,8 @@
 
 "<b>All user data</b> (including music, pictures, and other user data) in <b>Internal Storage</b> will be erased. Please backup your data before reset phone.</string>
     <string name="fuse_backup_data_description">Back up Contacts, Pictures, Messages, Applications and other important data before reset your phone</string>
-    <string name="select_subscription">Выберите SIM-крту</string>
-    <string name="airplane_open_confirm">Режим "В самолёте"</string>
-    <string name="airplane_open_confirm_message">Следует ли разрешить режим "В самолёте"?</string>
+    <string name="airplane_open_confirm">Режим В самолёте</string>
+    <string name="airplane_open_confirm_message">Следует ли разрешить режим В самолёте?</string>
     <string name="preference_status_open">Вкл.</string>
     <string name="preference_status_close">Выкл.</string>
     <string name="header_category_personalcustom_k7">Персонализированные</string>
@@ -2658,8 +2643,8 @@ Menu не доступена"</string>
     <string name="wifi_switch_settings_title">Привязка Wi-Fi</string>
     <string name="wifi_popup_0">Сообщать о входе в зону действия сохраненной сети Wi-Fi</string>
     <string name="wifi_popup_1">Автоматическое подключение в зоне действия Wi-Fi</string>
-    <string name="wifi_popup_2">"Не привязывать"</string>
-    <string name="show_dialog">"Не напоминать"</string>
+    <string name="wifi_popup_2">Не привязывать</string>
+    <string name="show_dialog">Не напоминать</string>
     <string name="wifi_switch_summary">Помнить положение точек доступа через координаты сотовых сетей</string>
     <string name="privacy_backup_userdata_category_title">Резервное копирование данных</string>
     <string name="privacy_backup_userdata_title">Резервное копирование на SD-карту</string>
@@ -2849,7 +2834,7 @@ Menu не доступена"</string>
     <string name="wifi_ap_bandwidth_title">Использование полосы пропускания</string>
     <string name="wifi_ap_bandwidth_enable">Включить режим регулирования ширины полосы пропускания</string>
     <string name="wifi_ap_bandwidth_chart_title">Скорость передачи данных в реальном времени</string>
-    <string name="wifi_ap_bandwidth_chart_summary">"Показания скорости передачи данных на вашем телефоне могут отличаться."</string>
+    <string name="wifi_ap_bandwidth_chart_summary">Показания скорости передачи данных на вашем телефоне могут отличаться.</string>
     <string name="wifi_wps_fail_error">Не удалось выполнить защищенную настройку Wi-Fi, повторите попытку.</string>
     <string name="wifi_ap_title">Статистика</string>
     <string name="wifi_ap_time_duration">Длительность: %1$s</string>
@@ -2916,10 +2901,10 @@ Menu не доступена"</string>
     <string name="gemini_data_connection_progress_message">Подождите......</string>
     <string name="akp_installer_settings_title">Установщик APK</string>
     <string name="akp_installer_settings_summary">Установите APK-файл из памяти телефона и SD-карты</string>
-    <string name="launch_error">"Невозможно запустить данное приложение!"</string>
+    <string name="launch_error">Невозможно запустить данное приложение!</string>
     <string name="dlg_confirm_unmount_usb_title">Отключить USB-накопитель?</string>
     <string name="dlg_confirm_unmount_usb_text">В случае отключения USB-накопителя некоторые используемые приложения будут остановлены и могут оставаться недоступными до тех пор, пока данный USB-накопитель не будет подключен снова.</string>
-    <string name="dlg_error_unmount_usb_text">"Нельзя извлекать USB-накопитель. Повторите попытку позже."</string>
+    <string name="dlg_error_unmount_usb_text">Нельзя извлекать USB-накопитель. Повторите попытку позже.</string>
     <string name="unmount_usb_inform_text">USB-накопитель будет отключен</string>
     <string name="sd_eject_usbstorage">Отключить USB-накопитель</string>
     <string name="sd_eject_usbstorage_summary">Отключить внутренний USB-накопитель</string>
@@ -2933,4 +2918,55 @@ Menu не доступена"</string>
     <string name="sim_enter_pin_hints">(Введите 4-8 цифр)</string>
     <string name="ims_toggle_title">IMS</string>
     <string name="ims_toggle_summary">Активация сервиса IP Multimedia Subsystem</string>
+    <string name="phone_info_cpu_prada">quad-core 1.2GHz</string>
+    <string name="phone_info_memory_prada">1GB</string>
+    <string name="phone_info_storage_prada">4GB</string>
+    <string name="phone_info_cpu_s820">quad-core 1.2GHz</string>
+    <string name="phone_info_memory_s820">1GB</string>
+    <string name="phone_info_storage_s820">4GB</string>
+    <string name="phone_info_cpu_seine">quad-core 1.2GHz</string>
+    <string name="phone_info_memory_seine">1GB</string>
+    <string name="phone_info_storage_seine">4GB</string>
+    <string name="phone_info_cpu_snoopy">quad-core 1.5GHz</string>
+    <string name="phone_info_memory_snoopy">2GB</string>
+    <string name="phone_info_storage_snoopy">16GB</string>
+    <string name="ImaSoftID">ImaSoft</string>
+    <string name="phone_info_cpu_snoopytd">quad-core 1.5GHz</string>
+    <string name="phone_info_memory_snoopytd">2GB</string>
+    <string name="phone_info_storage_snoopytd">16GB</string>
+    <string name="lenovo_license_title">Лицензионное соглашение Lenovo</string>
+    <string name="lenovo_license_content">"Настоящее Лицензионное соглашение Lenovo (\ "Договор \") применяется в отношении каждого продукта Lenovo программное обеспечение, которое вы приобретаете, будь то предустановленная или включены с аппаратным продуктом Lenovo, приобретенные отдельно, или загрузить из с веб-сайта Lenovo или третий сторона он веб-сайт одобрен Lenovo. Это также относится к любым обновлений и патчей к этим программным продуктам.
+
+Lenovo будет лицензировать Программный продукт для Вас, только если Вы принимаете условия настоящего Соглашения. Вы согласны с условиями настоящего Соглашения, нажав принять его или устанавливая, копируя или используя Программный продукт.
+
+Если Вы не согласны с этими условиями, не устанавливайте, скачать, или использовать Программный продукт (ы).
+Если Вы приобрели Программный продукт (ы) и заплатил за лицензию, вернуть Программный продукт стороне, у которой Вы приобрели его, чтобы получить возврат или кредит на сумму, которую вы заплатили.
+Если Вы приобрели Программный продукт (ы) установленный на или снабженный аппаратного продукта Lenovo, Вы можете продолжать использовать аппаратный продукт, но не Программный продукт (ы), предусмотренных настоящим Соглашением.
+
+"<b>\" программный продукт \ "</b>" включает в себя компьютерные программы мобильных устройств (будь то предустановленной или предоставляется отдельно) и связанных с ними лицензионные материалы, такие как документация.
+"<b>\" Вы \ "</b> и <b> \" Ваш \ "</b>", относятся либо к конкретному лицу или одному юридическому лицу.
+"<b>1. Право </b>" 
+Вы должны поддерживать свой оригинальный товарный чек с датой сделки документ, например, товарный чек, накладная или аналогичного документа, как ваши доказательства Вашего права на использование программного продукта.Документ сделки определяет уровень использования приобретенных активов. Если уровень использования не указан, Вы можете установить и использовать одну копию Программного продукта на одном аппаратном продукте. Документ сделки также является свидетельством Вашего права на будущие обновления, если таковые имеются. Для программных продуктов, предустановленной на, входит или распространяться бесплатно для использования на аппаратном продукте Lenovo, ваше оборудование документ сделка купли-продажи также доказать свое право на использование программного продукта.
+"<b>2. Лицензия </b>"
+Программный продукт является собственностью компании Lenovo или поставщика Lenovo, и охраняется авторским правом и лицензируется, а не продается. Lenovo предоставляет Вам неисключительную лицензию на использование программного обеспечения продуктов, когда вы на законных основаниях приобрести его. Вы можете) использовать Программный продукт до уровня использования, указанного в документе сделки и б) сделать и установить копии, в том числе резервной копии, чтобы поддержать такое использование. Условия настоящего Соглашения применяются к каждой копии Вы делаете. Вы не можете удалять или изменять любые уведомления об авторских правах или легенды, связанные с владением. Если Вы приобретаете Программный продукт как обновление программы, после установки обновления Вы не можете использовать Программный продукт, из которого вы перешли или перенести его на другой стороне. Вы убедитесь, что любой, кто использует Программный продукт (доступ локально или удаленно) делает это только для авторизованного использования и соответствует условиям настоящего Соглашения. Вы можете не) использовать, копировать, изменять или распространять Программный продукт за исключением случаев, предусмотренных настоящим Соглашением; б) дизассемблировать, декомпилировать или иным образом транслировать Программный продукт за исключением случаев, особо оговоренных в законе, без возможности договорного отказа от прав; или 3) сублицензирование, прокат или аренду Программный продукт. Lenovo может аннулировать Вашу лицензию, если Вы не в состоянии выполнять условия данного соглашения. Если Lenovo делает это, Вы должны уничтожить все копии Программного продукта. Lenovo использует программу System Update для обновления программных продуктов на вашем компьютере. По умолчанию все критические обновления загружаются и устанавливаются автоматически. Обновления классифицируются как важно, когда они необходимы для того, чтобы компьютер нормально функционировать. Неправильная установка критических обновлений может привести к повреждению данных или убыток, крупного сбоя в работе системы или аппаратного сбоя. Например, критические обновления может включать в себя обновление для прошивки жесткого диска привод, обновление BIOS, исправление драйверов устройств или исправление для операционной системы или других предустановленного программного обеспечения. Вы можете отключить эту функцию автоматического изменив настройки программы System Update в любое время.
+"<b>3. Переносимость </b>"
+Вы не можете передавать или переуступать Программный продукт любой другой стороне, за исключением случаев, разрешенных в этом разделе. Предустановленные программные продукты лицензированы для использования только на аппаратном продукта Lenovo, на которых они предустановленной или в комплекте с и могут быть переданы только с этим аппаратным продуктом Lenovo. Они не могут быть переданы зависит от аппаратного продукта Lenovo.
+"<b>4. Сторонние программные продукты </b>"
+Некоторые программные сторонние продукты могут быть включены в, или загрузить на этом мобильном устройстве. Сторонние программные продукты, предоставляемые Lenovo, могут регулироваться условиями настоящего Соглашения, но, как правило, лицензию третьей стороны в соответствии с ее собственными правилами и условиями. Сторонние программные продукты, которые не лицензируются Lenovo подлежат исключительно с условиями их сопровождающих лицензионных соглашений. Сторонние программные продукты могут собирать вашу информацию. Убедитесь, что вы читаете эти лицензионные соглашения, прежде чем использовать третья сторона программных продуктов. <b>5. Технические характеристики Программного продукта </b>" Программные Характеристики и указанная информация операционная среда может быть найдено в документации, сопровождающей Программный продукт, если это возможно, например, README или аналогичным названием файла или иначе, опубликованной Lenovo.
+"<b>6. Обновление программного обеспечения </b>"
+При подключении к Интернету, мобильное устройство будет автоматически проверять обновления системы / обновления. Этот процесс будет вызывать некоторую передачу данных. Lenovo будет предоставлять обновления ПО / обновление пакетов на изменение ошибки или улучшить свои пользовательские интерфейсы время от времени.
+"<b>7. Сборы </b>"
+Плата за Программного продукта на основе уровня использования приобретенного. Если Вы хотите, чтобы повысить уровень использования, обратитесь в Lenovo или к стороне, у которой вы приобрели Программный продукт. Может взиматься дополнительная плата. Если какой-либо уполномоченные органы установят пошлины, налоги, взыскания или платежи, за исключением тех, которые основаны на чистой прибыли LenovoвЂ ™ с, на Программный продукт, то Вы соглашаетесь оплатить сумму, указанную или питания освобождения документации. Вы несете ответственность за каких-то личных налогов на недвижимость для Программного продукта, начиная с даты, которые Вы приобретаете его.
+"<b>" 8. Нет Гарантии
+Программный продукт (ы) предоставляются Вам \ "КАК ЕСТЬ \". С УЧЕТОМ ЛЮБЫХ ПРЕДУСМОТРЕННЫХ ЗАКОНОМ ГАРАНТИЙ, КОТОРЫЕ НЕЛЬЗЯ ИСКЛЮЧИТЬ, LENOVO НЕ ДАЕТ НИКАКИХ ГАРАНТИЙ ИЛИ УСЛОВИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ПОДРАЗУМЕВАЕМЫЕ ГАРАНТИИ ИЛИ УСЛОВИЯ ПРИГОДНОСТИ ДЛЯ КОНКРЕТНЫХ ЦЕЛЕЙ И ОТСУТСТВИЯ НАРУШЕНИЯ ПРАВ, В ОТНОШЕНИИ ПРОГРАММНОГО ПРОДУКТА или технической поддержки, если таковые имеются. "</b>" исключение также относится к любому из разработчиков и поставщиков LenovoвЂ ™ с. Поставщики и издатели не-Lenovo Программных продуктов могут предоставлять собственные гарантии. Lenovo не предоставляет техническую поддержку, если Lenovo не укажет иное в письменной форме.
+"<b>9. Ограничение ответственности </b>"
+Могут возникнуть обстоятельства, при которых, вследствие невыполнения обязательств со стороны Lenovo или по иной причине наступления ответственности, вы получите право на возмещение убытков от Lenovo. В каждом таком случае, независимо от основания, по которому вы имеете право требовать возмещения убытков от Lenovo (включая грубые нарушения, халатность, введение в заблуждение или иного договора или причинения вреда любому), за исключением случаев и в той мере, что ответственность не может быть отменено или ограничена в соответствии с применимым законы, Lenovo несет ответственность за не более чем в размере фактических прямых убытков, понесенных вами до суммы, уплаченной вами за программное обеспечение устройства. Это ограничение не относится к возмещению ущерба за причиненные телесные повреждения (включая смерть) и ущерб, причиненный недвижимому или материальному личному имуществу, за которые Lenovo требуется по закону ответственность. Это ограничение распространяется также на поставщиков и реселлеров Lenovo. Это максимум, для которых Lenovo, ее поставщиков и реселлеров, несут коллективную ответственность.
+"<b>НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ КОМПАНИЯ LENOVO, ЕЕ ПОСТАВЩИКИ И ТОРГОВЫЕ НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ЗА СЛЕДУЮЩИЕ ДАЖЕ ЕСЛИ О ВОЗМОЖНОСТИ: 1) требования третьих лиц ПРОТИВ ВАС ЗА УБЫТКИ; 2) утрату или повреждение ВАШИХ ДАННЫХ; ИЛИ 3) СПЕЦИАЛЬНЫЙ, СЛУЧАЙНЫЙ ИЛИ КОСВЕННЫЙ УЩЕРБ ИЛИ ЗА ЛЮБЫЕ ЭКОНОМИЧЕСКИЕ УБЫТКИ, включая упущенную выгоду, ДОХОД, РЕПУТАЦИИ, ожидаемых сбережений. НЕКОТОРЫХ ГОСУДАРСТВ ИЛИ ЮРИСДИКЦИИ НЕ ПОЗВОЛЯЮТ ИСКЛЮЧЕНИЕ ИЛИ ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ ЗА СЛУЧАЙНЫЙ ИЛИ КОСВЕННЫЙ УЩЕРБ, поэтому указанные выше ограничения ИЛИ ИСКЛЮЧЕНИЕ МОЖЕТ НЕ ОТНОСИТЬСЯ К ВАМ. </b> "
+"<b>10. прав потребителей </b>"
+Ничто в настоящем Соглашении не затрагивает каких-либо законных прав потребителей, которые не могут быть отменены или ограничены по договору. Вы можете иметь дополнительные права потребителя в соответствии с действующим местным законодательством, которое это соглашение не может изменить.
+"<b>11. Общие </b>"
+а) В том случае, если какое-либо положение настоящего Соглашения будет признано недействительным или неисполнимым, остальные положения настоящего Соглашения остаются в полной силе и действии.
+б) Вы обязуетесь соблюдать все применимые экспортные и импортные законов и правил.
+в) Ни Вы, ни Lenovo будет подать иск в рамках настоящего Соглашения более чем в два (2) года после возникновения основания для иска, если иное не предусмотрено местным законодательством без возможности договорного отказа или ограничения.
+"</string>
 </resources>
