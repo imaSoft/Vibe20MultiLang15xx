@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="timezone_filters">
+        <item>امریکہ</item>
+        <item>Europe</item>
+        <item>Africa</item>
+        <item>ایشیا</item>
+        <item>آسٹریلیا</item>
+        <item>بحرالکاھل</item>
+        <item>تمام</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 سیکنڈز</item>
+        <item>30 سیکنڈز</item>
+        <item>1 منٹ</item>
+        <item>2 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>30 منٹ</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>کبھی نہیں</item>
+        <item>15 سیکنڈز</item>
+        <item>30 سیکنڈز</item>
+        <item>1 منٹ</item>
+        <item>2 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>30 منٹ</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>جلدی</item>
+        <item>5 سیکنڈز</item>
+        <item>15 سیکنڈز</item>
+        <item>30 سیکنڈز</item>
+        <item>1 منٹ</item>
+        <item>2 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>30 منٹ</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>ننھا</item>
+        <item>چھوٹا</item>
+        <item>نارمل</item>
+        <item>بڑا</item>
+        <item>عظیم الجثہ</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>بہت آھستہ</item>
+        <item>آہستہ</item>
+        <item>نارمل</item>
+        <item>تیز</item>
+        <item>قدرے تیز</item>
+        <item>‏‫بہت تیز تر</item>
+        <item>بہت تیز</item>
+        <item>انتہائی تیز‬</item>
+        <item>تیز ترین</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>بہت کم</item>
+        <item>کم</item>
+        <item>معمولی</item>
+        <item>زیادہ</item>
+        <item>بہت زیادہ</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>سکین کر رہا ہے۔۔۔۔</item>
+        <item>جڑ رہا ہے</item>
+        <item>تصدیق کررہا ہے…</item>
+        <item>IP پتہ حاصل کررہا ہے…</item>
+        <item>منسلک ہوگیا</item>
+        <item>معطل</item>
+        <item>کنیکشن توڑ رہا ہے۔۔۔</item>
+        <item>غیر منسلک ہو گیا</item>
+        <item>ناکام</item>
+        <item>بلاک شدہ۔</item>
+        <item>آپ کے انٹرنیٹ کنکشن کی کوالٹی کی پڑتال کی جارہی ہے…</item>
+        <item>منسلک ہوگیا۔</item>
+        <item>CW Disconnected</item>
+        <item>CW Registering</item>
+        <item>CW Registered</item>
+        <item>CW Register Fail</item>
+        <item>CW PPP Setup</item>
+        <item>CW PPP Fail</item>
+        <item>CW Deiniting</item>
+        <item>CW Ready</item>
+        <item>CW Stopping WLAN</item>
+        <item>Connected. CW Register Fail.</item>
+        <item>Connected. CW PPP Fail.</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>سکین کر رہا ہے۔۔۔۔</item>
+        <item>%s سے متصل کررہا ہے…</item>
+        <item>%s کے ساتھ توثیق کاری جاری…</item>
+        <item>IP پتہ %s سے حاصل کررہا ہے…</item>
+        <item>%1$s سے جڑگیا۔</item>
+        <item>معطل</item>
+        <item>%s سے غیر متصل کررہا ہے…</item>
+        <item>غیر منسلک ہو گیا</item>
+        <item>ناکام</item>
+        <item>بلاک شدہ۔</item>
+        <item>آپ کے انٹرنیٹ کنکشن کی کوالٹی کی پڑتال کی جارہی ہے…</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>کھولیں</item>
+        <item>WAPI سند</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI سند</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>کھولیں</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>پش بٹن</item>
+        <item>پیئر آلہ سے پن</item>
+        <item>اس آلہ سے پن</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>منسلک ہوگیا۔</item>
+        <item>مدعو کیا۔</item>
+        <item>کنکشن ناکام ہوگیا</item>
+        <item>مربوط ہونے کیلئے یہاں تھپکی دیں۔</item>
+        <item>حدد سے زیادہ۔</item>
+        <item>کسی دوسرے آلے سے جڑا ہوا</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 منٹ</item>
+        <item>5 منٹ</item>
+        <item>1 گھنٹہ</item>
+        <item>ہر گز وقت ختم نہ ہو</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>کمزور</item>
+        <item>مناسب</item>
+        <item>اچھا</item>
+        <item>طاقتور</item>
+        <item>بہت طاقتور</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>ھمیشہ</item>
+        <item>صرف جب پلگ ان کیا گیا ہو</item>
+        <item>ہر گز نہیں (ڈیٹا کا استعمال بڑھاتا ہے)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>ھمیشہ</item>
+        <item>صرف جب پلگ ان کیا گیا ہو</item>
+        <item>کبھی نہیں</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>آٹو</item>
+        <item>صرف 5 GHz</item>
+        <item>صرف 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>استعمال کا وقت</item>
+        <item>چالو کرنے کی گنتی</item>
+        <item>ایپلیکیشن نام</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>نہیں</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>نہیں</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>جامد</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>نہیں</item>
+        <item>مینوئل</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>آف</item>
+        <item>تنبیہ</item>
+        <item>تھرتھرانا</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>نہیں</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP یا CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>ipv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>غیر بیانی</item>
+    </string-array>
+    <string-array name="mvno_type_entries">
+        <item>نہیں</item>
+        <item>SPN</item>
+        <item>IMSI</item>
+        <item>GID</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>آلہ کا داخلی ذخیرہ</item>
+        <item>قابل حمل SD کارڈ</item>
+        <item>طے شدہ</item>
+    </string-array>
+    <string-array name="app_ops_categories">
+        <item>لوکیشن</item>
+        <item>ذاتی</item>
+        <item>پیغام</item>
+        <item>میڈیا</item>
+        <item>آلہ</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>coarse location</item>
+        <item>fine location</item>
+        <item>GPS</item>
+        <item>تھرتھرانا</item>
+        <item>رابطہ افراد پڑھیں</item>
+        <item>modify contacts</item>
+        <item>کال لاگ پڑھیں</item>
+        <item>modify call log</item>
+        <item>read calendar</item>
+        <item>modify calendar</item>
+        <item>wi-fi scan</item>
+        <item>اطلاع</item>
+        <item>cell scan</item>
+        <item>call phone</item>
+        <item>read SMS</item>
+        <item>write SMS</item>
+        <item>SMS وصول کریں۔</item>
+        <item>receive emergency SMS</item>
+        <item>receive MMS</item>
+        <item>receive WAP push</item>
+        <item>ایس ایم ایس بھیجیں</item>
+        <item>read ICC SMS</item>
+        <item>write ICC SMS</item>
+        <item>modify settings</item>
+        <item>draw on top</item>
+        <item>اطلاعات تک رسائی حاصل کریں</item>
+        <item>کیمرہ</item>
+        <item>آڈیو ریکارڈ کریں</item>
+        <item>play audio</item>
+        <item>read clipboard</item>
+        <item>modify clipboard</item>
+        <item>media buttons</item>
+        <item>audio focus</item>
+        <item>master volume</item>
+        <item>voice volume</item>
+        <item>ٹون کا والیم</item>
+        <item>میڈیا والیوم</item>
+        <item>الارم کا والیوم</item>
+        <item>notification volume</item>
+        <item>bluetooth volume</item>
+        <item>keep awake</item>
+        <item>monitor location</item>
+        <item>monitor high power location</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>لوکیشن</item>
+        <item>لوکیشن</item>
+        <item>لوکیشن</item>
+        <item>تھرتھرانا</item>
+        <item>رابطہ افراد پڑھیں</item>
+        <item>Modify contacts</item>
+        <item>کال لاگ پڑھیں</item>
+        <item>Modify call log</item>
+        <item>Read calendar</item>
+        <item>Modify calendar</item>
+        <item>لوکیشن</item>
+        <item>Post notification</item>
+        <item>لوکیشن</item>
+        <item>Call phone</item>
+        <item>Receive SMS/MMS</item>
+        <item>Send SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>Receive SMS/MMS</item>
+        <item>SMS/MMS بھیجیں</item>
+        <item>Receive SMS/MMS</item>
+        <item>SMS/MMS بھیجیں</item>
+        <item>Modify settings</item>
+        <item>Draw on top</item>
+        <item>اطلاعات تک رسائی حاصل کریں</item>
+        <item>کیمرہ</item>
+        <item>آڈیو ریکارڈ کریں</item>
+        <item>Play audio</item>
+        <item>Read clipboard</item>
+        <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>ٹون کا والیم</item>
+        <item>میڈیا والیوم</item>
+        <item>الارم کا والیوم</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>لوکیشن</item>
+        <item>Location</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>چھوٹا</item>
+        <item>درمیانہ</item>
+        <item>لمبا</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>ڈیفالٹ</item>
+        <item>Sans serif</item>
+        <item>Sans serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>بہت چھوٹا</item>
+        <item>چھوٹا</item>
+        <item>نارمل</item>
+        <item>بڑا</item>
+        <item>بہت بڑا</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>نہیں</item>
+        <item>آوٹ لاؤین</item>
+        <item>ڈراپ شیڈو</item>
+    </string-array>
+    <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>سیاہ پر سفید</item>
+        <item>سفید پر کالا</item>
+        <item>سیاہ پر زرد</item>
+        <item>نیلے پر زرد</item>
+        <item>کسٹم</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>آرٹ</item>
+        <item>ART (debug)</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>کبھی پڑتال مت کریں</item>
+        <item>صرف DRM مشمول کے لئے پڑتال کریں</item>
+        <item>ھمیشہ پڑتال کریں</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>HDCP پڑتال ہر گز استعمال نہ کریں</item>
+        <item>DRM مشمول کے لئے صرف HDCP پڑتال استعمال کریں</item>
+        <item>ھمیشہ HDCP پڑتال استعمال کریں</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>حرکت اندازی آف ہے</item>
+        <item>حرکت اندازی پیمانہ 0.5x</item>
+        <item>حرکت اندازی پیمانہ 1x</item>
+        <item>حرکت اندازی پیمانہ 1.5x</item>
+        <item>حرکت اندازی پیمانہ 2x</item>
+        <item>حرکت اندازی پیمانہ 5x</item>
+        <item>حرکت اندازی پیمانہ 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>حرکت اندازی آف ہے</item>
+        <item>حرکت اندازی پیمانہ 0.5x</item>
+        <item>حرکت اندازی پیمانہ 1x</item>
+        <item>حرکت اندازی پیمانہ 1.5x</item>
+        <item>حرکت اندازی پیمانہ 2x</item>
+        <item>حرکت اندازی پیمانہ 5x</item>
+        <item>حرکت اندازی پیمانہ 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>حرکت اندازی آف ہے</item>
+        <item>حرکت اندازی پیمانہ 0.5x</item>
+        <item>حرکت اندازی پیمانہ 1x</item>
+        <item>حرکت اندازی پیمانہ 1.5x</item>
+        <item>حرکت اندازی پیمانہ 2x</item>
+        <item>حرکت اندازی پیمانہ 5x</item>
+        <item>حرکت اندازی پیمانہ 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>نہیں</item>
+        <item>720x480 mdpi</item>
+        <item>720x480 mdpi (secure)</item>
+        <item>1280x720 tvdpi</item>
+        <item>1280x720 tvdpi (secure)</item>
+        <item>1920x1080 xhdpi</item>
+        <item>1920x1080 xhdpi (secure)</item>
+        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>نہیں</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>آف</item>
+        <item>غیر مستطیلی کلپس کی سطحات نیلے رنگ میں نمایاں کریں</item>
+        <item>جانچ کردہ ڈرائینگ احکامات سبز رنگ میں نمایاں کریں</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>چھپانا</item>
+        <item>اسکرین پر بطور بار دکھائیں</item>
+        <item>اسکرین پر بطور لکیر دکھائیں</item>
+        <item>adb shell dumpsys gfxinfo میں دکھائیں</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>آف</item>
+        <item>اوور ڈرا علاقے دکھائیں</item>
+        <item>ڈیوٹیراناملی والے لوگوں کیلئے علاقے دکھائیں</item>
+        <item>اور ڈرا انسداد دکھائیں</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>معیاری حد</item>
+        <item>کوئی پس منظر عملیات نہیں</item>
+        <item>زیادہ سے زیادہ 1 عمل</item>
+        <item>زیادہ سے زیادہ 2 عملیات</item>
+        <item>زیادہ سے زیادہ 3 عملیات</item>
+        <item>زیادہ سے زیادہ 4 عملیات</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>پیش-شراکت کردہ کلیدوں کے ساتھ L2TP/IPSec VPN</item>
+        <item>تصدیق ناموں کے ساتھ L2TP/IPSec VPN</item>
+        <item>IPSec VPN پیش شراکت کردہ کلیدوں اور XAuth توثیق کاری کے ساتھ</item>
+        <item>IPSec VPN تصدیق ناموں اور XAuth توثیق کاری کے ساتھ</item>
+        <item>IPSec VPN تصدیق ناموں اور مختلف ماخذ توثیق کاری کے ساتھ</item>
+        <item>IKEv2 کے ساتھ IPSec VPN اور پہلے سے اشتراک کردہ کی پر مبنی توثیق</item>
+        <item>IKEv2 کے ساتھ IPSec VPN اور سرٹیفیکیٹ پر مبنی توثیق</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>غیر متصل ہوگیا</item>
+        <item>فہرست شروع ہو رہی ہے</item>
+        <item>جڑ رہا ہے</item>
+        <item>منسلک ہوگیا۔</item>
+        <item>ٹائم آؤٹ۔</item>
+        <item>ناکام</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>پوچھیں</item>
+        <item>کبھی اجازت مت دیں</item>
+        <item>ھمیشہ اجازت دیں</item>
+    </string-array>
+    <string-array name="ram_states">
+        <item>نارمل</item>
+        <item>اعتدال میں</item>
+        <item>کم</item>
+        <item>critical</item>
+    </string-array>
+    <string-array name="auto_time_entries">
+        <item>نیٹورک کا فراہم کردہ وقت استعمال کریں</item>
+        <item>GPS کا فراہم کردہ وقت استعمال کریں</item>
+        <item>بند</item>
+    </string-array>
+    <string-array name="wifi_security_wfa">
+        <item>کھلا</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>WAPI سند</item>
+    </string-array>
+    <string-array name="wpa_security">
+        <item>کھلا</item>
+        <item>WEP</item>
+        <item>WPA/WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wpa_security_wfa">
+        <item>کھلا</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+    </string-array>
+    <string-array name="wapi_security">
+        <item>کھلا</item>
+        <item>WAPI PSK</item>
+        <item>WAPI سند</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(واضح نہيں کیا گيا)</item>
+        <item>Sim خانہ 1</item>
+        <item>Sim خانہ 2</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>خودکار</item>
+        <item>WEP ASCII</item>
+        <item>WEP ہیکساڈیسیمل</item>
+    </string-array>
+    <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>ہمیشہ</item>
+        <item>اگر 5 منٹ کے لیے فارغ ہو تو بند کر دیں</item>
+        <item>اگر 10 منٹ کے لیے فارغ ہو تو بند کر دیں</item>
+    </string-array>
+    <string-array name="wifi_ap_wps_mode_entries">
+        <item>پش بٹن</item>
+        <item>کلائنٹ کی جانب سے PIN</item>
+    </string-array>
+    <string-array name="wifi_ap_max_connection_entries">
+        <item>1 صارف</item>
+        <item>2 صارفین</item>
+        <item>3 صارفین</item>
+        <item>4 صارفین</item>
+        <item>5 صارفین</item>
+        <item>6 صارفین</item>
+        <item>7 صارفین</item>
+        <item>8 صارفین</item>
+    </string-array>
+    <string-array name="wifi_network_setup">
+        <item>آف</item>
+        <item>پش بٹن</item>
+        <item>نقطہ رسائی سے پن</item>
+        <item>اس آلہ سے پن</item>
+    </string-array>
+    <string-array name="silent_mode_entries">
+        <item>آواز</item>
+        <item>تھرتھرانا</item>
+        <item>آواز بند</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>خودکار طور پر متصل</item>
+        <item>دستی طور پر متصل کریں</item>
+        <item>ہمیشہ پوچھیں</item>
+    </string-array>
+</resources>

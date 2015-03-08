@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="actionBarHideAndExtendStatusBar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowTitleSize">0.0dip</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="DialogTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="DefaultTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+    <style name="Theme.Translucent.NoTitleBar" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+</resources>
