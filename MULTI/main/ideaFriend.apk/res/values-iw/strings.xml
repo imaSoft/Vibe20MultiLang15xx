@@ -289,8 +289,6 @@
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">עכשיו להתקין apk.</string>
     <string name="SUS_BTN_UPDATINGPROMPT">עכשיו מעדכן ...</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">דוא\"ל בית</string>
     <string name="email_mobile">נייד דוא\"ל</string>
     <string name="email_work">עבודת דוא\"ל</string>
@@ -2325,6 +2323,8 @@ Incompleted: %d"</string>
     <string name="callDetailsDurationNotConnected">שאינו קשור</string>
     <string name="calllog_list_item_view_other_card">כרטיס אחר</string>
     <string name="notification_multiple">%s הודעות שלא נקראו.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc כל הזכויות שמורות
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">המערכת תמחק הודעה זו!</string>

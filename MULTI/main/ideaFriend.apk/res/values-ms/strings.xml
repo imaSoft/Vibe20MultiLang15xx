@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">Versi Terkini</string>
     <string name="SUS_FIND_NEW_VERSION">Versi Baharu Tersedia untuk Anda~~</string>
     <string name="app_name">PengurusKenalan</string>
-    <string name="author">PengurusKenalan</string>
-    <string name="description">PengurusKenalan</string>
     <string name="email_home">E-mel rumah</string>
     <string name="email_mobile">E-mel mudah alih</string>
     <string name="email_work">E-mel kerja</string>
@@ -251,51 +249,51 @@
     <string name="noContactsHelpTextForCreateShortcut">Anda tiada kenalan untuk dipaparkan.</string>
     <string name="noContactsHelpText">"Anda tiada kenalan untuk dipaparkan.
 
-Untuk menambah kenalan, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", kemudian sentuh:
+Untuk menambah kenalan, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", kemudian sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kenalan baru untuk mencipta kenalan baru dari mula
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Eksport untuk mengimport kenalan daripada kad %s atau SD anda
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kenalan baru untuk mencipta kenalan baru dari mula
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport untuk mengimport kenalan daripada kad %s atau SD anda
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Anda tiada kenalan untuk dipaparkan. (JIka anda hanya menambah akaun, beberapa minit diperlukan untuk menyegerakkan kenalan.)
 
-Untuk menambah kenalan, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", kemudian sentuh:
+Untuk menambah kenalan, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", kemudian sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opsyen paparan untuk menukar kenalan yang kelihatan
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kenalan baru untuk mencipta kenalan baru dari mula
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Eksport untuk mengimport kenalan daripada kad %s atau SD anda
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opsyen paparan untuk menukar kenalan yang kelihatan
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kenalan baru untuk mencipta kenalan baru dari mula
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport untuk mengimport kenalan daripada kad %s atau SD anda
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Anda tiada kenalan untuk dipaparkan.
 
-Untuk menambah kenalan, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", kemudian sentuh:
+Untuk menambah kenalan, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", kemudian sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kenalan baru untuk mencipta kenalan baru dari mula
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Eksport untuk mengimport kenalan daripada kad SD anda
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kenalan baru untuk mencipta kenalan baru dari mula
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport untuk mengimport kenalan daripada kad SD anda
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Anda tiada kenalan untuk dipaparkan. (JIka anda hanya menambah akaun, beberapa minit diperlukan untuk menyegerakkan kenalan.)
 
-Untuk menambah kenalan, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", kemudian sentuh:
+Untuk menambah kenalan, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", kemudian sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opsyen paparan untuk menukar kenalan yang kelihatan
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kenalan baru untuk mencipta kenalan baru dari mula
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Import/Eksport untuk mengimport kenalan daripada kad SD anda
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akaun untuk menambah atau menyediakan akaun dengan kenalan yang anda boleh segerakkan ke telefon
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opsyen paparan untuk menukar kenalan yang kelihatan
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kenalan baru untuk mencipta kenalan baru dari mula
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Import/Eksport untuk mengimport kenalan daripada kad SD anda
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"Anda tiada sebarang kegemaran.
 
@@ -2013,4 +2011,6 @@ Operasi sebelah tangan menjadikannya mudah seperti yang anda inginkan"</string>
     <string name="sensor_keyboard_close">Papan kekunci merkuri dimatikan. Luncurkan papan kekunci dengan cepat ke kanan untuk menghidupkan!</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s mesej belum dibaca.</string>
+    <string name="author">PengurusKenalan</string>
+    <string name="description">PengurusKenalan</string>
 </resources>

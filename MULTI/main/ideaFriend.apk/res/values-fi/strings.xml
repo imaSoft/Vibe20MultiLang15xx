@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Uusi versio saatavilla: U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Asennetaan sovellusta.</string>
     <string name="app_name">Yhteystietojen hallinta</string>
-    <string name="author">Yhteystietojen hallinta</string>
-    <string name="description">Yhteystietojen hallinta</string>
     <string name="email_home">Lähetä sähköpostia kotiosoitteeseen</string>
     <string name="email_mobile">Lähetä sähköpostia mobiiliosoitteeseen</string>
     <string name="email_work">Lähetä sähköpostia työosoitteeseen</string>
@@ -254,48 +252,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Ei näytettäviä yhteystietoja.</string>
     <string name="noContactsHelpText">"Ei näytettäviä yhteystietoja.
 
-Lisää yhteystietoja koskettamalla "<b><font fgcolor="#ffffffff">Valikko</font></b>" ja koskettamalla:
+Lisää yhteystietoja koskettamalla "<font fgcolor="#ffffffff"><b>Valikko</b></font>" ja koskettamalla:
  
-"<b><font fgcolor="#ffffffff"><li>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tuo/Vie tuodaksesi yhteystietoja SIM- tai SD-kortiltasi
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tuo/Vie tuodaksesi yhteystietoja SIM- tai SD-kortiltasi
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Ei näytettäviä yhteystietoja. (Jos lisäsit tilin äskettäin, yhteystietojen synkronointi voi kestää muutaman minuutin.)
 
-Lisää yhteystietoja koskettamalla "<b><font fgcolor="#ffffffff">Valikko</font></b>" ja koskettamalla:
+Lisää yhteystietoja koskettamalla "<font fgcolor="#ffffffff"><b>Valikko</b></font>" ja koskettamalla:
  
-"<b><font fgcolor="#ffffffff"><li>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Näyttövalinnat muuttaaksesi sitä, mitkä yhteystiedot ovat näkyvissä
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tuo/Vie tuodaksesi yhteystietoja SIM- tai SD-kortiltasi
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Näyttövalinnat muuttaaksesi sitä, mitkä yhteystiedot ovat näkyvissä
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tuo/Vie tuodaksesi yhteystietoja SIM- tai SD-kortiltasi
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Ei näytettäviä yhteystietoja.
 
-Voit lisätä yhteystietoja koskettamalla "<b><font fgcolor="#ffffffff">Valikko</font></b>" ja koskettamalla:
+Voit lisätä yhteystietoja koskettamalla "<font fgcolor="#ffffffff"><b>Valikko</b></font>" ja koskettamalla:
  
-"<b><font fgcolor="#ffffffff"><li>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tuo/Vie tuodaksesi yhteystietoja SD-kortiltasi
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tuo/Vie tuodaksesi yhteystietoja SD-kortiltasi
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Ei näytettäviä yhteystietoja. (Jos lisäsit tilin äskettäin, yhteystietojen synkronointi voi kestää muutaman minuutin.
 
-Lisää yhteystietoja koskettamalla "<b><font fgcolor="#ffffffff">Valikko</font></b>" ja koskettamalla:
+Lisää yhteystietoja koskettamalla "<font fgcolor="#ffffffff"><b>Valikko</b></font>" ja koskettamalla:
  
-"<b><font fgcolor="#ffffffff"><li>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Näyttövalinnat muuttaaksesi sitä, mitkä yhteystiedot ovat näkyvissä
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Tuo/Vie tuodaksesi yhteystietoja SD-kortiltasi
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Tilit lisätäksesi tilin tai muokataksesi tiliä, jonka yhteystiedot voit synkronoida puhelimen kanssa
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Näyttövalinnat muuttaaksesi sitä, mitkä yhteystiedot ovat näkyvissä
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uusi yhteystieto luodaksesi uudet yhteystiedot alusta alkaen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Tuo/Vie tuodaksesi yhteystietoja SD-kortiltasi
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Sinulla ei ole suosikkeja.
 
 Yhteystiedon lisääminen suosikkeihin:
@@ -1998,6 +1996,8 @@ Yhden käden käyttötilassa se sujuu helposti"</string>
     <string name="sensor_keyboard_close">"Mercury-näppäimistö ei ole käytössä. Ota se käyttöön liu'uttamalla näppäimistöä oikealle."</string>
     <string name="telecom_menu_call">Yi-valinta</string>
     <string name="notification_multiple">%s lukematonta viestiä.</string>
+    <string name="author">Yhteystietojen hallinta</string>
+    <string name="description">Yhteystietojen hallinta</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc Kaikki oikeudet pidätetään
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Järjestelmä poistaa tämän viestin.</string>

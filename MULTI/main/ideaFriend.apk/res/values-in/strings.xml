@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">Versi Terbaru</string>
     <string name="SUS_FIND_NEW_VERSION">Ada Versi Baru untuk Anda~~</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">Email rumah</string>
     <string name="email_mobile">Email ponsel</string>
     <string name="email_work">Email kantor</string>
@@ -251,51 +249,51 @@
     <string name="noContactsHelpTextForCreateShortcut">Anda tidak memiliki kontak untuk ditampilkan.</string>
     <string name="noContactsHelpText">"Anda tidak memiliki kontak untuk ditampilkan.
 
-Untuk menambahkan kontak, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", lalu sentuh:
+Untuk menambahkan kontak, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", lalu sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kontak baru untuk membuat kontak baru dari awal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Impor/Ekspor untuk mengimpor kontak dari kartu %s atau SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kontak baru untuk membuat kontak baru dari awal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Impor/Ekspor untuk mengimpor kontak dari kartu %s atau SD
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Anda tidak memiliki kontak untuk ditampilkan. (Jika Anda baru menambahkan akun, perlu waktu beberapa menit untuk sinkr kontak.)
 
-Untuk menambahkan kontak, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", lalu sentuh:
+Untuk menambahkan kontak, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", lalu sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opsi display untuk mengubah kontak mana yang terlihat
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kontak baru untuk membuat kontak baru dari awal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Impor/Ekspor untuk mengimpor kontak dari kartu %s atau SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opsi display untuk mengubah kontak mana yang terlihat
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kontak baru untuk membuat kontak baru dari awal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Impor/Ekspor untuk mengimpor kontak dari kartu %s atau SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Anda tidak memiliki kontak untuk ditampilkan.
 
-Untuk menambahkan kontak, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", lalu sentuh:
+Untuk menambahkan kontak, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", lalu sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kontak baru untuk membuat kontak baru dari awal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Impor/Ekspor untuk mengimpor kontak dari kartu SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kontak baru untuk membuat kontak baru dari awal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Impor/Ekspor untuk mengimpor kontak dari kartu SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Anda tidak memiliki kontak untuk ditampilkan. (Jika Anda baru menambahkan akun, perlu waktu beberapa menit untuk sinkr kontak.)
 
-Untuk menambahkan kontak, sentuh "<font fgcolor="#ffffffff"><b>Menu</b></font>", lalu sentuh:
+Untuk menambahkan kontak, sentuh "<b><font fgcolor="#ffffffff">Menu</font></b>", lalu sentuh:
  
-"<li><font fgcolor="#ffffffff"><b>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opsi display untuk mengubah kontak mana yang terlihat
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Kontak baru untuk membuat kontak baru dari awal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Impor/Ekspor untuk mengimpor kontak dari kartu SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Akun untuk menambah atau mengatur akun dengan kontak yang dapat disinkronkan ke ponsel
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opsi display untuk mengubah kontak mana yang terlihat
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kontak baru untuk membuat kontak baru dari awal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Impor/Ekspor untuk mengimpor kontak dari kartu SD
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"Anda tidak memiliki favorit.
 
@@ -2013,4 +2011,6 @@ Pengoperasian satu tangan membuatnya semudah keinginan Anda"</string>
     <string name="sensor_keyboard_close">Keyboard merkuri nonaktif. Geser cepat keyboard ke kanan agar aktif!</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s pesan yang belum dibaca.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
 </resources>

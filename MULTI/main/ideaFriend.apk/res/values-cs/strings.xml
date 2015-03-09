@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">K dispozici je nová verze, vážený.</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Instalace aplikací.</string>
     <string name="app_name">Správce kontaktů</string>
-    <string name="author">Správce kontaktů</string>
-    <string name="description">Správce kontaktů</string>
     <string name="email_home">E-mail domů</string>
     <string name="email_mobile">E-mail na mobil</string>
     <string name="email_work">E-mail do práce</string>
@@ -254,48 +252,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Nemáte uloženy žádné kontakty, které by bylo možno zobrazit.</string>
     <string name="noContactsHelpText">"Nemáte žádné kontakty, které by bylo možné zobrazit.
 
-Chcete-li přidat kontakty, dotkněte se možnosti "<b><font fgcolor="#ffffffff">Menu</font></b>", potom se dotkněte položky:
+Chcete-li přidat kontakty, dotkněte se možnosti "<font fgcolor="#ffffffff"><b>Menu</b></font>", potom se dotkněte položky:
  
-"<b><font fgcolor="#ffffffff"><li>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nový kontakt, pokud chcete vytvořit zcela nový kontakt;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importovat nebo exportovat, pokud chcete importovat kontakty ze SIM karty nebo SD.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nový kontakt, pokud chcete vytvořit zcela nový kontakt;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importovat nebo exportovat, pokud chcete importovat kontakty ze SIM karty nebo SD.
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Nemáte žádné kontakty, které by bylo možné zobrazit. (Pokud jste právě přidali účet, může synchronizace kontaktů trvat několik minut.)
 
-Chcete-li přidat kontakty, dotkněte se možnosti "<b><font fgcolor="#ffffffff">Menu</font></b>" a potom se dotkněte položky:
+Chcete-li přidat kontakty, dotkněte se možnosti "<font fgcolor="#ffffffff"><b>Menu</b></font>" a potom se dotkněte položky:
  
-"<b><font fgcolor="#ffffffff"><li>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Možnosti zobrazení, pokud chcete změnit, které kontakty budou zobrazeny;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nový kontakt, pokud chcete vytvořit úplně nový kontakt;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importovat nebo exportovat, pokud chcete importovat kontakty ze SIM karty nebo SD.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Možnosti zobrazení, pokud chcete změnit, které kontakty budou zobrazeny;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nový kontakt, pokud chcete vytvořit úplně nový kontakt;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importovat nebo exportovat, pokud chcete importovat kontakty ze SIM karty nebo SD.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Nemáte žádné kontakty, které by bylo možné zobrazit.
 
-Chcete-li přidat kontakty, dotkněte se možnosti "<b><font fgcolor="#ffffffff">Menu</font></b>", potom se dotkněte položky:
+Chcete-li přidat kontakty, dotkněte se možnosti "<font fgcolor="#ffffffff"><b>Menu</b></font>", potom se dotkněte položky:
  
-"<b><font fgcolor="#ffffffff"><li>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nový kontakt, pokud chcete vytvořit zcela nový kontakt;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importovat nebo exportovat, pokud chcete importovat kontakty z karty SD.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nový kontakt, pokud chcete vytvořit zcela nový kontakt;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importovat nebo exportovat, pokud chcete importovat kontakty z karty SD.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Nemáte žádné kontakty, které by bylo možné zobrazit. (Pokud jste právě přidali účet, může synchronizace kontaktů trvat několik minut.)
 
-Chcete-li přidat kontakty, dotkněte se možnosti "<b><font fgcolor="#ffffffff">Menu</font></b>" a potom se dotkněte položky:
+Chcete-li přidat kontakty, dotkněte se možnosti "<font fgcolor="#ffffffff"><b>Menu</b></font>" a potom se dotkněte položky:
  
-"<b><font fgcolor="#ffffffff"><li>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Možnosti zobrazení, pokud chcete změnit, které kontakty budou zobrazeny;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nový kontakt, pokud chcete vytvořit úplně nový kontakt;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importovat nebo exportovat, pokud chcete importovat kontakty z karty SD.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Účty, pokud chcete přidat nebo nastavit účet a kontakty v něm synchronizovat s telefonem;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Možnosti zobrazení, pokud chcete změnit, které kontakty budou zobrazeny;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nový kontakt, pokud chcete vytvořit úplně nový kontakt;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importovat nebo exportovat, pokud chcete importovat kontakty z karty SD.
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Nemáte žádné oblíbené kontakty.
 
 Přidání kontaktu do seznamu oblíbených:
@@ -2014,6 +2012,8 @@ Jednoruční ovládání to usnadňuje podle vašeho přání"</string>
     <string name="multichoice_vcards_limit_tips">"Probíhá import více souborů, proces může chvíli trvat. Neprovádějte během procesu žádné jiné aktivity v kontaktech, po dokončení se zobrazí zpráva. Čekejte prosím! "</string>
     <string name="import_vcards_complete_tips">Import byl dokončen!</string>
     <string name="notification_multiple">Nepřečtené zprávy: %s.</string>
+    <string name="author">Správce kontaktů</string>
+    <string name="description">Správce kontaktů</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc. Všechna práva vyhrazena
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Systém tuto zprávu odstraní!</string>

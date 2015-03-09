@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Osnovni podaci</string>
     <string name="app_name">Upravljanje kontaktima</string>
-    <string name="author">Upravljanje kontaktima</string>
-    <string name="description">Upravljanje kontaktima</string>
     <string name="email_home">Pošalji poruku e-pošte na kućnu adresu e-pošte</string>
     <string name="email_mobile">Pošalji poruku e-pošte na broj mobilnog telefona</string>
     <string name="email_work">Pošalji poruku e-pošte na poslovni broj telefona</string>
@@ -81,13 +80,11 @@
     <string name="spinner_title_sms_black">Presretni tekst</string>
     <string name="spinner_title_contact_black">Crna lista</string>
     <string name="menu_show_sdn">Broj servisa</string>
-    <string name="cvaa_search">pretraži</string>
-    <string name="cvaa_cancel">Otkaži</string>
-    <string name="cvaa_help">pomoć</string>
-    <string name="cvaa_email">E-pošta</string>
-    <string name="cvaa_checked">izabrano</string>
-    <string name="cvaa_uncheck">nije potvrđeno</string>
-    <string name="cvaa_contact_edit_photo_img_desc">slika</string>
+    <string name="guide_info_go_into_programm">Pokreni program</string>
+    <string name="quotation_marks">:</string>
+    <string name="millionbyte">MB</string>
+    <string name="byteunit">B</string>
+    <string name="callog_display_style">Metod prikaza evidencije poziva</string>
     <string name="launcherDialer">Pozivanje</string>
     <string name="people">Kontakti</string>
     <string name="contactsList">Kontakti</string>
@@ -216,95 +213,6 @@
     <string name="simContacts_title">Kontakti kartice%s</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">Nije moguće prikazati kontakte zato što ih nemate. (Ako ste upravo dodali nalog, postupak sinhronizacije kontakata može da potraje nekoliko minuta.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Nema kontakata za prikaz</string>
-    <string name="noContactsHelpText_tablet">"Nema kontakata za prikaz. 
-
-Da biste dodali kontakte, dodirnite , i potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
-
-Napravite novi kontakt
-
-Uvezite kontakte sa vaše %s kartice ili SIM kartice
-"</string>
-    <string name="noContactsHelpText_default">"Nema kontakata za prikaz. 
-
-Da biste dodali kontakt, dodirnite , i potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
-
-Napravite novi kontakt
-
-Uvezite kontakte sa vaše %s kartice ili SIM kartice
-"</string>
-    <string name="noContactsHelpTextWithSync_tablet">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
-
-Da biste dodali kontakte, dodirnite , i potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
-
-Izmenite koji kontakti su vidljivi
-
-Napravite novi kontakt
-
-Uvezite kontakte sa vaše %s  kartice ili SD kartice
-"</string>
-    <string name="noContactsHelpTextWithSync_default">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
-
-Da biste dodali kontakte, dodirnite 
-
-, potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
-
-Izmenite koji kontakti su vidljivi
-
-CNapravite novi kontaktUvezite kontakte sa vaše  %s kartice ili SD kartice
-"</string>
-    <string name="noContactsNoSimHelpText_tablet">"Nema kontakata za prikaz. 
-
-Da biste dodali kontakte, dodirnite \"
-\", i potom: \"
-
-\"da dodate ili podesite nalog sa kontaktima koje možete da sinhronizujete sa tabletom\"
-
-\"da napravite novi kontakt\"
-
-\"da uvezete kontakte sa SD kartice\"
-"</string>
-    <string name="noContactsNoSimHelpText_default">"Nema kontakata za prikaz. 
-
-Da biste dodali kontakte, dodirnite 
-
-, potom: 
-
-Dodajte ili podesite nalog sa kontaktima koje možete da sinhronizujete sa telefonom
-
-Napravite novi kontaktUvezite kontakte sa SD kartice
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync_tablet">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
-
-Da biste dodali kontakte, dodirnite 
-
-, potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
-
-Izmenite koji kontakti su vidljivi
-
-CNapravite novi kontaktUvezite kontakte sa vaše SD kartice
-"</string>
-    <string name="noContactsNoSimHelpTextWithSync_default">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
-
-Da biste dodali kontakte, dodirnite 
-
-, potom: 
-
-Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
-
-Izmenite koji kontakti su vidljvi
-
-Napravite novi kontaktUvezite kontakte sa vaše SD kartice
-"</string>
     <string name="noFavoritesHelpText">"Nema omiljenih. 
 
 \"Da biste dodali kontakt u spisak omiljenih: \"
@@ -561,7 +469,6 @@ Izaberite jednu od sledećih opcija:"</string>
     <string name="activity_title_settings">Podešavanja</string>
     <string name="activity_title_contacts_filter">Kontakti za prikaz</string>
     <string name="menu_settings">Podešavanja</string>
-    <string name="spdl_settings">Podešavanja</string>
     <string name="preference_displayOptions">Opcije prikaza</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="hint_findContacts">Pronađi kontakte</string>
@@ -650,8 +557,6 @@ Izaberite jednu od sledećih opcija:"</string>
     <string name="add_new_account">Dodaj novi nalog</string>
     <string name="dialog_phone_call_prohibited_title">Poziv nije poslat</string>
     <string name="dialog_voicemail_not_ready_title">Broj govorne pošte nije dostupan</string>
-    <string name="label_mms_send_outbox_msg">Aktiviraj MMS</string>
-    <string name="desc_mms_send_outbox_msg">Pošalji sve MMS poruke iz Odlaznih putem interneta</string>
     <string name="dialog_voicemail_not_ready_message">Da biste podesili govornu poštu idite u \"Meni\" > \"Podešavanje poziva\".</string>
     <string name="selected_item_count">Izabrano je %d zapisa</string>
     <string name="recentCalls_delete">Izbriši</string>
@@ -839,8 +744,8 @@ Nije završeno: %d"</string>
     <string name="notifier_progress_copy_message" formatted="false">Kopiram %s/%s: %s</string>
     <string name="notifier_progress_copy_description">Kopiram %s</string>
     <string name="multichoice_confirmation_title_delete">Otkazujem kopiranje kontak(a)ta</string>
-    <string name="multichoice_confirmation_message_delete">Otkazati kopiranje kontak(a)ta?</string>
     <string name="multichoice_confirmation_message_delete_with_account">Otkaži brisanje kontakata sa naloga %s?</string>
+    <string name="multichoice_confirmation_message_delete">Otkazati kopiranje kontak(a)ta?</string>
     <string name="multichoice_confirmation_title_copy">Otkazujem kopiranje kontak(a)ta</string>
     <string name="multichoice_confirmation_message_copy_with_account">Otkaži kopiranje kontakata sa naloga %s?</string>
     <string name="multichoice_confirmation_message_copy">Otkaži kopiranje kontak(a)ta?</string>
@@ -1012,6 +917,7 @@ Nije završeno: %d"</string>
     <string name="notifier_finish_add_favorites_content">Dodata %d omiljena kontakta</string>
     <string name="notifier_finish_delete_favorites_content">Obrisano %d omiljenih kontakata</string>
     <string name="prefer_settings">Podešavanja kontakata</string>
+    <string name="more_prefer_settings">Više funkcija i podešavanja</string>
     <string name="prefer_show_phonenumber_attribution">Prikaži broj telefona i oslovljavanje</string>
     <string name="prefer_show_callicon">Prikaži ikonicu pozivanja</string>
     <string name="prefer_showonly_havenumber_contact">Prikaži kontakte koji imaju samo brojeve</string>
@@ -1198,8 +1104,6 @@ Preporučuje se da uvezete kontakte sa kartice %3$s u vaš telefon %4$s. Da uvez
     <string name="delete_message">Izbriši</string>
     <string name="expire_on">Ističe: %s</string>
     <string name="kilobyte">kB</string>
-    <string name="millionbyte">MB</string>
-    <string name="byteunit">B</string>
     <string name="undelivered_msg_dialog_title">Neisporučena poruka</string>
     <string name="undelivered_msg_dialog_body">"Nije moguće poslati ovu poruku.
 Vreme poslednjeg pokušaja slanja: %s."</string>
@@ -1687,7 +1591,6 @@ Ponovni pokušaj slanja je u toku…"</string>
     <string name="organization">Organizacija</string>
     <string name="website">Veb sajt</string>
     <string name="nickname">Nadimak</string>
-    <string name="business_card">Pošalji vizit-kartu</string>
     <string name="inbox">Prijemno sanduče</string>
     <string name="outbox">Za slanje</string>
     <string name="draftbox">Nacrti</string>
@@ -1719,7 +1622,6 @@ Ponovni pokušaj slanja je u toku…"</string>
     <string name="confirm_delete_allmessage">Sve poruke će biti obrisane.</string>
     <string name="pre_storage_manage_title">Upravljaj podacima o memoriji</string>
     <string name="pre_storage_manage_subtitle">Podaci o memoriji</string>
-    <string name="pre_storage_manage_sumary_default">Prikaži kapacitet telefona i kartice %s</string>
     <string name="pre_storage_manage_phone">Telefon</string>
     <string name="storage_sim_sms_used">"Upotrebljeno:  %s stavki"</string>
     <string name="storage_sim_sms_Unused">"Dostupno:  %s stavki"</string>
@@ -1977,6 +1879,15 @@ Rad jednom rukom vam to olakšava"</string>
     <string name="msg_close">Zatvori</string>
     <string name="pref_title_notification_show_content">Prikaži sadržaj poruke u traci sa obaveštenjima</string>
     <string name="pref_summary_notification_show_content">Prikaži poruku u traci sa obaveštenjima</string>
+    <string name="schdule_message">Vreme</string>
+    <string name="schedule_activity_label">Podesi vreme slanja</string>
+    <string name="scheduled_sending_time">biće poslato u %s</string>
+    <string name="time_set_error_title">Greška u podešavanju</string>
+    <string name="time_set_error_msg">Vreme je ranije u odnosu na sada</string>
+    <string name="pref_title_sms_disabled">Poruke su isključene</string>
+    <string name="pref_summary_sms_disabled">Dodirnite da biste podesili Message kao podrazumevanu aplikaciju za poruke</string>
+    <string name="pref_title_sms_enabled">Poruke su uključene</string>
+    <string name="pref_summary_sms_enabled">Dodirnite da biste promenili podrazumevanu aplikaciju za poruke</string>
     <string name="phonecity_label">Lokacija</string>
     <string name="phonecity_query_title">Lokacija upita</string>
     <string name="phonecity_query_summary">Unesite broj telefona u mesto za upit</string>
@@ -2023,24 +1934,123 @@ Rad jednom rukom vam to olakšava"</string>
     <string name="sensor_keyboard_open">Mercury keyboard je uključena. Brzo prevucite tastaturu na levo da biste je isključili!</string>
     <string name="sensor_keyboard_close">Mercury keyboard je isključena. Brzo prevucite tastaturu na desno da biste je uključili!</string>
     <string name="telecom_menu_call">Yi Dial</string>
+    <string name="multichoice_vcards_limit_tips">Ima više datoteka za uvoz, ovo može da potraje. Nemojte raditi ništa sa kontaktima tokom ovog procesa. Obaveštenje će biti prikazano po završetku. Sačekajte!</string>
+    <string name="import_vcards_complete_tips">Uvoz je završen!</string>
+    <string name="dialpad_empty_frequent">Nema čestih kontakata</string>
+    <string name="notification_multiple">%s nepročitanih poruka.</string>
+    <string name="author">Upravljanje kontaktima</string>
+    <string name="description">Upravljanje kontaktima</string>
+    <string name="infocenter_AboutInfoSuffix">"Sva prava zadržana 
+Copyright © 2013 Lenovo Inc."</string>
+    <string name="confirm_dialog_msg">Sistem će obrisati ovu poruku!</string>
+    <string name="cvaa_search">pretraži</string>
+    <string name="cvaa_cancel">Otkaži</string>
+    <string name="cvaa_help">pomoć</string>
+    <string name="cvaa_email">E-pošta</string>
+    <string name="cvaa_checked">izabrano</string>
+    <string name="cvaa_uncheck">nije potvrđeno</string>
+    <string name="cvaa_contact_edit_photo_img_desc">slika</string>
+    <string name="noContactsHelpText_tablet">"Nema kontakata za prikaz. 
+
+Da biste dodali kontakte, dodirnite , i potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
+
+Napravite novi kontakt
+
+Uvezite kontakte sa vaše %s kartice ili SIM kartice
+"</string>
+    <string name="noContactsHelpText_default">"Nema kontakata za prikaz. 
+
+Da biste dodali kontakt, dodirnite , i potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
+
+Napravite novi kontakt
+
+Uvezite kontakte sa vaše %s kartice ili SIM kartice
+"</string>
+    <string name="noContactsHelpTextWithSync_tablet">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
+
+Da biste dodali kontakte, dodirnite , i potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
+
+Izmenite koji kontakti su vidljivi
+
+Napravite novi kontakt
+
+Uvezite kontakte sa vaše %s  kartice ili SD kartice
+"</string>
+    <string name="noContactsHelpTextWithSync_default">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
+
+Da biste dodali kontakte, dodirnite 
+
+, potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
+
+Izmenite koji kontakti su vidljivi
+
+CNapravite novi kontaktUvezite kontakte sa vaše  %s kartice ili SD kartice
+"</string>
+    <string name="noContactsNoSimHelpText_tablet">"Nema kontakata za prikaz. 
+
+Da biste dodali kontakte, dodirnite \"
+\", i potom: \"
+
+\"da dodate ili podesite nalog sa kontaktima koje možete da sinhronizujete sa tabletom\"
+
+\"da napravite novi kontakt\"
+
+\"da uvezete kontakte sa SD kartice\"
+"</string>
+    <string name="noContactsNoSimHelpText_default">"Nema kontakata za prikaz. 
+
+Da biste dodali kontakte, dodirnite 
+
+, potom: 
+
+Dodajte ili podesite nalog sa kontaktima koje možete da sinhronizujete sa telefonom
+
+Napravite novi kontaktUvezite kontakte sa SD kartice
+"</string>
+    <string name="noContactsNoSimHelpTextWithSync_tablet">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
+
+Da biste dodali kontakte, dodirnite 
+
+, potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa tabletom
+
+Izmenite koji kontakti su vidljivi
+
+CNapravite novi kontaktUvezite kontakte sa vaše SD kartice
+"</string>
+    <string name="noContactsNoSimHelpTextWithSync_default">"Nemate kontakte za prikaz (ako ste upravo dodali nalog, sinhronizacija kontakata može potrajati nekoliko minuta). 
+
+Da biste dodali kontakte, dodirnite 
+
+, potom: 
+
+Dodajte ili podesite nalog sa kontaktima koji možete da sinhronizujete sa telefonom
+
+Izmenite koji kontakti su vidljvi
+
+Napravite novi kontaktUvezite kontakte sa vaše SD kartice
+"</string>
+    <string name="spdl_settings">Podešavanja</string>
+    <string name="label_mms_send_outbox_msg">Aktiviraj MMS</string>
+    <string name="desc_mms_send_outbox_msg">Pošalji sve MMS poruke iz Odlaznih putem interneta</string>
+    <string name="business_card">Pošalji vizit-kartu</string>
+    <string name="pre_storage_manage_sumary_default">Prikaži kapacitet telefona i kartice %s</string>
     <string name="call_dial_card1">Kartica 1 poziva</string>
     <string name="call_dial_card2">Kartica 2 poziva</string>
     <string name="banner_sms_promo_title_initial">Message nije vaša aplikacija za poruke</string>
     <string name="banner_sms_promo_title_application">Vaša aplikacija za poruke je %s</string>
     <string name="banner_sms_promo_message">Izmenite podešavanja u Podešavanja.</string>
-    <string name="schdule_message">Vreme</string>
-    <string name="schedule_activity_label">Podesi vreme slanja</string>
-    <string name="scheduled_sending_time">biće poslato u %s</string>
-    <string name="time_set_error_title">Greška u podešavanju</string>
-    <string name="time_set_error_msg">Vreme je ranije u odnosu na sada</string>
-    <string name="pref_title_sms_disabled">Poruke su isključene</string>
-    <string name="pref_summary_sms_disabled">Dodirnite da biste podesili Message kao podrazumevanu aplikaciju za poruke</string>
-    <string name="pref_title_sms_enabled">Poruke su uključene</string>
-    <string name="pref_summary_sms_enabled">Dodirnite da biste promenili podrazumevanu aplikaciju za poruke</string>
     <string name="no_apn">APN nije dodeljen na ovom uređaju.</string>
     <string name="sending_disabled_not_default_app">Slanje je isključeno</string>
-    <string name="callog_display_style">Metod prikaza evidencije poziva</string>
-    <string name="more_prefer_settings">Više funkcija i podešavanja</string>
     <string name="nearby_places_settings">Lokacije u blizini</string>
     <string name="nearby_places_disabled">Isključeno</string>
     <string name="nearby_places_enable">Prikaži rezultate pretrage za obližnju lokaciju</string>
@@ -2052,20 +2062,10 @@ Da bi ova funkcija radila, potrebno je da Google aplikaciji dozvolite da koristi
     <string name="view_location_settings">Pregled podešavanja podataka o lokaciji</string>
     <string name="search_nearby_description">Pretraži kontakte i lokacije u blizini</string>
     <string name="nearby_place_section">Lokacije u blizini</string>
-    <string name="import_vcards_complete_tips">Uvoz je završen!</string>
-    <string name="multichoice_vcards_limit_tips">Ima više datoteka za uvoz, ovo može da potraje. Nemojte raditi ništa sa kontaktima tokom ovog procesa. Obaveštenje će biti prikazano po završetku. Sačekajte!</string>
     <string name="recent_emoji_zero_state_text">Nema nedavno korišćenih emotikona.</string>
-    <string name="infocenter_AboutInfoSuffix">"Sva prava zadržana 
-Copyright © 2013 Lenovo Inc."</string>
-    <string name="confirm_dialog_msg">Sistem će obrisati ovu poruku!</string>
-    <string name="guide_info_go_into_programm">Pokreni program</string>
-    <string name="notification_multiple">%s nepročitanih poruka.</string>
     <string name="menu_home_privacy_policy">Politika privatnosti</string>
     <string name="menu_home_terms_of_service">Uslovi korišćenja</string>
     <string name="letter_tile_letter_settting">Prikaži tekstualne avatare</string>
     <string name="letter_tile_letter_description">Ako slika ne postoji, prvo slovo kontakta je prikazano kao avatar.</string>
-    <string name="dialpad_empty_frequent">Nema čestih kontakata</string>
     <string name="menu_remove_from_strequent">Obriši česte kontakt(e)?</string>
-    <string name="lenovo_about">Osnovni podaci</string>
-    <string name="quotation_marks">:</string>
 </resources>

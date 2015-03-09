@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">أحدث إصدار</string>
     <string name="SUS_FIND_NEW_VERSION">يتوفر إصدار جديد لك</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">بريد إلكتروني إلى المنزل</string>
     <string name="email_mobile">بريد إلكتروني إلى المحمول</string>
     <string name="email_work">بريد إلكتروني إلى العمل</string>
@@ -251,51 +249,51 @@
     <string name="noContactsHelpTextForCreateShortcut">لا يوجد أي جهات اتصال لعرضها.</string>
     <string name="noContactsHelpText">"لا يوجد أي جهات اتصال لعرضها.
 
-لإضافة جهات اتصال، المس "<font fgcolor="#ffffffff"><b>القائمة</b></font>"، ثم المس:
+لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">القائمة</font></b>"، ثم المس:
  
-"<li><font fgcolor="#ffffffff"><b>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة %s أو بطاقة SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة %s أو بطاقة SD
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"لا يوجد أي جهات اتصال لعرضها. (في حالة إضافة حساب، قد تستغرق مزامنة جهات الاتصال بضع دقائق.)
 
-لإضافة جهات اتصال، المس "<font fgcolor="#ffffffff"><b>القائمة</b></font>"، ثم المس:
+لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">القائمة</font></b>"، ثم المس:
  
-"<li><font fgcolor="#ffffffff"><b>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"خيارات العرض لتغيير جهات الاتصال المرئية
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة %s أو بطاقة SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"خيارات العرض لتغيير جهات الاتصال المرئية
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة %s أو بطاقة SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"لا يوجد أي جهات اتصال لعرضها.
 
-لإضافة جهات اتصال، المس "<font fgcolor="#ffffffff"><b>القائمة</b></font>"، ثم المس:
+لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">القائمة</font></b>"، ثم المس:
  
-"<li><font fgcolor="#ffffffff"><b>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"لا يوجد أي جهات اتصال لعرضها. (في حالة إضافة حساب، قد تستغرق مزامنة جهات الاتصال بضع دقائق.)
 
-لإضافة جهات اتصال، المس "<font fgcolor="#ffffffff"><b>القائمة</b></font>"، ثم المس:
+لإضافة جهات اتصال، المس "<b><font fgcolor="#ffffffff">القائمة</font></b>"، ثم المس:
  
-"<li><font fgcolor="#ffffffff"><b>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"خيارات العرض لتغيير جهات الاتصال المرئية
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"حسابات لإضافة حساب أو إعداده مع جهات اتصال يمكنك مزامنتها إلى الهاتف
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"خيارات العرض لتغيير جهات الاتصال المرئية
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"جهة اتصال جديدة لإنشاء جهة اتصال جديدة تمامًا
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"استيراد/تصدير لاستيراد جهات اتصال من بطاقة SD
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"لا توجد أي مفضلة.
 
@@ -2020,4 +2018,6 @@
     <string name="sensor_keyboard_close">لوحة المفاتيح رصاصية اللون غير مشغّلة. حرّك لوحة المفاتيح سريعًا إلى اليمين لتشغيلها!</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s من الرسائل غير المقروءة.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
 </resources>

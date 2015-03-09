@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="otherLabels">
-        <item>Organizacja</item>
-        <item>Notatka</item>
-    </string-array>
-  <string-array name="emoji_smiley_texts">
+    <string-array name="emoji_smiley_texts">
         <item>\\ud83d\\ude03</item>
         <item>\\ud83d\\ude1e</item>
         <item>\\ud83d\\ude09</item>
@@ -87,12 +83,12 @@
         <item>Oddzwoń! Proszę!</item>
         <item>Niestety, mam spotkanie teraz.</item>
         <item>Zadzwoń wkrótce.</item>
-        <item>"Nie martw się! Czuję się dobrze."</item>
+        <item>Nie martw się! Czuję się dobrze.</item>
         <item>W drodze do domu.</item>
         <item>Będę wkrótce.</item>
         <item>Zadzwonie za chwile!</item>
     </string-array>
-     <string-array name="pref_away_mode_remminding_type">
+    <string-array name="pref_away_mode_remminding_type">
         <item>@string/pref_away_mode_reminding_none</item>
         <item>@string/pref_away_mode_reminding_ringtone</item>
     </string-array>
@@ -139,11 +135,6 @@
     <string-array name="photo_display_settings_styles">
         <item>First letter</item>
         <item>Last letter</item>
-    </string-array>
-    <string-array name="group_chat_notiy_type">
-        <item>Accept and notice</item>
-        <item>Accept but no notice</item>
-        <item>Reject</item>
     </string-array>
     <string-array name="callog_display_style_value">
         <item>By date</item>
@@ -199,6 +190,10 @@
         <item>29</item>
         <item>30</item>
     </string-array>
+    <string-array name="otherLabels">
+        <item>Organizacja</item>
+        <item>Notatka</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 second</item>
         <item>2 seconds</item>
@@ -211,30 +206,6 @@
         <item>9 seconds</item>
         <item>10 seconds</item>
         <item>Other…</item>
-    </string-array>
-    <string-array name="language_list_values">
-        <item>All Languages</item>
-        <item>German</item>
-        <item>English</item>
-        <item>Italian</item>
-        <item>French</item>
-        <item>Spanish</item>
-        <item>Dutch</item>
-        <item>Swedish</item>
-        <item>Danish</item>
-        <item>Portuguese</item>
-        <item>Finnish</item>
-        <item>Norwegian</item>
-        <item>Greek</item>
-        <item>Turkish</item>
-        <item>Hungarian</item>
-        <item>Polish</item>
-        <item>Others</item>
-        <item>Czech</item>
-        <item>Hebrew</item>
-        <item>Arabic</item>
-        <item>Russian</item>
-        <item>IceLandic</item>
     </string-array>
     <string-array name="language_list_id">
         <item>-1</item>
@@ -268,8 +239,37 @@
         <item>By 11</item>
         <item>By 7</item>
     </string-array>
+    <string-array name="language_list_values">
+        <item>All Languages</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Italian</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Dutch</item>
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Portuguese</item>
+        <item>Finnish</item>
+        <item>Norwegian</item>
+        <item>Greek</item>
+        <item>Turkish</item>
+        <item>Hungarian</item>
+        <item>Polish</item>
+        <item>Others</item>
+        <item>Czech</item>
+        <item>Hebrew</item>
+        <item>Arabic</item>
+        <item>Russian</item>
+        <item>IceLandic</item>
+    </string-array>
     <item type="array" name="blade_full_sections">false</item>
     <item type="array" name="blade_indicator_tops">false</item>
     <item type="array" name="blade_replaced_sections">false</item>
     <item type="array" name="blade_section_baselines">false</item>
+    <string-array name="group_chat_notiy_type">
+        <item>Accept and notice</item>
+        <item>Accept but no notice</item>
+        <item>Reject</item>
+    </string-array>
 </resources>

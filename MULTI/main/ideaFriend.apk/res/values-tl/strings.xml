@@ -171,48 +171,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Wala kang maipapakitang anumang mga contact.</string>
     <string name="noContactsHelpText">"Wala kang anumang mga ipapakitang contact.
 
-Upang magdagdag ng mga contact, pindutin ang "<b><font fgcolor="#ffffffff">Menu</font></b>", pagkatapos ay pindutin ang:
+Upang magdagdag ng mga contact, pindutin ang "<font fgcolor="#ffffffff"><b>Menu</b></font>", pagkatapos ay pindutin ang:
  
-"<b><font fgcolor="#ffffffff"><li>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Bagong contact upang lumikha ng bagong contact mula sa wala
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SIM o SD card
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Bagong contact upang lumikha ng bagong contact mula sa wala
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SIM o SD card
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Wala kang anumang mga ipapakitang contact. (Kung kadaragdag mo lamang ng isang account, tatagal ito ng ilang minuto upang i-sync ang mga contact.)
 
-Upang magdagdag ng mga contact, pindutin ang "<b><font fgcolor="#ffffffff">Menu</font></b>", pagkatapos ay pindutin ang:
+Upang magdagdag ng mga contact, pindutin ang "<font fgcolor="#ffffffff"><b>Menu</b></font>", pagkatapos ay pindutin ang:
  
-"<b><font fgcolor="#ffffffff"><li>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mga pagpipilian sa display upang baguhin kung aling mga contact ang nakikita
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Bagong contact upang lumikha ng bagong contact mula sa wala
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SIM o SD card
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mga pagpipilian sa display upang baguhin kung aling mga contact ang nakikita
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Bagong contact upang lumikha ng bagong contact mula sa wala
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SIM o SD card
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Wala kang anumang mga ipapakitang contact.
 
-Upang magdagdag ng mga contact, pindutin ang "<b><font fgcolor="#ffffffff">Menu</font></b>", pagkatapos ay pindutin ang:
+Upang magdagdag ng mga contact, pindutin ang "<font fgcolor="#ffffffff"><b>Menu</b></font>", pagkatapos ay pindutin ang:
  
-"<b><font fgcolor="#ffffffff"><li>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Bagong contact upang lumikha ng bagong contact mula sa wala
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SD card
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Mga Account upang magdagdag o mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Bagong contact upang lumikha ng bagong contact mula sa wala
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SD card
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Wala kang anumang mga ipapakitang contact. (Kung kadaragdag mo lamang ng isang account, tatagal ito ng ilang minuto upang i-sync ang mga contact.)
 
-Upang magdagdag ng mga contact, pindutin ang "<b><font fgcolor="#ffffffff">Menu</font></b>", pagkatapos ay pindutin ang:
+Upang magdagdag ng mga contact, pindutin ang "<font fgcolor="#ffffffff"><b>Menu</b></font>", pagkatapos ay pindutin ang:
  
-"<b><font fgcolor="#ffffffff"><li>"Mga Account upang magdagdag at mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mga pagpipilian sa display upang baguhin kung aling mga contact ang nakikita
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Bagong contact upang lumikha ng bagong contact mula sa wala
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SD card
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Mga Account upang magdagdag at mag-set up ng isang account na mayroong mga contact na maaari mong i-sync sa telepono
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mga pagpipilian sa display upang baguhin kung aling mga contact ang nakikita
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Bagong contact upang lumikha ng bagong contact mula sa wala
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Mag-import/Mag-export upang mag-import ng mga contact mula sa iyong SD card
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Wala kang anumang mga paborito.
 
 Upang magdagdag ng contact sa iyong listahan ng mga paborito:

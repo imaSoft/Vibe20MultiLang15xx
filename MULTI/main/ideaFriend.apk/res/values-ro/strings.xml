@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Vers. nouă disponib. pt. U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Instal. aplic.</string>
     <string name="app_name">Manager persoane de contact</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">Trimiteţi un e-mai la o adresă de e-mail de domiciliu</string>
     <string name="email_mobile">Trimiteţi un e-mail către un telefon mobil</string>
     <string name="email_work">Trimiteţi e-mail către adresa de serviciu</string>
@@ -253,48 +251,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Nicio persoană din agendă pentru afişare.</string>
     <string name="noContactsHelpText">"Nu există persoane din agendă de afişat.
 
-Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
+Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<font fgcolor="#ffffffff"><b>Meniu</b></font>", apoi atingeţi:
  
-"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SIM sau cardul SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SIM sau cardul SD
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Nu există persoane din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării persoanelor din agendă.){
 
-Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
+Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<font fgcolor="#ffffffff"><b>Meniu</b></font>", apoi atingeţi:
  
-"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica persoanele din agendă care sunt vizibile
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SIM sau SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opţiuni de afişare pentru a modifica persoanele din agendă care sunt vizibile
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SIM sau SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Nu aveţi persoane din agendă de afişat.
 
-Pentru a adăuga persoane în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
+Pentru a adăuga persoane în agendă, atingeţi "<font fgcolor="#ffffffff"><b>Meniu</b></font>", apoi atingeţi:
  
-"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu telefonul
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu telefonul
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Nu există persoane din agendă de afişat. (Dacă aţi adăugat recent un cont, poate dura câteva minute până la finalizarea sincronizării persoanelor din agendă.){
 
-Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<b><font fgcolor="#ffffffff">Meniu</font></b>", apoi atingeţi:
+Dacă doriţi să adăugaţi persoane în agendă, atingeţi "<font fgcolor="#ffffffff"><b>Meniu</b></font>", apoi atingeţi:
  
-"<b><font fgcolor="#ffffffff"><li>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opţiuni de afişare pentru a modifica persoanele din agendă care sunt vizibile
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Conturi pentru a adăuga sau a configura un cont cu persoane din agendă, pe care le puteţi sincroniza cu cele de pe telefon
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opţiuni de afişare pentru a modifica persoanele din agendă care sunt vizibile
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Persoană nouă în agendă pentru a crea de la zero o intrare nouă în agendă
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importaţi/exportaţi pentru a importa persoane din agendă de pe cardul SD
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Nu aveţi favorite.
 
  Pentru a adăuga o persoană în lista de favorite:
@@ -2012,6 +2010,8 @@ Operarea cu o singură mână face lucrurile cât de ușoare le doriți"</string
     <string name="sensor_keyboard_close">Apelare inteligentă dezactivată. Glisați spre dreapta pe sistemul de apelare pentru activare!</string>
     <string name="telecom_menu_call">Apel Telecom</string>
     <string name="notification_multiple">%s (de) mesaje necitite.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc toate drepturile rezervate
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Sistemul va șterge acest mesaj!</string>

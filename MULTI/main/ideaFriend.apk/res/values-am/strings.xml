@@ -165,48 +165,48 @@
     <string name="noContactsHelpTextForCreateShortcut">" ለማሳየት ምንም እውቂያዎች የልዎትም።"</string>
     <string name="noContactsHelpText">"ምንም ዕውቅያዎች ለማሳየት የለህም፡፡ 
 
-ዕውቅያዎችን ለማከል፤ዳስ"<b><font fgcolor="#ffffffff"> ምናሌ</font></b>"፤ ከዛ ዳስ፤ 
+ዕውቅያዎችን ለማከል፤ዳስ"<font fgcolor="#ffffffff"><b> ምናሌ</b></font>"፤ ከዛ ዳስ፤ 
  
-"<b><font fgcolor="#ffffffff"><li>" መለያዎች ከእውቅያዎች ጋር ወደ ስልኩ 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" የምታመሳስለው መለያ  ለማከል ወይም ለማደራጀት አዲስ እውቅያ ከምንም
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"  አዲስ ዕውቅያ ለመፍጠር ከውጭ አስገባ/ወደ ውጭ ላክ  ከሲምህ ወይም SD ካርድህ  
-"</li></font></b> ዕውቅያዎችን ከውጭ ለማስገባት</string>
+"<li><font fgcolor="#ffffffff"><b>" መለያዎች ከእውቅያዎች ጋር ወደ ስልኩ 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" የምታመሳስለው መለያ  ለማከል ወይም ለማደራጀት አዲስ እውቅያ ከምንም
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"  አዲስ ዕውቅያ ለመፍጠር ከውጭ አስገባ/ወደ ውጭ ላክ  ከሲምህ ወይም SD ካርድህ  
+"</b></font></li> ዕውቅያዎችን ከውጭ ለማስገባት</string>
     <string name="noContactsHelpTextWithSync">"ለማሳየት ምንም ዕውቂያዎች የለህም።(መለያ ካከልክ፣ዕውቂያዎችን ለማሳመር ጥቂት ደቂቃዎች ይፈጃል።)
 
-ዕውቂያዎች ለማከል፣"<b><font fgcolor="#ffffffff">ምናሌ ተጫን</font></b>"እና
+ዕውቂያዎች ለማከል፣"<font fgcolor="#ffffffff"><b>ምናሌ ተጫን</b></font>"እና
 
-"<b><font fgcolor="#ffffffff"><li>"መለያዎችለማከል ወይም መለያዎችን ከዕውቂያዎች ጋር ለማወቃር ወደ ስልኩ ማሳመር ትችላለህ፡ይንኩ።
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"አማራጮችየትኞቹ ዕውቂያዎች እንደሚታዩ ለመለወጥ አሳይ
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"አዲስ ዕውቂያአዲስ ዕውቂያ ከባዶ ለመፍጠር
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"አስገባ/ላክከSIM ወይም SD ካርድ ዕውቂያዎች ለማስገባት 
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"መለያዎችለማከል ወይም መለያዎችን ከዕውቂያዎች ጋር ለማወቃር ወደ ስልኩ ማሳመር ትችላለህ፡ይንኩ።
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"አማራጮችየትኞቹ ዕውቂያዎች እንደሚታዩ ለመለወጥ አሳይ
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"አዲስ ዕውቂያአዲስ ዕውቂያ ከባዶ ለመፍጠር
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"አስገባ/ላክከSIM ወይም SD ካርድ ዕውቂያዎች ለማስገባት 
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"ምንም ዕውቅያዎች ለማሳየት የለህም፡፡ 
 
-ዕውቅያዎችን ለማከል፤ዳስ"<b><font fgcolor="#ffffffff"> ምናሌ</font></b>"፤ ከዛ ዳስ፤ 
+ዕውቅያዎችን ለማከል፤ዳስ"<font fgcolor="#ffffffff"><b> ምናሌ</b></font>"፤ ከዛ ዳስ፤ 
  
-"<b><font fgcolor="#ffffffff"><li>" መለያዎች ከእውቅያዎች ጋር ወደ ስልኩ 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" የምታመሳስለው መለያ  ለማከል ወይም ለማደራጀት አዲስ እውቅያ ከምንም
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"  አዲስ ዕውቅያ ለመፍጠር ከውጭ አስገባ/ወደ ውጭ ላክ  ከሲምህ ወይም SD ካርድህ  
-"</li></font></b> ዕውቅያዎችን ከውጭ ለማስገባት</string>
+"<li><font fgcolor="#ffffffff"><b>" መለያዎች ከእውቅያዎች ጋር ወደ ስልኩ 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" የምታመሳስለው መለያ  ለማከል ወይም ለማደራጀት አዲስ እውቅያ ከምንም
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"  አዲስ ዕውቅያ ለመፍጠር ከውጭ አስገባ/ወደ ውጭ ላክ  ከሲምህ ወይም SD ካርድህ  
+"</b></font></li> ዕውቅያዎችን ከውጭ ለማስገባት</string>
     <string name="noContactsNoSimHelpTextWithSync">"ለማሳየት ምንም ዕውቂያዎች የለህም ። (መለያ ካከልክ፣ዕውቂያዎችን ለማሳመር ጥቂት ደቂቃዎች ይፈጃል።) 
 
- ዕውቂያዎች ለማከል፣"<b><font fgcolor="#ffffffff"> ምናሌ </font></b>" ተጫን
+ ዕውቂያዎች ለማከል፣"<font fgcolor="#ffffffff"><b> ምናሌ </b></font>" ተጫን
  
-"<b><font fgcolor="#ffffffff"><li>"መለያዎችለማከል ወይም መለያዎችን ከዕውቂያዎች ጋር ለማወቃር ወደ ስልኩ ማሳመር ትችላለህ፡ንካ።
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" አማራጮች የትኞቹ ዕውቂያዎች እንደሚታዩ ለመለወጥ አሳይ
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"አዲስ ዕውቂያ አዲስ ዕውቂያ ከባዶ ለመፍጠር
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"አስገባ/ላክ  ከSIM ወይም SD ካርድ ዕውቂያዎች ለማስገባት
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"መለያዎችለማከል ወይም መለያዎችን ከዕውቂያዎች ጋር ለማወቃር ወደ ስልኩ ማሳመር ትችላለህ፡ንካ።
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" አማራጮች የትኞቹ ዕውቂያዎች እንደሚታዩ ለመለወጥ አሳይ
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"አዲስ ዕውቂያ አዲስ ዕውቂያ ከባዶ ለመፍጠር
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"አስገባ/ላክ  ከSIM ወይም SD ካርድ ዕውቂያዎች ለማስገባት
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"ምንም ተፈላጊዎች ምርጫ  የልዎትም። 
 
 ዕውቂያዎችዎን ወደ ተፈላጊ ዝርዝር ውስጥ ለማከል፡

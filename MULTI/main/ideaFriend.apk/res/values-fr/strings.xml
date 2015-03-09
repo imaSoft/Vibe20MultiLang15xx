@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">Dernière version</string>
     <string name="SUS_FIND_NEW_VERSION">Nouvelle version disponible pour vous</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">Envoyer un e-mail au domicile</string>
     <string name="email_mobile">Envoyer un e-mail sur le mobile</string>
     <string name="email_work">Envoyer un e-mail au bureau</string>
@@ -251,51 +249,51 @@
     <string name="noContactsHelpTextForCreateShortcut">"Vous n'avez aucun contact à afficher."</string>
     <string name="noContactsHelpText">"Vous n'avez aucun contact à afficher.
 
-Pour ajouter des contacts, touchez "<font fgcolor="#ffffffff"><b>Menu</b></font>", puis
+Pour ajouter des contacts, touchez "<b><font fgcolor="#ffffffff">Menu</font></b>", puis
  
-"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un nouveau contact
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts à partir de votre carte %s ou SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts à partir de votre carte %s ou SD
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes.)
 
-Pour ajouter des contacts, touchez "<font fgcolor="#ffffffff"><b>Menu</b></font>", puis
+Pour ajouter des contacts, touchez "<b><font fgcolor="#ffffffff">Menu</font></b>", puis
  
-"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Options d'affichage pour modifier la visibilité des contacts
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un nouveau contact
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts à partir de votre carte %s ou SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Options d'affichage pour modifier la visibilité des contacts
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts à partir de votre carte %s ou SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Vous n'avez aucun contact à afficher.
 
-Pour ajouter des contacts, touchez "<font fgcolor="#ffffffff"><b>Menu</b></font>", puis
+Pour ajouter des contacts, touchez "<b><font fgcolor="#ffffffff">Menu</font></b>", puis
  
-"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un nouveau contact
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts à partir de votre carte SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts à partir de votre carte SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Vous n'avez aucun contact à afficher. (Si vous venez d'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes.)
 
-Pour ajouter des contacts, touchez "<font fgcolor="#ffffffff"><b>Menu</b></font>", puis
+Pour ajouter des contacts, touchez "<b><font fgcolor="#ffffffff">Menu</font></b>", puis
  
-"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Options d'affichage pour modifier la visibilité des contacts
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un nouveau contact
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts à partir de votre carte SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte avec des contacts que vous pouvez synchroniser avec le téléphone
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Options d'affichage pour modifier la visibilité des contacts
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un nouveau contact
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts à partir de votre carte SD
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"Vous n'avez pas défini de favoris.
 
@@ -2020,4 +2018,6 @@ Le mode une main simplifie énormément le processus"</string>
     <string name="sensor_keyboard_close">"Le clavier Mercury est désactivé. Faites glisser rapidement le clavier vers la droite pour l'allumer."</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s messages non lus.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
 </resources>

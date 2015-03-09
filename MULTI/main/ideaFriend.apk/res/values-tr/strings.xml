@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Yeni sürüm kullanılabilir, sayın.</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Uygulamalar yükleniyor.</string>
     <string name="app_name">Kişi Yöneticisi</string>
-    <string name="author">Kişi Yöneticisi</string>
-    <string name="description">Kişi Yöneticisi</string>
     <string name="email_home">E-posta gönder (ev)</string>
     <string name="email_mobile">E-posta gönder (mobil)</string>
     <string name="email_work">E-posta gönder (iş)</string>
@@ -254,54 +252,54 @@
     <string name="noContactsHelpTextForCreateShortcut">Görüntülenecek kişiniz yok.</string>
     <string name="noContactsHelpText">"Görüntülenecek kişiniz yok.
 
-Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye dokunun ve ardından şunları seçin:
+Kişi eklemek için, "<font fgcolor="#ffffffff"><b>Menü</b></font>"'ye dokunun ve ardından şunları seçin:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar (telefonunuzla senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe/Dışa Aktar SIM veya SD kartınızdaki kişileri içe aktarmak için)
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Hesaplar (telefonunuzla senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"İçe/Dışa Aktar SIM veya SD kartınızdaki kişileri içe aktarmak için)
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Görüntülenecek kişiniz yok. (Kısa bir süre önce hesap eklediyseniz, kişileri senkronize etmek birkaç dakika sürebilir.)
 
-Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye dokunun ve şunları seçin:
+Kişi eklemek için, "<font fgcolor="#ffffffff"><b>Menü</b></font>"'ye dokunun ve şunları seçin:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar (telefon ile senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Görüntüleme seçenekleri (hangi kişilerin görülebilir olacağını değiştirmek için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe/Dışa Aktar (SIM veya SD kartınızdaki kişileri aktarmak için)
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Hesaplar (telefon ile senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Görüntüleme seçenekleri (hangi kişilerin görülebilir olacağını değiştirmek için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"İçe/Dışa Aktar (SIM veya SD kartınızdaki kişileri aktarmak için)
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Görüntülenecek kişiniz yok.
 
-Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye dokunun ve ardından şunları seçin:
+Kişi eklemek için, "<font fgcolor="#ffffffff"><b>Menü</b></font>"'ye dokunun ve ardından şunları seçin:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar (telefonunuzla senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe/Dışa Aktar SIM veya SD kartınızdaki kişileri içe aktarmak için)
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Hesaplar (telefonunuzla senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"İçe/Dışa Aktar SIM veya SD kartınızdaki kişileri içe aktarmak için)
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Görüntülenecek kişiniz yok. (Kısa süre önce bir hesap eklediyseniz kişileri senkronize etmek birkaç dakika sürebilir.)
 
-Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye basın ve şunlara dokunun:
+Kişi eklemek için, "<font fgcolor="#ffffffff"><b>Menü</b></font>"'ye basın ve şunlara dokunun:
  
-"<b><font fgcolor="#ffffffff"><li>"Hesaplar (telefon ile senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Görüntüleme seçenekleri (hangi kişilerin görülebilir olacağını değiştirmek için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"İçe/Dışa Aktar
-"</li></font></b>(SIM veya SD kartınızdaki kişileri içe aktarmak için)</string>
+"<li><font fgcolor="#ffffffff"><b>"Hesaplar (telefon ile senkronize edebileceğiniz kişiler içeren bir hesap eklemek veya yapılandırmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Görüntüleme seçenekleri (hangi kişilerin görülebilir olacağını değiştirmek için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Yeni kişi (en baştan yeni bir kişi oluşturmak için)
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"İçe/Dışa Aktar
+"</b></font></li>(SIM veya SD kartınızdaki kişileri içe aktarmak için)</string>
     <string name="noFavoritesHelpText">"Favoriniz bulunmuyor.
 
 Favoriler listenize kişi eklemek için:
 
-        "<b><li>"Kişiler sekmesine dokunun
-"</li></b>" 
+        "<li><b>"Kişiler sekmesine dokunun
+"</b></li>" 
 "<li>"Favorilerinize eklemek istediğiniz kişiye dokunun
 "</li>" 
 "<li>"Kişi adının yanındaki yıldız simgesine dokunun
@@ -2014,6 +2012,8 @@ Tek elle kullanım istediğiniz kolaylığı sağlar"</string>
     <string name="multichoice_vcards_limit_tips">"Çok sayıda içe aktarım dosyası var; bu işlem bir miktar zaman alabilir. Bu işlem sırasında Kişileriniz üzerinde herhangi bir eylem gerçekleştirmeyin. İşlem tamamlandıktan sonra bir istem görüntülenir. Lütfen bekleyin! "</string>
     <string name="import_vcards_complete_tips">"İçe aktarım tamamlandı! "</string>
     <string name="notification_multiple">%s okunmamış ileti.</string>
+    <string name="author">Kişi Yöneticisi</string>
+    <string name="description">Kişi Yöneticisi</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc. Tüm hakları saklıdır
 Telif Hakkı © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Sistem bu mesajı silecek!</string>

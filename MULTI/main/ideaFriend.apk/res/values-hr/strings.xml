@@ -166,48 +166,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Nemate kontakata za prikaz</string>
     <string name="noContactsHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", a zatim dodirnite: 
+Za dodavanje kontakata dodirnite "<font fgcolor="#ffffffff"><b>Izbornik</b></font>", a zatim dodirnite: 
  
-"<b><font fgcolor="#ffffffff"><li>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati s telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za stvaranje novog kontakta iz početka
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz za uvoz kontakata sa SIM ili SD kartice
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati s telefonom
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novi kontakt za stvaranje novog kontakta iz početka
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uvoz/izvoz za uvoz kontakata sa SIM ili SD kartice
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste upravo dodali račun, sinkroniziranje kontakata moglo bi potrajati nekoliko minuta.)
 
-Za dodavanje kontakata dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", a zatim dodirnite:
+Za dodavanje kontakata dodirnite "<font fgcolor="#ffffffff"><b>Izbornik</b></font>", a zatim dodirnite:
  
-"<b><font fgcolor="#ffffffff"><li>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu vidljivih kontakata
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za stvaranje novog kontakta iz početka
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz za uvoz kontakata sa SIM ili SD kartice
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opcije prikaza za promjenu vidljivih kontakata
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novi kontakt za stvaranje novog kontakta iz početka
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uvoz/izvoz za uvoz kontakata sa SIM ili SD kartice
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Nemate kontakata za prikaz.
 
-Za dodavanje kontakata dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", a zatim dodirnite:
+Za dodavanje kontakata dodirnite "<font fgcolor="#ffffffff"><b>Izbornik</b></font>", a zatim dodirnite:
  
-"<b><font fgcolor="#ffffffff"><li>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za stvaranje novog kontakta iz početka
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz za uvoz kontakata sa svoje SD kartice
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novi kontakt za stvaranje novog kontakta iz početka
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uvoz/izvoz za uvoz kontakata sa svoje SD kartice
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Nemate kontakata za prikaz. (Ako ste upravo dodali račun, sinkroniziranje kontakata moglo bi potrajati nekoliko minuta.)
 
-Za dodavanje kontakata dodirnite "<b><font fgcolor="#ffffffff">Izbornik</font></b>", a zatim dodirnite:
+Za dodavanje kontakata dodirnite "<font fgcolor="#ffffffff"><b>Izbornik</b></font>", a zatim dodirnite:
  
-"<b><font fgcolor="#ffffffff"><li>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opcije prikaza za promjenu vidljivih kontakata
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novi kontakt za stvaranje novog kontakta iz početka
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Uvoz/izvoz za uvoz kontakata sa SD kartice
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Računi kako biste dodali ili postavili račun s kontaktima koje možete sinkronizirati sa svojim telefonom
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opcije prikaza za promjenu vidljivih kontakata
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novi kontakt za stvaranje novog kontakta iz početka
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Uvoz/izvoz za uvoz kontakata sa SD kartice
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Nemate favorita.
 
 Da biste dodali kontakt svojem popisu favorita:

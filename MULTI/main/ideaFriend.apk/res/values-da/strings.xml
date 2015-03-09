@@ -166,48 +166,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Du har ingen kontaktpersoner.</string>
     <string name="noContactsHelpText">"Der er ingen kontaktpersoner at vise.
 
-Du kan tilføje kontaktpersoner ved at trykke på "<b><font fgcolor="#ffffffff">Menu</font></b>" og:
+Du kan tilføje kontaktpersoner ved at trykke på "<font fgcolor="#ffffffff"><b>Menu</b></font>" og:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere til telefonen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Ny kontaktperson for at oprette en ny kontaktperson fra bunden
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer og eksporter for at importere kontaktpersoner fra dit SIM- eller SD-kort
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere til telefonen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson for at oprette en ny kontaktperson fra bunden
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer og eksporter for at importere kontaktpersoner fra dit SIM- eller SD-kort
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Du har ingen kontaktpersoner at vise. (Hvis du lige har tilføjet en konto, kan det tage et par minutter at synkronisere kontaktpersoner).
 
-Tilføj kontaktpersoner ved at trykke på "<b><font fgcolor="#ffffffff">Menu</font></b>" og på:
+Tilføj kontaktpersoner ved at trykke på "<font fgcolor="#ffffffff"><b>Menu</b></font>" og på:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, der kan synkroniseres på telefonen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Visningsindstillinger for at ændre, hvilke kontaktpersoner der er synlige
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer og eksporter for at importere kontaktpersoner fra dit SIM-kort eller SD-kort
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, der kan synkroniseres på telefonen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Visningsindstillinger for at ændre, hvilke kontaktpersoner der er synlige
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer og eksporter for at importere kontaktpersoner fra dit SIM-kort eller SD-kort
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Der er ingen kontaktpersoner at vise.
 
-Tilføj kontaktpersoner ved at trykke på "<b><font fgcolor="#ffffffff">Menu</font></b>" og på:
+Tilføj kontaktpersoner ved at trykke på "<font fgcolor="#ffffffff"><b>Menu</b></font>" og på:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere på telefonen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer og eksporter for at importere kontaktpersoner fra dit SD-kort
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere på telefonen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer og eksporter for at importere kontaktpersoner fra dit SD-kort
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Der er ingen kontaktpersoner at vise. (Hvis du lige har tilføjet en konto, kan det tage et par minutter at synkronisere kontaktpersoner).
 
-Tilføj kontaktpersoner ved at trykke på "<b><font fgcolor="#ffffffff">Menu</font></b>" og på:
+Tilføj kontaktpersoner ved at trykke på "<font fgcolor="#ffffffff"><b>Menu</b></font>" og på:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere på telefonen
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Visningsindstillinger for at ændre, hvilke kontaktpersoner der er synlige
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer og eksporter for at importere kontaktpersoner fra dit SD-kort
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti for at tilføje eller konfigurere en konto med kontaktpersoner, som du kan synkronisere på telefonen
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Visningsindstillinger for at ændre, hvilke kontaktpersoner der er synlige
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Ny kontaktperson for at oprette en ny kontaktperson helt fra bunden
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer og eksporter for at importere kontaktpersoner fra dit SD-kort
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Du har ingen favoritter.
 
 Sådan føjer du en kontaktperson til din liste over favoritter:

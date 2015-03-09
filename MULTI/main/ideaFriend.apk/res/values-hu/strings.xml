@@ -315,8 +315,6 @@
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Az APK telepítés most.</string>
     <string name="SUS_BTN_UPDATINGPROMPT">Most frissítés...</string>
     <string name="app_name">Kapcsolat kezelő</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">E-mail otthonra</string>
     <string name="email_mobile">E-mail mobilra</string>
     <string name="email_work">E-mail munkahelyre</string>
@@ -546,48 +544,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Nincsenek megjeleníthető névjegyek.</string>
     <string name="noContactsHelpText">"Nincsenek megjeleníthető névjegyek.
 
-Névjegyek hozzáadásához érintse meg a "<font fgcolor="#ffffffff"><b>Menü</b></font>", majd a
+Névjegyek hozzáadásához érintse meg a "<b><font fgcolor="#ffffffff">Menü</font></b>", majd a
  
-"<li><font fgcolor="#ffffffff"><b>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Új névjegy: teljesen új névjegy létrehozása
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importálás/Exportálás: névjegyek importálása a SIM vagy az SD-kártyáról
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Új névjegy: teljesen új névjegy létrehozása
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importálás/Exportálás: névjegyek importálása a SIM vagy az SD-kártyáról
+"</li></font></b></string>
     <string name="noContactsHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)
 
-Névjegyek hozzáadásához érintse meg a "<font fgcolor="#ffffffff"><b>Menü</b></font>", majd a
+Névjegyek hozzáadásához érintse meg a "<b><font fgcolor="#ffffffff">Menü</font></b>", majd a
  
-"<li><font fgcolor="#ffffffff"><b>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Megjelenítési beállítások: annak beállítása, hogy mely névjegyek legyenek  láthatók
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Új névjegy: teljesen új névjegy létrehozása
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importálás/Exportálás: SIM vagy SD-kártyáról történő importálása
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Megjelenítési beállítások: annak beállítása, hogy mely névjegyek legyenek  láthatók
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Új névjegy: teljesen új névjegy létrehozása
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importálás/Exportálás: SIM vagy SD-kártyáról történő importálása
+"</li></font></b></string>
     <string name="noContactsNoSimHelpText">"Nincsenek megjeleníthető névjegyek.
 
-Névjegyek hozzáadásához érintse meg a "<font fgcolor="#ffffffff"><b>Menü</b></font>", majd a
+Névjegyek hozzáadásához érintse meg a "<b><font fgcolor="#ffffffff">Menü</font></b>", majd a
  
-"<li><font fgcolor="#ffffffff"><b>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Új névjegy: teljesen új névjegy létrehozása
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importálás/Exportálás: névjegyek importálása a SIM vagy az SD-kártyáról
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Új névjegy: teljesen új névjegy létrehozása
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importálás/Exportálás: névjegyek importálása a SIM vagy az SD-kártyáról
+"</li></font></b></string>
     <string name="noContactsNoSimHelpTextWithSync">"Nincsenek megjeleníthető névjegyei. (Ha most adott hozzá egy fiókot, a szinkronizálás eltarthat pár percig.)
 
-Névjegyek hozzáadásához érintse meg a "<font fgcolor="#ffffffff"><b>Menü</b></font>", majd a
+Névjegyek hozzáadásához érintse meg a "<b><font fgcolor="#ffffffff">Menü</font></b>", majd a
  
-"<li><font fgcolor="#ffffffff"><b>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Megjelenítési beállítások: annak beállítása, hogy mely névjegyek legyenek láthatók
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Új névjegy: teljesen új névjegy létrehozása
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importálás/Exportálás: SIM vagy SD-kártyáról történő importálása
-"</b></font></li></string>
+"<b><font fgcolor="#ffffffff"><li>"Fiókok lehetőséget; így hozzáadhat vagy beállíthat egy névjegyeket tartalmazó fiókot, amelyet szinkronizálhat a telefonnal
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Megjelenítési beállítások: annak beállítása, hogy mely névjegyek legyenek láthatók
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Új névjegy: teljesen új névjegy létrehozása
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importálás/Exportálás: SIM vagy SD-kártyáról történő importálása
+"</li></font></b></string>
     <string name="noFavoritesHelpText">"Nincsenek kedvencei.
 
 Így adhat hozzá névjegyet a kedvencek listájához:
@@ -2524,6 +2522,8 @@ kapcsolatot"</string>
     <string name="external_sdcard">Külső memória kártya</string>
     <string name="messge_search_hint">Üzenetek keresése | Összesen %d beszélgetés</string>
     <string name="notification_multiple">%s olvasatlan üzenet.</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
     <string name="infocenter_AboutInfoSuffix">"
 Lenovo Inc, minden jog fentartva
 Copyright © 2012 Lenovo"</string>

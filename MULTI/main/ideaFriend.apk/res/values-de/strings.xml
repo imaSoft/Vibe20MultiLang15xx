@@ -3,8 +3,6 @@
     <string name="lenovo_about">Info</string>
     <string name="lenovo_about_email">E-Mail Adresse</string>
     <string name="app_name">Kontaktmanager</string>
-    <string name="author">Kontaktmanager</string>
-    <string name="description">Kontaktmanager</string>
     <string name="email_home">E-Mail (privat)</string>
     <string name="email_mobile">E-Mail (mobil)</string>
     <string name="email_work">E-Mail (Arbeit)</string>
@@ -213,48 +211,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Es sind keine Kontakte vorhanden.</string>
     <string name="noContactsHelpText">"Es können keine Kontakte angezeigt werden.
 
-Zum Hinzufügen von Kontakten drücken Sie "<b><font fgcolor="#ffffffff">Menü</font></b>" und tippen dann auf: 
+Zum Hinzufügen von Kontakten drücken Sie "<font fgcolor="#ffffffff"><b>Menü</b></font>" und tippen dann auf: 
  
-"<b><font fgcolor="#ffffffff"><li>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export, um Kontakte von Ihrer SIM- oder SD-Karte zu importieren.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Import/Export, um Kontakte von Ihrer SIM- oder SD-Karte zu importieren.
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Es können keine Kontakte angezeigt werden. Falls Sie gerade ein Konto hinzugefügt haben, kann die Kontaktsynchronisierung etwas dauern.
 
-Zum Hinzufügen von Kontakten drücken Sie "<b><font fgcolor="#ffffffff">Menü</font></b>" und tippen dann auf:
+Zum Hinzufügen von Kontakten drücken Sie "<font fgcolor="#ffffffff"><b>Menü</b></font>" und tippen dann auf:
  
-"<b><font fgcolor="#ffffffff"><li>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Anzeigeoptionen, um zu ändern, welche Kontakte angezeigt werden.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export, um Kontakte von Ihrer SIM- oder SD-Karte zu importieren.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Anzeigeoptionen, um zu ändern, welche Kontakte angezeigt werden.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Import/Export, um Kontakte von Ihrer SIM- oder SD-Karte zu importieren.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Es können keine Kontakte angezeigt werden.
 
-Zum Hinzufügen von Kontakten drücken Sie "<b><font fgcolor="#ffffffff">Menü</font></b>" und tippen dann auf:
+Zum Hinzufügen von Kontakten drücken Sie "<font fgcolor="#ffffffff"><b>Menü</b></font>" und tippen dann auf:
  
-"<b><font fgcolor="#ffffffff"><li>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export, um Kontakte von Ihrer SD-Karte zu importieren.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Import/Export, um Kontakte von Ihrer SD-Karte zu importieren.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Es können keine Kontakte angezeigt werden. Falls Sie gerade ein Konto hinzugefügt haben, kann die Kontaktsynchronisierung etwas dauern.
 
-Zum Hinzufügen von Kontakten drücken Sie "<b><font fgcolor="#ffffffff">Menü</font></b>" und tippen dann auf:
+Zum Hinzufügen von Kontakten drücken Sie "<font fgcolor="#ffffffff"><b>Menü</b></font>" und tippen dann auf:
  
-"<b><font fgcolor="#ffffffff"><li>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Anzeigeoptionen, um zu ändern, welche Kontakte angezeigt werden.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Import/Export, um Kontakte von Ihrer SD-Karte zu importieren.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konten, um ein Konto hinzuzufügen oder mit Kontakten für die Synchronisierung mit dem Telefon einzurichten.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Anzeigeoptionen, um zu ändern, welche Kontakte angezeigt werden.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Neuer Kontakt, um einen Kontakt neu zu erstellen.
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Import/Export, um Kontakte von Ihrer SD-Karte zu importieren.
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Es sind keine Favoriten vorhanden.
 
 So fügen Sie einen Kontakt zu Ihrer Favoritenliste hinzu:
@@ -1979,6 +1977,8 @@ Spielend einfach durch einhändige Bedienung."</string>
     <string name="sensor_keyboard_close">Quecksilberfarbene Tastatur ist ausgeschaltet. Tastatur zum Einschalten schnell nach rechts schieben.</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s ungelesene Nachrichten</string>
+    <string name="author">Kontaktmanager</string>
+    <string name="description">Kontaktmanager</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc. Alle Rechte vorbehalten.
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Diese Nachricht wird gelöscht.</string>

@@ -1,105 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="im_app_name">Lenovo+</string>
-    <string name="im_login">Вход</string>
-    <string name="im_back">Назад</string>
-    <string name="im_tip_request_fail">Не удалось выполнить запрос с сервера, пожалуйста, проверьте сеть или повторите попытку позже</string>
-    <string name="im_what_second">%d секунд</string>
-    <string name="im_notification">Получено новое сообщение</string>
-    <string name="im_notification_one">Отправлять сообщения %d</string>
-    <string name="im_notification_multi_title">%d друзья</string>
-    <string name="im_notification_multi_content">发来%d条消息</string>
-    <string name="im_get_pass">Получение пароля</string>
-    <string name="im_tip_login">"如果您是首次使用应用，请点击“获取密码”按钮来得到初始密码，密码会以短信发送您填写的手机号码中。
-如果您已经注册过，直接填入手机号和密码，点击“登录”按钮开始使用软件。"</string>
-    <string name="im_hint_input_phone">请输入手机号码</string>
-    <string name="im_hint_input_pass">请输入密码</string>
-    <string name="im_tip_phone_empty">手机号码不能为空</string>
-    <string name="im_tip_pass_empty">密码不能为空</string>
-    <string name="im_tip_get_pass_ok">获取密码成功，请等待短信发送</string>
-    <string name="im_tip_geting_pass">开始向服务器申请密码，如果60秒后还没收到短信，可重新申请</string>
-    <string name="im_tip_getauthnuming">获取验证码中…</string>
-    <string name="im_tip_logining">正在努力登录中…</string>
-    <string name="im_tx_read_agree">已阅读并同意</string>
-    <string name="im_tx_terms">使用条款和隐私政策</string>
-    <string name="im_tx_sended_authnum">我们已经发送了验证码到你的手机</string>
-    <string name="im_hint_input_authnum">请输入验证码</string>
-    <string name="im_hint_input_userinfo_name">请输入昵称</string>
-    <string name="im_tip_geting_authnum">接收短信大概需要%d秒钟</string>
-    <string name="im_btn_send_authnum">重新获取验证码</string>
-    <string name="im_btn_send_web_authnum">通过web获取验证码</string>
-    <string name="im_login_top_left">取 消</string>
-    <string name="im_next">下一步</string>
-    <string name="im_top_mid_phone">填写手机号</string>
-    <string name="im_top_mid_authnum">填写验证码</string>
-    <string name="im_top_mid_userinfo">填写个人信息</string>
-    <string name="im_phone_next_dialog_title">确认手机号码</string>
-    <string name="im_phone_next_dialog_message">我们将发送验证码短信到这个号码：</string>
-    <string name="im_authnum_left_dialog_title">确认取消</string>
-    <string name="im_authnum_left_dialog_message">验证码发送短信可能较慢</string>
-    <string name="im_authnum_left_dialog_wait">继续等待</string>
-    <string name="im_authnum_left_dialog_reget">退出</string>
-    <string name="im_ensure">Подтверждение</string>
-    <string name="im_cancel">Отмена</string>
-    <string name="im_userinfo_left_dialog_title">重新验证</string>
-    <string name="im_userinfo_left_dialog_message">您已经验证了手机号码，确定要重新验证吗？</string>
-    <string name="im_phone_num_error">你输入的手机号码格式有误，请重新输入</string>
-    <string name="im_tx_userinfo_remind">请设置头像、昵称，方便朋友认出你。</string>
-    <string name="im_userinfo_tip_saving">正在保存您的信息…</string>
-    <string name="im_userinfo_tip_save_fail">保存信息失败，请重试</string>
-    <string name="im_hint_input_message">请输入文字</string>
-    <string name="im_send">Отправить</string>
-    <string name="im_tip_message_empty">发送的文字消息不能为空</string>
-    <string name="im_im_add">聊天</string>
-    <string name="im_im_status_fail">发送失败</string>
-    <string name="im_im_status_pending">正在发送…</string>
-    <string name="im_im_status_read">已读</string>
-    <string name="im_im_status_receive">已送达</string>
-    <string name="im_im_status_send">已发送</string>
-    <string name="im_roster_name">好友</string>
-    <string name="im_roster_add">添加</string>
-    <string name="im_tip_download_ok">下载好友成功</string>
-    <string name="im_tip_download_fail">下载好友失败！请稍候重试！</string>
-    <string name="im_tip_roster_downloading">正在努力获取好友…</string>
-    <string name="im_tip_new_roster">您有新好友</string>
-    <string name="im_btn_enter">登录</string>
-    <string name="im_btn_login">注册</string>
-    <string name="im_tx_main_im">会话</string>
-    <string name="im_tx_main_roster">好友</string>
-    <string name="im_tx_main_setting">设置</string>
-    <string name="im_msg_not_network">没有可用网络</string>
-    <string name="im_msg_not_network_settings">当前网络不可用，是否设置网络？</string>
-    <string name="im_msg_not_network_ok">确定</string>
-    <string name="im_msg_not_network_exit">退出</string>
-    <string name="im_ideafriend_pref_summary_open_im">联想免费短信,通过网络及时发送。</string>
-    <string name="im_ideafriend_pref_title_open_im">开启联想免费短信</string>
-    <string name="im_ideafriend_pref_summary_set_im">账号信息</string>
-    <string name="im_ideafriend_pref_title_set_im">联想免费短信账号信息</string>
-    <string name="im_ideafriend_form_im">联想免费短信</string>
-    <string name="im_ideafriend_im_name">联想短信</string>
-    <string name="im_ideafriend_im_user">联想免费短信用户，可以发送免费短信</string>
-    <string name="im_ideafriend_im_extra_credit">友情提示：</string>
-    <string name="im_ideafriend_im_extra_credit_content">好友不在线时，默认以短信发送。您可以点击此处进行设置。</string>
-    <string name="im_ideafriend_registerPersonNum">您有%d个联系人是联想免费短信用户，赶快试试免费短信功能吧！</string>
-    <string name="im_ideafriend_imservice_update">您的联想免费短信Service端需要更新，更新之后才可以正常使用。谢谢！</string>
-    <string name="im_ideafriend_im_resend_sms">以短信重新发送</string>
-    <string name="im_ideafriend_im_net_not_connect">网络异常，消息将以短信发送</string>
-    <string name="im_pref_setting">设置</string>
-    <string name="im_pref_title_set_account">Настройка учетной записи</string>
-    <string name="im_pref_title_account">您已登录</string>
-    <string name="im_pref_summary_set_account">设置Idea Chat账号</string>
-    <string name="im_pref_summary_account">您已使用%0$s登录</string>
-    <string name="im_pref_title_set_off_line_msg">是否发送离线消息</string>
-    <string name="im_pref_summary_set_off_line_msg">好友不在线，是否转为收费短信发送</string>
-    <string name="im_pref_title_set_fail_msg">发送失败自动短信重发</string>
-    <string name="im_pref_summary_set_fail_msg">发送失败时，是否自动转为收费短信重发</string>
-    <string name="im_tip_set_off_line_msg">设置中…</string>
-    <string name="im_tip_no_off_line_msg">设置成功，离线消息不会自动转为收费短信发送</string>
-    <string name="im_tip_is_off_line_msg">Успешно, если ваши друзья не онлайн, автоматически конвертировать в Премиум SMS рассылка</string>
-    <string name="im_account_left_dialog_title">Снять со счета?</string>
-    <string name="im_account_left_dialog_message">Вы вошли в систему с %0$s, подтвердите выход?</string>
-    <string name="im_account_left_dialog_exit">Выход</string>
-    <string name="im_account_left_dialog_cancel">Отмена</string>
     <string name="com_lenovo_lsf_app_name">UserFramework</string>
     <string name="com_lenovo_lsf_lenovouser_app_name">Lenovo ID</string>
     <string name="com_lenovo_lsf_lenovouser_btn_ok">OK</string>
@@ -661,76 +561,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="config_export_extensions_to_consider" />
     <string name="config_export_dir_folder_name">Контакт</string>
     <string name="config_export_dir_folder_name_ct">ct_backup</string>
-    <string name="im_name">Lenovo SMS</string>
-    <string name="im_tip_logining_auto">已智能提取验证码，正在努力登录中…</string>
-    <string name="im_tip_logined">已登录账号</string>
-    <string name="im_complete">完成</string>
-    <string name="im_phone_exist_dialog_title">手机号已经绑定</string>
-    <string name="im_phone_exist_dialog_message">这个手机号码已经绑定，请更换其他号码</string>
-    <string name="im_verify_sms_start">Вход проверочный код:</string>
-    <string name="im_verify_sms_end">«Бесплатные SMS от Lenovo»</string>
-    <string name="im_tip_open_feature_first">联想短信尚未开启</string>
-    <string name="im_im_status_not_delivered">尚未送达</string>
-    <string name="im_contacts_mimetype_chat">聊天</string>
-    <string name="im_ideafriend_pref_summary_upgrade_im">обнаруживает подключаемый модуль необходимо обновить, выключить Бесплатные SMS, открытые бесплатные SMS обновление будет завершено</string>
-    <string name="im_ideafriend_pref_summary_set_im_slot1">卡1账号信息</string>
-    <string name="im_ideafriend_pref_title_set_im_slot1">联想免费短信账号信息</string>
-    <string name="im_ideafriend_pref_summary_set_im_slot2">卡2账号信息</string>
-    <string name="im_ideafriend_pref_title_set_im_slot2">联想免费短信账号信息</string>
-    <string name="im_ideafriend_im_net_not_connect_no_sim">网络异常</string>
-    <string name="im_ideafriend_warn">предупреждение</string>
-    <string name="im_ideafriend_mms_mix_num">MMS рассылок удержать поддержку бесплатно и нажмите кнопку ОК, сообщение является премиум мультимедийных сообщений</string>
-    <string name="im_ideafriend_mms_mix_update_num">вернуть, изменить номер</string>
-    <string name="im_ideafriend_tip_imservice_install">Бесплатные SMS плагин не установлен, после установки, пожалуйста, продолжайте</string>
-    <string name="im_ideafriend_tip_media_info_null">免费彩信已过期</string>
-    <string name="im_ideafriend_tip_media_close">请开启免费短信已完成附件下载</string>
-    <string name="im_ideafriend_tip_media_not_login">请先登录联想短信账户已完成附件下载</string>
-    <string name="im_ideafriend_tip_slot_register">卡槽%0$s尚未注册，消息将以短信发送</string>
-    <string name="im_pref_title_set_user_info_not_set">未设置</string>
-    <string name="im_pref_title_set_user_info_photo">头像</string>
-    <string name="im_pref_title_set_user_info_name">昵称</string>
-    <string name="im_pref_title_set_user_signature">个性签名</string>
-    <string name="im_pref_title_set_media_off_line_msg">是否发送离线多媒体消息</string>
-    <string name="im_pref_summary_set_media_off_line_msg">好友不在线，是否转为收费彩信发送</string>
-    <string name="im_pref_title_set_auto_download_media">автоматическое приобретение</string>
-    <string name="im_pref_summary_set_auto_download_media">Автоматический доступ к мультимедийной информации</string>
-    <string name="im_pref_title_free_sms_info">已发送免费短信数目</string>
-    <string name="im_pref_summary_free_sms_info">您共发送了%1$d条免费短信，联想免费短信为您节省了%2$s元</string>
-    <string name="im_invite_register">邀请</string>
-    <string name="im_btn_ok">ОК</string>
-    <string name="im_btn_cancel">Отмена</string>
-    <string name="im_btn_exit">Выход</string>
-    <string name="im_btn_relogin">Войти снова</string>
-    <string name="im_btn_authorization">Авторизация</string>
-    <string name="im_btn_existing_account_login">Войти с существующей учётной записи</string>
-    <string name="im_btn_register">Регистрация</string>
-    <string name="im_tip_server_kick">войти на ваш счет в другой терминал, если не моей операции, мы рекомендуем что вы login снова изменить разрешение!</string>
-    <string name="im_tip_app_kick">ваш счет в “%s” логин, пожалуйста отказаться или снова войдите!</string>
-    <string name="im_info_authorization">необходимую информацию о лицензии истекло, пожалуйста повторно для авторизации!</string>
-    <string name="im_info_existing_account_login">обнаруживает, что вы используете «Lenovo Контакты» зарегистрироваться для учетной записи, «Lenovo контакты» существующие логин?</string>
-    <string name="im_tip_title">Уведомление</string>
-    <string name="im_tip_auto_register">尊敬的用户，我们很高兴地告诉您，只要用“手机号%0$s”开通联想免费短信，就可以只消耗少量网络流量，免费与您的联系人好友互发短信了。</string>
-    <string name="im_btn_free_open">免费开通</string>
-    <string name="im_tip_title_auto_register">联想网络短信</string>
-    <string name="im_tip_opening">正在开通，请稍后…</string>
-    <string name="im_tip_bind_slot">您登录的账号%0$s还没绑定sim卡</string>
-    <string name="im_btn_bind_slot1">绑定卡1</string>
-    <string name="im_btn_bind_slot2">绑定卡2</string>
-    <string name="im_top_mid_edit_username">编辑昵称</string>
-    <string name="im_top_mid_edit_user_signature">编辑个性签名</string>
-    <string name="im_top_mid_edit_user_photo">编辑头像</string>
-    <string name="im_edit_user_photo_local">本地图片</string>
-    <string name="im_edit_user_photo_camare">拍照</string>
-    <string name="im_title_switch_server">切换服务器</string>
-    <string name="im_btn_formal_server">正式服务器</string>
-    <string name="im_btn_test_server">测试服务器</string>
-    <string name="im_recomment_title">推荐好友</string>
-    <string name="im_recomment_correlation">共同好友数：%0$s</string>
-    <string name="im_btn_recomment_add">添加好友</string>
     <string name="app_name">Менеджер контактов</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
-    <string name="component">ideafriend</string>
     <string name="email_home">Отправить эл. почту на домашний адрес</string>
     <string name="email_mobile">Отправить эл. почту на мобильный адрес</string>
     <string name="email_work">Отправить эл. почту на рабочий адрес</string>
@@ -802,7 +633,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="dialer_sound_effect_title">Тон набора номера</string>
     <string name="dialer_sound_effect_switch">Звук во время набора номера</string>
     <string name="sound_effect">Тема звуков</string>
-    <string name="replace_as_sender_number">"Заменить номер отправителя"</string>
+    <string name="replace_as_sender_number">Заменить номер отправителя</string>
     <string name="select_replace_number">Выберите номер для замены</string>
     <string name="select_replace_number_summary">(Этот номер будет сохранен в заметках о контакте.)</string>
     <string name="not_replace_as_new_number">Не заменять, добавить как новый номер</string>
@@ -885,7 +716,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="no_way_to_print">Приложение для печати контакта недоступно.</string>
     <string name="menu_set_ring_tone">Установить мелодию</string>
     <string name="menu_redirect_calls_to_vm">Все вызовы на голосовую почту</string>
-    <string name="readOnlyContactWarning">"Удаление контактов из учетных записей только для чтения невозможно, однако можно скрыть их в списках контактов"</string>
+    <string name="readOnlyContactWarning">Удаление контактов из учетных записей только для чтения невозможно, однако можно скрыть их в списках контактов</string>
     <string name="readOnlyContactDeleteConfirmation">Этот контакт содержит информацию из нескольких учетных записей. Информация из учетных записей только для чтения будет скрыта в списках контактов, а не удалена.</string>
     <string name="multipleContactDeleteConfirmation">Удаление этого контакта приведет к удалению информации из нескольких учетных записей</string>
     <string name="deleteConfirmation">Этот контакт будет удален.</string>
@@ -896,7 +727,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="label_sip_address">Интернет-вызов</string>
     <string name="ghostData_company">Компания</string>
     <string name="ghostData_title">Должность</string>
-    <string name="invalidContactMessage">"Контакт не существует"</string>
+    <string name="invalidContactMessage">Контакт не существует</string>
     <string name="pickerNewContactHeader">Создать новый контакт</string>
     <string name="pickerNewContactText">Создать новый контакт</string>
     <string name="phoneLabelsGroup">Телефон</string>
@@ -921,9 +752,9 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="savingContact">Сохранение контакта…</string>
     <string name="savingDisplayGroups">Сохранения параметров отображения…</string>
     <string name="contactSavedToast">Контакт сохранен.</string>
-    <string name="contactSavedErrorToast">"Не удалось сохранить изменения"</string>
+    <string name="contactSavedErrorToast">Не удалось сохранить изменения</string>
     <string name="groupSavedToast">Группа сохранена.</string>
-    <string name="groupSavedErrorToast">"Не удалось сохранить изменения"</string>
+    <string name="groupSavedErrorToast">Не удалось сохранить изменения</string>
     <string name="listTotalPhoneContactsZero">Нет контактов с номерами телефонов</string>
     <string name="listTotalAllContactsZero">Нет контактов</string>
     <string name="listTotalAllContactsZeroCustom">Нет видимых контактов</string>
@@ -961,55 +792,55 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="dialerDialpadHintText">Добавьте номер</string>
     <string name="simContacts_emptyLoading">Загрузка с %s-карты…</string>
     <string name="simContacts_title">Контакты на %s-карте</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Нет контактов для отображения. (Если учетная запись только что добавлена, синхронизация контактов может занять несколько минут.)"</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">Нет контактов для отображения. (Если учетная запись только что добавлена, синхронизация контактов может занять несколько минут.)</string>
     <string name="noContactsHelpTextForCreateShortcut">Нет контактов для отображения.</string>
     <string name="noContactsHelpText">"Нет контактов для отображения.
 
-Для добавления контактов выберите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем выберите
+Для добавления контактов выберите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем выберите
  
-"<b><font fgcolor="#ffffffff"><li>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с %s- или SD-карты
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с %s- или SD-карты
+"</b></font></li>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Нет контактов для отображения. (Если учетная запись только что добавлена, синхронизация контактов может занять несколько минут.)
 
-Для добавления контактов выберите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем выберите
+Для добавления контактов выберите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем выберите
  
-"<b><font fgcolor="#ffffffff"><li>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для изменения видимых контактов
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с %s- или SD-карты
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Параметры отображения для изменения видимых контактов
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с %s- или SD-карты
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpText">"Нет контактов для отображения.
 
-Для добавления контактов выберите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем выберите
+Для добавления контактов выберите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем выберите
  
-"<b><font fgcolor="#ffffffff"><li>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD-карты
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SD-карты
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Нет контактов для отображения. (Если учетная запись только что добавлена, синхронизация контактов может занять несколько минут.)
 
-Для добавления контактов выберите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем выберите
+Для добавления контактов выберите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем выберите
  
-"<b><font fgcolor="#ffffffff"><li>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для изменения видимых контактов
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD-карты
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Учетные записи для добавления или настройки учетной записи с контактами, которые можно синхронизировать с телефоном
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Параметры отображения для изменения видимых контактов
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SD-карты
+"</b></font></li>"
 "</string>
     <string name="noFavoritesHelpText">"Нет избранных для отображения.
 
@@ -1025,7 +856,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="dialer_returnToInCallScreen">Вернуться к текущему вызову</string>
     <string name="dialer_addAnotherCall">Добавить вызов</string>
     <string name="callDetailTitle">Сведения о вызове</string>
-    <string name="toast_call_detail_error">"Не удается прочитать сведения для запрошенного вызова"</string>
+    <string name="toast_call_detail_error">Не удается прочитать сведения для запрошенного вызова</string>
     <string name="type_incoming">Входящий вызов</string>
     <string name="type_outgoing">Исходящий вызов</string>
     <string name="type_missed">Пропущенный вызов</string>
@@ -1072,23 +903,23 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="import_multiple_vcard_string">Импорт нескольких файлов vCard</string>
     <string name="import_all_vcard_string">Импорт всех файлов vCard</string>
     <string name="searching_vcard_message">Поиск данных vCard на SD-карте…</string>
-    <string name="scanning_sdcard_failed_title">"На SD-карте отсутствует vCard"</string>
-    <string name="scanning_sdcard_failed_message">"Не удалось сканировать SD-карту. (Причина: \"%s\")"</string>
+    <string name="scanning_sdcard_failed_title">На SD-карте отсутствует vCard</string>
+    <string name="scanning_sdcard_failed_message">Не удалось сканировать SD-карту. (Причина: \"%s\")</string>
     <string name="fail_reason_io_error">Ошибка ввода-вывода</string>
     <string name="fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком велик.</string>
-    <string name="fail_reason_vcard_parse_error">"Не удалось обработать vCard по неизвестной причине"</string>
-    <string name="fail_reason_not_supported">"Формат не поддерживается"</string>
-    <string name="vcard_import_failed">"Не удалось импортировать vCard"</string>
+    <string name="fail_reason_vcard_parse_error">Не удалось обработать vCard по неизвестной причине</string>
+    <string name="fail_reason_not_supported">Формат не поддерживается</string>
+    <string name="vcard_import_failed">Не удалось импортировать vCard</string>
     <string name="import_failure_no_vcard_file">На SD-карте не найдено файлов vCard.</string>
-    <string name="fail_reason_failed_to_collect_vcard_meta_info">"Не удалось собрать метаинформацию данных файлов vCard."</string>
-    <string name="fail_reason_failed_to_read_files">"Не удалось импортировать один или несколько файлов (%s)."</string>
+    <string name="fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаинформацию данных файлов vCard.</string>
+    <string name="fail_reason_failed_to_read_files">Не удалось импортировать один или несколько файлов (%s).</string>
     <string name="fail_reason_unknown">Неизвестная ошибка.</string>
     <string name="select_vcard_title">Выберите файл vCard</string>
     <string name="caching_vcard_title">Кэширование</string>
     <string name="caching_vcard_message">Кэширование файлов vCard в локальном временном хранилище. Сам импорт скоро начнется.</string>
     <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
     <string name="importing_vcard_description">Импорт %s</string>
-    <string name="reading_vcard_failed_title">"Не удалось прочитать данные vCard"</string>
+    <string name="reading_vcard_failed_title">Не удалось прочитать данные vCard</string>
     <string name="reading_vcard_canceled_title">Чтение данных vCard отменено</string>
     <string name="importing_vcard_finished_title">Импорт vCard %s завершен</string>
     <string name="importing_vcard_canceled_title">Импорт %s отменен</string>
@@ -1101,7 +932,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Экспорт контактов?</string>
     <string name="confirm_export_message">Список контактов будет экспортирован в файл: %s.</string>
-    <string name="exporting_contact_failed_title">"Не удалось экспортировать"</string>
+    <string name="exporting_contact_failed_title">Не удалось экспортировать</string>
     <string name="exporting_contact_failed_message">"Данные контакта не были экспортированы.
 Причина: \"%s\""</string>
     <string name="fail_reason_no_exportable_contact">Нет контакта для экспорта.</string>
@@ -1122,7 +953,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="cancel_import_confirmation_message">Отменить импорт %s?</string>
     <string name="cancel_export_confirmation_title">Отмена экспорта vCard</string>
     <string name="cancel_export_confirmation_message">Отменить экспорт %s?</string>
-    <string name="cancel_vcard_import_or_export_failed">"Не удалось отменить импорт или экспорт vCard"</string>
+    <string name="cancel_vcard_import_or_export_failed">Не удалось отменить импорт или экспорт vCard</string>
     <string name="search_settings_description">Имена контактов</string>
     <string name="add_2sec_pause">Добавить 2-секундную паузу</string>
     <string name="add_wait">Добавить ожидание</string>
@@ -1140,7 +971,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="menu_share">Передать</string>
     <string name="menu_all_contacts">Все контакты</string>
     <string name="share_via">Передать контакт через</string>
-    <string name="share_error">"Этот контакт нельзя передать"</string>
+    <string name="share_error">Этот контакт нельзя передать</string>
     <string name="nameLabelsGroup">Имя</string>
     <string name="nicknameLabelsGroup">Псевдоним</string>
     <string name="organizationLabelsGroup">Работа</string>
@@ -1295,14 +1126,14 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="cancel_confirmation_dialog_message">Отменить изменения?</string>
     <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">Настроить мой профиль</string>
-    <string name="enter_contact_name">"Введите имя человека"</string>
+    <string name="enter_contact_name">Введите имя человека</string>
     <string name="view_updates_from_group">Просмотр обновлений</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="notification_new_voicemail_ticker">Новое голосовое сообщение от %1$s</string>
-    <string name="voicemail_playback_error">"Не удалось воспроизвести сообщение"</string>
+    <string name="voicemail_playback_error">Не удалось воспроизвести сообщение</string>
     <string name="voicemail_buffering">Буферизация...</string>
     <string name="voicemail_fetching_content">Получение голосовой почты...</string>
-    <string name="voicemail_fetching_timout">"Не удалось получить голосовую почту"</string>
+    <string name="voicemail_fetching_timout">Не удалось получить голосовую почту</string>
     <string name="call_log_new_header">Новые</string>
     <string name="call_log_old_header">Старые</string>
     <string name="voicemail_status_voicemail_not_available">Не удается подключиться к серверу голосовой почты.</string>
@@ -1317,7 +1148,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="voicemail_speed_faster">Высокая скорость</string>
     <string name="voicemail_speed_fastest">Максимальная скорость</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
-    <string name="group_name_hint">"Имя группы"</string>
+    <string name="group_name_hint">Имя группы</string>
     <string name="nfc_vcard_file_name">Контакт получен по NFC</string>
     <string name="menu_show_voicemails_only">Только голосовая почта</string>
     <string name="menu_show_all_calls">Все вызовы</string>
@@ -1472,7 +1303,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="menu_move_group">Переместить участников группы</string>
     <string name="menu_message_group">Отправить сообщение группе</string>
     <string name="menu_email_group">Отправить эл. сообщение группе</string>
-    <string name="menu_set_group_member_ringtone">"Установить мелодии участникам группы"</string>
+    <string name="menu_set_group_member_ringtone">Установить мелодии участникам группы</string>
     <string name="moving_group_members">Перемещение участников группы...</string>
     <string name="removing_group_members_sucess">Участники группы успешно удалены</string>
     <string name="removing_group_members_fail">Участники группы не удалены</string>
@@ -1556,7 +1387,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="multichoice_no_select_group_alert">Группа не выбрана.</string>
     <string name="multichoice_delete_confirm_message">Удалить выбранные контакты?</string>
     <string name="multichoice_delete_confirm_title">Удалить контакты?</string>
-    <string name="multichoice_contacts_limit">"Можно выбрать не более 1500 контактов"</string>
+    <string name="multichoice_contacts_limit">Можно выбрать не более 1500 контактов</string>
     <string name="phone_storage_full_create">Память %s заполнена, создание нового контакта невозможно.</string>
     <string name="phone_storage_full_edit">Память %s заполнена, изменение контакта невозможно.</string>
     <string name="add_SIP_to_sim">Невозможно добавить номер SIP к контакту %s.</string>
@@ -1593,7 +1424,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="delete_group_failure">Не удалось удалить группу.</string>
     <string name="account_type_uim_label">Только UIM, без синхронизации</string>
     <string name="call_log_auto_rejected_label">Автоматически отклоненные вызовы</string>
-    <string name="import_no_vcard_dialog_title">"Ошибка импорта"</string>
+    <string name="import_no_vcard_dialog_title">Ошибка импорта</string>
     <string name="import_no_vcard_dialog_text">Не найдено файлов vCard.</string>
     <string name="look_simstorage">Просмотр емкости %s-карты</string>
     <string name="dlg_simstorage_content" formatted="false">Емкость телефонной книги: %d; используется: %d.</string>
@@ -1706,7 +1537,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="birthday_today">Сегодня</string>
     <string name="next_week">Следующие 7 дней</string>
     <string name="least_select_one">Выберите хотя бы один элемент.</string>
-    <string name="not_find_birthday_contact">"Не узнавать день рождения контакта"</string>
+    <string name="not_find_birthday_contact">Не узнавать день рождения контакта</string>
     <string name="remind_birthday_off">Напоминание о дне рождения выключено</string>
     <string name="remind_birthday_on">Напоминание о дне рождения включено</string>
     <string name="contact_ringtone">Мелодия</string>
@@ -2246,7 +2077,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="storage_limits_message">Хотите ограничить число сообщений, сохраняемых в каждой беседе?</string>
     <string name="storage_limits_setting">Установить ограничения</string>
     <string name="storage_limits_setting_dismiss">Без ограничений</string>
-    <string name="too_many_unsent_mms">"Не удается отправить сообщение сейчас. Слишком много неотправленных мультимедийных сообщений"</string>
+    <string name="too_many_unsent_mms">Не удается отправить сообщение сейчас. Слишком много неотправленных мультимедийных сообщений</string>
     <string name="sending_message">Отправка…</string>
     <string name="pick_too_many_recipients">Слишком много получателей</string>
     <string name="adding_recipients">Добавление получателей…</string>
@@ -2462,7 +2293,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="unselect_all">Отменить все</string>
     <string name="forward_from">Переслать от:</string>
     <string name="sms_forward_setting">Настройка переадресации SMS</string>
-    <string name="sms_forward_setting_summary">"Пересылать SMS с именем и номером отправителя"</string>
+    <string name="sms_forward_setting_summary">Пересылать SMS с именем и номером отправителя</string>
     <string name="file_attachment_vcalendar_name">vCalendar(%s)</string>
     <string name="file_attachment_common_name">Несколько файлов(%s)</string>
     <string name="file_attachment_contains">содержит</string>
@@ -2505,7 +2336,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="folder_download">Выполняется загрузка MMS</string>
     <string name="confirm_download_message">Подтвердите загрузку сообщения</string>
     <string name="play_as_slideshow">Воспроизвести MMS как слайд-шоу</string>
-    <string name="invalid_contact_message">"Нет такого контакта"</string>
+    <string name="invalid_contact_message">Нет такого контакта</string>
     <string name="by_card">По:</string>
     <string name="page">Страница %d:</string>
     <string name="space_not_enough">Оставшегося места недостаточно для записи видео</string>
@@ -2533,7 +2364,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="pref_summary_signature">Содержимое подписи</string>
     <string name="edit_signature_title">Введите подпись</string>
     <string name="send_to">"Адресат: "</string>
-    <string name="prompt_text">"Больше не показывать"</string>
+    <string name="prompt_text">Больше не показывать</string>
     <string name="menu_ip_call">IP-вызов</string>
     <string name="menu_video_call">Видеовызов</string>
     <string name="menu_add_to_blacklist">Добавить в черный список</string>
@@ -2707,8 +2538,8 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="add_success">добавлено</string>
     <string name="add_failed">не добавлено</string>
     <string name="toast_openfilterlist">добавлено, откройте список фильтров</string>
-    <string name="mms_firewall_black_list_msg">"Все сообщения с этого номера будут отклоняться. Добавить этот номер в черный список?"</string>
-    <string name="mms_firewall_white_list_msg">"При добавлении в белый список все сообщения с этого номера будут приниматься. Добавить этот номер в белый список?"</string>
+    <string name="mms_firewall_black_list_msg">Все сообщения с этого номера будут отклоняться. Добавить этот номер в черный список?</string>
+    <string name="mms_firewall_white_list_msg">При добавлении в белый список все сообщения с этого номера будут приниматься. Добавить этот номер в белый список?</string>
     <string name="discard_mms_title">Отменить MMS</string>
     <string name="discard_mms_content">ВСЕ MMS в множественном пересылаемом сообщении будут отменены</string>
     <string name="toast_sms_forward">Никакие SMS не были пересланы</string>
@@ -2722,7 +2553,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="forward_pref_title_forward_phone_number">Указать номер получателя</string>
     <string name="forward_pref_summary_undefined">Введите номер получателя</string>
     <string name="forward_pref_title_sms_forward_setting">Настройка переадресации</string>
-    <string name="forward_pref_summary_sms_forward_setting">"Отправляемая информация при переадресации"</string>
+    <string name="forward_pref_summary_sms_forward_setting">Отправляемая информация при переадресации</string>
     <string name="forward_pref_title_sms_forward_need_add">Содержимое для добавления</string>
     <string name="forward_title_forward_input_phone_number">Введите номер телефона</string>
     <string name="forward_forward_by">"Отправить через "</string>
@@ -2812,10 +2643,10 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="phonecity_disclaimer_title">Отказ от ответственности</string>
     <string name="phonecity_disclaimer_summary">Просмотр отказа от ответственности.</string>
     <string name="phonecity_about_title">О программе</string>
-    <string name="phonecity_about_summary">"Просмотр версии базы данных"</string>
-    <string name="phonecity_show_city_on">"Показать геоданные номера"</string>
-    <string name="phonecity_versoin">"Версия базы данных"</string>
-    <string name="phonecity_db_date">"Дата базы данных"</string>
+    <string name="phonecity_about_summary">Просмотр версии базы данных</string>
+    <string name="phonecity_show_city_on">Показать геоданные номера</string>
+    <string name="phonecity_versoin">Версия базы данных</string>
+    <string name="phonecity_db_date">Дата базы данных</string>
     <string name="phonecity_disclaimer_content">Оператор будет периодически проверять период настройки, что может привести к ошибке определения номера. Lenovo Mobile не гарантирует полного отображения правильных и неправильных определений номеров. Вы несете юридическую ответственность за использование отображаемых результатов. Номера, определяемые автоматически, отображаются только для справки.</string>
     <string name="phonecity_initing">База данных не инициализирована!</string>
     <string name="phonecity_dberror_hint">Ошибка базы данных. Выполните обновление.</string>
@@ -2860,7 +2691,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="sms_fcn_restored">Восстановление успешно.</string>
     <string name="restore">Восстановление</string>
     <string name="status_delete_without_read">Удалено без прочтения</string>
-    <string name="default_sms_prompt_text">"IdeaFriend может работать неправильно, т.к. не является приложением сообщений по-умолчанию. Исправить?"</string>
+    <string name="default_sms_prompt_text">IdeaFriend может работать неправильно, т.к. не является приложением сообщений по-умолчанию. Исправить?</string>
     <string name="string_accordingto_citylocation">По расположению</string>
     <string name="sim_deactive_dialog_msg">SIM не активирована! Активировать?</string>
     <string name="sim_is_deactive">SIM отключена!</string>
@@ -2873,7 +2704,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="call_digits_tips_more">Хотите стать лучше? Это можно сделать спомощью множества функций и настройкой возможностей</string>
     <string name="call_digits_tips_about">Обучитесь новым техниками использования телефона в \"About\", чтобы стать экспертом</string>
     <string name="call_digits_tips_smsfontsize">Во время просмотра сообщения, проведите двумя пальцами в разные стороны, чтобы увеличить или уменьшить размер шрифта</string>
-    <string name="call_digits_tips_two_fingers_shrink">"В списке контактов, проведите пальцем вверх или вниз, чтобы отобразить номер по-умолчанию"</string>
+    <string name="call_digits_tips_two_fingers_shrink">В списке контактов, проведите пальцем вверх или вниз, чтобы отобразить номер по-умолчанию</string>
     <string name="import_sim_card_contacts_to_phone">Копирование контактов SIM-карты в телефон</string>
     <string name="notifier_card_not_ready">SIM-карта не готова</string>
     <string name="notifier_reading_contact_from_card">Чтение информации контактов с SIM-карты</string>
@@ -2883,29 +2714,6 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="recoverying_from_calllog">Восстановления:</string>
     <string name="group_add_no_group_contacts">Не сгруппированные контакты</string>
     <string name="callog_click_action">Действие при выборе контакта</string>
-    <string name="private_msg">Личные сообщения</string>
-    <string name="private_msg_settings">Личные параметры</string>
-    <string name="new_private_msg_notify">Новое уведомление сообщения</string>
-    <string name="private_msg_lock">Шаблон блокировка</string>
-    <string name="private_msg_pattern_visiable">Шаблон видно</string>
-    <string name="private_people">Частные люди</string>
-    <string name="private_people_count">%d</string>
-    <string name="private_people_empty">Добавить частных людей для защиты сообщения!</string>
-    <string name="private_msg_add_manual">Ручной ввод</string>
-    <string name="private_msg_add_from_contact">Добавить из контакта</string>
-    <string name="private_setting_lock_pattern">Установите комбинацию блокировки для личных сообщений</string>
-    <string name="private_msg_select_pattern">Выберите шаблон</string>
-    <string name="lockpattern_confirm_button_text">Подтвердите</string>
-    <string name="lockpattern_retry_button_text">Повторить попытку</string>
-    <string name="lockpattern_continue_button_text">Продолжить</string>
-    <string name="lockpattern_recording_inprogress">Отпустите палец, когда сделано</string>
-    <string name="lockpattern_recording_incorrect_too_short">Подключение по крайней мере %d точек. Попробуйте еще раз.</string>
-    <string name="lockpattern_pattern_entered_header">Шаблон записан</string>
-    <string name="lockpattern_need_to_confirm">Нарисуйте шаблон ещё раз для подтверждения</string>
-    <string name="lockpattern_need_to_unlock_wrong">Попробуйте еще раз:</string>
-    <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки</string>
-    <string name="private_msg_confirm_lockpattern">Подтвердите свою комбинацию блокировки</string>
-    <string name="private_msg_please_input_lockpattern">Пожалуйста введите комбинацию блокировки</string>
     <string name="dialpad_recently_contact">Последний звонок</string>
     <string name="dialpad_remove_from_frequent">Удалить из списка</string>
     <string name="dialpad_clear_frequent">Очистить список вызовов</string>
@@ -2916,7 +2724,7 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="calllog_list_item_view_other_card">Другие карты</string>
     <string name="contact_detail_pulldown_weather">Потяните вниз, чтобы обновить локальные данные</string>
     <string name="contact_detail_getting_weather">Получение локальных данных...</string>
-    <string name="contact_detail_no_weather">"Ошибка получения локальных данных"</string>
+    <string name="contact_detail_no_weather">Ошибка получения локальных данных</string>
     <string name="contact_detail_flow_weather">Получение локальных данных использует интернет. Учтите, что без использования Wi-Fi, с вашего счёт будут списываться средства, согласно вашего тарифного плана</string>
     <string name="contact_detail_join">Объединить</string>
     <string name="contact_detail_join_contact">Объединить контакты</string>
@@ -2934,10 +2742,10 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="audio_db_artist_name">Ваши записи</string>
     <string name="audio_db_album_name">Аудио записи</string>
     <string name="audio_db_playlist_name">Мои записи</string>
-    <string name="error_mediadb_new_record">"Невозможно сохранить запись"</string>
+    <string name="error_mediadb_new_record">Невозможно сохранить запись</string>
     <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
     <string name="max_length_reached">Достигнута максимальная длина</string>
-    <string name="error_sdcard_access">"Нет доступа к SD-карте"</string>
+    <string name="error_sdcard_access">Нет доступа к SD-карте</string>
     <string name="error_app_internal">Внутренняя ошибка приложения</string>
     <string name="error_app_unsupported">Формат не поддерживается</string>
     <string name="insert_sd_card">Вставьте SD-карту</string>
@@ -3049,9 +2857,9 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="away_mode_time_out">режим вдали — время ожидания, затем выход!</string>
     <string name="away_mode_ringer_change_notice">изменении режима звонка, затем выход!</string>
     <string name="away_mode_quit_notice">Режим отсутствия выхода!</string>
-    <string name="sms_reply_1">"Здравствуйте, я не рядом с телефоном, перезвоню позже!"</string>
-    <string name="sms_reply_2">"Здравствуйте, у меня есть кое-что, позвоню позже!"</string>
-    <string name="sms_reply_3">"Здравствуйте, сейчас не удобно отвечать на телефонные звонки, позвоните позже!"</string>
+    <string name="sms_reply_1">Здравствуйте, я не рядом с телефоном, перезвоню позже!</string>
+    <string name="sms_reply_2">Здравствуйте, у меня есть кое-что, позвоню позже!</string>
+    <string name="sms_reply_3">Здравствуйте, сейчас не удобно отвечать на телефонные звонки, позвоните позже!</string>
     <string name="sms_reply_suffix">--Lenovo Mobile авто-ответ в режиме отсутствия</string>
     <string name="away_mode_recorder_not_found">Нет подходящего приложения для записи звука!</string>
     <string name="away_mode_activity_not_found">Нет подходящего приложения!</string>
@@ -3089,4 +2897,196 @@ The password has been encrypted to ensure secure transmission. You can use it wi
     <string name="noti_msg">SMS уведомления</string>
     <string name="pref_title_carrier_msg_on">Сообщения оператора</string>
     <string name="pref_summary_carrier_msg_on">Собирать сообщения от оператора в группу</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
+    <string name="component">ideafriend</string>
+    <string name="im_app_name">Lenovo+</string>
+    <string name="im_login">Вход</string>
+    <string name="im_back">Назад</string>
+    <string name="im_tip_request_fail">Не удалось выполнить запрос с сервера, пожалуйста, проверьте сеть или повторите попытку позже</string>
+    <string name="im_what_second">%d секунд</string>
+    <string name="im_notification">Получено новое сообщение</string>
+    <string name="im_notification_one">Отправлять сообщения %d</string>
+    <string name="im_notification_multi_title">%d друзья</string>
+    <string name="im_notification_multi_content">发来%d条消息</string>
+    <string name="im_get_pass">Получение пароля</string>
+    <string name="im_tip_login">"如果您是首次使用应用，请点击“获取密码”按钮来得到初始密码，密码会以短信发送您填写的手机号码中。
+如果您已经注册过，直接填入手机号和密码，点击“登录”按钮开始使用软件。"</string>
+    <string name="im_hint_input_phone">请输入手机号码</string>
+    <string name="im_hint_input_pass">请输入密码</string>
+    <string name="im_tip_phone_empty">手机号码不能为空</string>
+    <string name="im_tip_pass_empty">密码不能为空</string>
+    <string name="im_tip_get_pass_ok">获取密码成功，请等待短信发送</string>
+    <string name="im_tip_geting_pass">开始向服务器申请密码，如果60秒后还没收到短信，可重新申请</string>
+    <string name="im_tip_getauthnuming">获取验证码中…</string>
+    <string name="im_tip_logining">正在努力登录中…</string>
+    <string name="im_tx_read_agree">已阅读并同意</string>
+    <string name="im_tx_terms">使用条款和隐私政策</string>
+    <string name="im_tx_sended_authnum">我们已经发送了验证码到你的手机</string>
+    <string name="im_hint_input_authnum">请输入验证码</string>
+    <string name="im_hint_input_userinfo_name">请输入昵称</string>
+    <string name="im_tip_geting_authnum">接收短信大概需要%d秒钟</string>
+    <string name="im_btn_send_authnum">重新获取验证码</string>
+    <string name="im_btn_send_web_authnum">通过web获取验证码</string>
+    <string name="im_login_top_left">取 消</string>
+    <string name="im_next">下一步</string>
+    <string name="im_top_mid_phone">填写手机号</string>
+    <string name="im_top_mid_authnum">填写验证码</string>
+    <string name="im_top_mid_userinfo">填写个人信息</string>
+    <string name="im_phone_next_dialog_title">确认手机号码</string>
+    <string name="im_phone_next_dialog_message">我们将发送验证码短信到这个号码：</string>
+    <string name="im_authnum_left_dialog_title">确认取消</string>
+    <string name="im_authnum_left_dialog_message">验证码发送短信可能较慢</string>
+    <string name="im_authnum_left_dialog_wait">继续等待</string>
+    <string name="im_authnum_left_dialog_reget">退出</string>
+    <string name="im_ensure">Подтверждение</string>
+    <string name="im_cancel">Отмена</string>
+    <string name="im_userinfo_left_dialog_title">重新验证</string>
+    <string name="im_userinfo_left_dialog_message">您已经验证了手机号码，确定要重新验证吗？</string>
+    <string name="im_phone_num_error">你输入的手机号码格式有误，请重新输入</string>
+    <string name="im_tx_userinfo_remind">请设置头像、昵称，方便朋友认出你。</string>
+    <string name="im_userinfo_tip_saving">正在保存您的信息…</string>
+    <string name="im_userinfo_tip_save_fail">保存信息失败，请重试</string>
+    <string name="im_hint_input_message">请输入文字</string>
+    <string name="im_send">Отправить</string>
+    <string name="im_tip_message_empty">发送的文字消息不能为空</string>
+    <string name="im_im_add">聊天</string>
+    <string name="im_im_status_fail">发送失败</string>
+    <string name="im_im_status_pending">正在发送…</string>
+    <string name="im_im_status_read">已读</string>
+    <string name="im_im_status_receive">已送达</string>
+    <string name="im_im_status_send">已发送</string>
+    <string name="im_roster_name">好友</string>
+    <string name="im_roster_add">添加</string>
+    <string name="im_tip_download_ok">下载好友成功</string>
+    <string name="im_tip_download_fail">下载好友失败！请稍候重试！</string>
+    <string name="im_tip_roster_downloading">正在努力获取好友…</string>
+    <string name="im_tip_new_roster">您有新好友</string>
+    <string name="im_btn_enter">登录</string>
+    <string name="im_btn_login">注册</string>
+    <string name="im_tx_main_im">会话</string>
+    <string name="im_tx_main_roster">好友</string>
+    <string name="im_tx_main_setting">设置</string>
+    <string name="im_msg_not_network">没有可用网络</string>
+    <string name="im_msg_not_network_settings">当前网络不可用，是否设置网络？</string>
+    <string name="im_msg_not_network_ok">确定</string>
+    <string name="im_msg_not_network_exit">退出</string>
+    <string name="im_ideafriend_pref_summary_open_im">联想免费短信,通过网络及时发送。</string>
+    <string name="im_ideafriend_pref_title_open_im">开启联想免费短信</string>
+    <string name="im_ideafriend_pref_summary_set_im">账号信息</string>
+    <string name="im_ideafriend_pref_title_set_im">联想免费短信账号信息</string>
+    <string name="im_ideafriend_form_im">联想免费短信</string>
+    <string name="im_ideafriend_im_name">联想短信</string>
+    <string name="im_ideafriend_im_user">联想免费短信用户，可以发送免费短信</string>
+    <string name="im_ideafriend_im_extra_credit">友情提示：</string>
+    <string name="im_ideafriend_im_extra_credit_content">好友不在线时，默认以短信发送。您可以点击此处进行设置。</string>
+    <string name="im_ideafriend_registerPersonNum">您有%d个联系人是联想免费短信用户，赶快试试免费短信功能吧！</string>
+    <string name="im_ideafriend_imservice_update">您的联想免费短信Service端需要更新，更新之后才可以正常使用。谢谢！</string>
+    <string name="im_ideafriend_im_resend_sms">以短信重新发送</string>
+    <string name="im_ideafriend_im_net_not_connect">网络异常，消息将以短信发送</string>
+    <string name="im_pref_setting">设置</string>
+    <string name="im_pref_title_set_account">Настройка учетной записи</string>
+    <string name="im_pref_title_account">您已登录</string>
+    <string name="im_pref_summary_set_account">设置Idea Chat账号</string>
+    <string name="im_pref_summary_account">您已使用%0$s登录</string>
+    <string name="im_pref_title_set_off_line_msg">是否发送离线消息</string>
+    <string name="im_pref_summary_set_off_line_msg">好友不在线，是否转为收费短信发送</string>
+    <string name="im_pref_title_set_fail_msg">发送失败自动短信重发</string>
+    <string name="im_pref_summary_set_fail_msg">发送失败时，是否自动转为收费短信重发</string>
+    <string name="im_tip_set_off_line_msg">设置中…</string>
+    <string name="im_tip_no_off_line_msg">设置成功，离线消息不会自动转为收费短信发送</string>
+    <string name="im_tip_is_off_line_msg">Успешно, если ваши друзья не онлайн, автоматически конвертировать в Премиум SMS рассылка</string>
+    <string name="im_account_left_dialog_title">Снять со счета?</string>
+    <string name="im_account_left_dialog_message">Вы вошли в систему с %0$s, подтвердите выход?</string>
+    <string name="im_account_left_dialog_exit">Выход</string>
+    <string name="im_account_left_dialog_cancel">Отмена</string>
+    <string name="im_name">Lenovo SMS</string>
+    <string name="im_tip_logining_auto">已智能提取验证码，正在努力登录中…</string>
+    <string name="im_tip_logined">已登录账号</string>
+    <string name="im_complete">完成</string>
+    <string name="im_phone_exist_dialog_title">手机号已经绑定</string>
+    <string name="im_phone_exist_dialog_message">这个手机号码已经绑定，请更换其他号码</string>
+    <string name="im_verify_sms_start">Вход проверочный код:</string>
+    <string name="im_verify_sms_end">«Бесплатные SMS от Lenovo»</string>
+    <string name="im_tip_open_feature_first">联想短信尚未开启</string>
+    <string name="im_im_status_not_delivered">尚未送达</string>
+    <string name="im_contacts_mimetype_chat">聊天</string>
+    <string name="im_ideafriend_pref_summary_upgrade_im">обнаруживает подключаемый модуль необходимо обновить, выключить Бесплатные SMS, открытые бесплатные SMS обновление будет завершено</string>
+    <string name="im_ideafriend_pref_summary_set_im_slot1">卡1账号信息</string>
+    <string name="im_ideafriend_pref_title_set_im_slot1">联想免费短信账号信息</string>
+    <string name="im_ideafriend_pref_summary_set_im_slot2">卡2账号信息</string>
+    <string name="im_ideafriend_pref_title_set_im_slot2">联想免费短信账号信息</string>
+    <string name="im_ideafriend_im_net_not_connect_no_sim">网络异常</string>
+    <string name="im_ideafriend_warn">предупреждение</string>
+    <string name="im_ideafriend_mms_mix_num">MMS рассылок удержать поддержку бесплатно и нажмите кнопку ОК, сообщение является премиум мультимедийных сообщений</string>
+    <string name="im_ideafriend_mms_mix_update_num">вернуть, изменить номер</string>
+    <string name="im_ideafriend_tip_imservice_install">Бесплатные SMS плагин не установлен, после установки, пожалуйста, продолжайте</string>
+    <string name="im_ideafriend_tip_media_info_null">免费彩信已过期</string>
+    <string name="im_ideafriend_tip_media_close">请开启免费短信已完成附件下载</string>
+    <string name="im_ideafriend_tip_media_not_login">请先登录联想短信账户已完成附件下载</string>
+    <string name="im_ideafriend_tip_slot_register">卡槽%0$s尚未注册，消息将以短信发送</string>
+    <string name="im_pref_title_set_user_info_not_set">未设置</string>
+    <string name="im_pref_title_set_user_info_photo">头像</string>
+    <string name="im_pref_title_set_user_info_name">昵称</string>
+    <string name="im_pref_title_set_user_signature">个性签名</string>
+    <string name="im_pref_title_set_media_off_line_msg">是否发送离线多媒体消息</string>
+    <string name="im_pref_summary_set_media_off_line_msg">好友不在线，是否转为收费彩信发送</string>
+    <string name="im_pref_title_set_auto_download_media">автоматическое приобретение</string>
+    <string name="im_pref_summary_set_auto_download_media">Автоматический доступ к мультимедийной информации</string>
+    <string name="im_pref_title_free_sms_info">已发送免费短信数目</string>
+    <string name="im_pref_summary_free_sms_info">您共发送了%1$d条免费短信，联想免费短信为您节省了%2$s元</string>
+    <string name="im_invite_register">邀请</string>
+    <string name="im_btn_ok">ОК</string>
+    <string name="im_btn_cancel">Отмена</string>
+    <string name="im_btn_exit">Выход</string>
+    <string name="im_btn_relogin">Войти снова</string>
+    <string name="im_btn_authorization">Авторизация</string>
+    <string name="im_btn_existing_account_login">Войти с существующей учётной записи</string>
+    <string name="im_btn_register">Регистрация</string>
+    <string name="im_tip_server_kick">войти на ваш счет в другой терминал, если не моей операции, мы рекомендуем что вы login снова изменить разрешение!</string>
+    <string name="im_tip_app_kick">ваш счет в “%s” логин, пожалуйста отказаться или снова войдите!</string>
+    <string name="im_info_authorization">необходимую информацию о лицензии истекло, пожалуйста повторно для авторизации!</string>
+    <string name="im_info_existing_account_login">обнаруживает, что вы используете «Lenovo Контакты» зарегистрироваться для учетной записи, «Lenovo контакты» существующие логин?</string>
+    <string name="im_tip_title">Уведомление</string>
+    <string name="im_tip_auto_register">尊敬的用户，我们很高兴地告诉您，只要用“手机号%0$s”开通联想免费短信，就可以只消耗少量网络流量，免费与您的联系人好友互发短信了。</string>
+    <string name="im_btn_free_open">免费开通</string>
+    <string name="im_tip_title_auto_register">联想网络短信</string>
+    <string name="im_tip_opening">正在开通，请稍后…</string>
+    <string name="im_tip_bind_slot">您登录的账号%0$s还没绑定sim卡</string>
+    <string name="im_btn_bind_slot1">绑定卡1</string>
+    <string name="im_btn_bind_slot2">绑定卡2</string>
+    <string name="im_top_mid_edit_username">编辑昵称</string>
+    <string name="im_top_mid_edit_user_signature">编辑个性签名</string>
+    <string name="im_top_mid_edit_user_photo">编辑头像</string>
+    <string name="im_edit_user_photo_local">本地图片</string>
+    <string name="im_edit_user_photo_camare">拍照</string>
+    <string name="im_title_switch_server">切换服务器</string>
+    <string name="im_btn_formal_server">正式服务器</string>
+    <string name="im_btn_test_server">测试服务器</string>
+    <string name="im_recomment_title">推荐好友</string>
+    <string name="im_recomment_correlation">共同好友数：%0$s</string>
+    <string name="im_btn_recomment_add">添加好友</string>
+    <string name="private_msg">Личные сообщения</string>
+    <string name="private_msg_settings">Личные параметры</string>
+    <string name="new_private_msg_notify">Новое уведомление сообщения</string>
+    <string name="private_msg_lock">Шаблон блокировка</string>
+    <string name="private_msg_pattern_visiable">Шаблон видно</string>
+    <string name="private_people">Частные люди</string>
+    <string name="private_people_count">%d</string>
+    <string name="private_people_empty">Добавить частных людей для защиты сообщения!</string>
+    <string name="private_msg_add_manual">Ручной ввод</string>
+    <string name="private_msg_add_from_contact">Добавить из контакта</string>
+    <string name="private_setting_lock_pattern">Установите комбинацию блокировки для личных сообщений</string>
+    <string name="private_msg_select_pattern">Выберите шаблон</string>
+    <string name="lockpattern_confirm_button_text">Подтвердите</string>
+    <string name="lockpattern_retry_button_text">Повторить попытку</string>
+    <string name="lockpattern_continue_button_text">Продолжить</string>
+    <string name="lockpattern_recording_inprogress">Отпустите палец, когда сделано</string>
+    <string name="lockpattern_recording_incorrect_too_short">Подключение по крайней мере %d точек. Попробуйте еще раз.</string>
+    <string name="lockpattern_pattern_entered_header">Шаблон записан</string>
+    <string name="lockpattern_need_to_confirm">Нарисуйте шаблон ещё раз для подтверждения</string>
+    <string name="lockpattern_need_to_unlock_wrong">Попробуйте еще раз:</string>
+    <string name="lockpattern_pattern_confirmed_header">Ваш новый шаблон разблокировки</string>
+    <string name="private_msg_confirm_lockpattern">Подтвердите свою комбинацию блокировки</string>
+    <string name="private_msg_please_input_lockpattern">Пожалуйста введите комбинацию блокировки</string>
 </resources>

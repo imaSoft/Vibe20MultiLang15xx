@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Pieejama jauna versija: U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Instalē programmu.</string>
     <string name="app_name">Kontaktu pārvaldnieks</string>
-    <string name="author">Kontaktu pārvaldnieks</string>
-    <string name="description">Kontaktu pārvaldnieks</string>
     <string name="email_home">Sūtīt e-pasta ziņojumu uz privāto adresi</string>
     <string name="email_mobile">Sūtīt e-pasta ziņojumu uz mobilo tālruni</string>
     <string name="email_work">Sūtīt e-pasta ziņojumu uz darba adresi</string>
@@ -254,48 +252,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Nav nevienas kontaktpersonas, ko attēlot.</string>
     <string name="noContactsHelpText">"Nav nevienas parādāmas kontaktpersonas.
 
-Lai pievienotu kontaktpersonas, pieskarieties vienumam "<b><font fgcolor="#ffffffff">Izvēlne</font></b>", pēc tam pieskarieties vienumam:
+Lai pievienotu kontaktpersonas, pieskarieties vienumam "<font fgcolor="#ffffffff"><b>Izvēlne</b></font>", pēc tam pieskarieties vienumam:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importēt/eksportēt, lai importētu kontaktpersonas no SIM kartes vai SD kartes.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importēt/eksportēt, lai importētu kontaktpersonas no SIM kartes vai SD kartes.
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Nav nevienas parādāmas kontaktpersonas. (Ja tikko pievienojāt kontu, kontaktpersonu sinhronizācija var ilgt dažas minūtes.)
 
-Lai pievienotu kontaktpersonas, pieskarieties vienumam "<b><font fgcolor="#ffffffff">Izvēlne</font></b>", pēc tam pieskarieties vienumam:
+Lai pievienotu kontaktpersonas, pieskarieties vienumam "<font fgcolor="#ffffffff"><b>Izvēlne</b></font>", pēc tam pieskarieties vienumam:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Attēlojuma opcijas, lai mainītu redzamo kontaktpersonu iestatījumus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importēt/eksportēt, lai importētu kontaktpersonas no SIM kartes vai SD kartes.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Attēlojuma opcijas, lai mainītu redzamo kontaktpersonu iestatījumus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importēt/eksportēt, lai importētu kontaktpersonas no SIM kartes vai SD kartes.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Nav nevienas parādāmas kontaktpersonas.
 
-Lai pievienotu kontaktpersonas, pieskarieties vienumam "<b><font fgcolor="#ffffffff">Izvēlne</font></b>", pēc tam pieskarieties vienumam:
+Lai pievienotu kontaktpersonas, pieskarieties vienumam "<font fgcolor="#ffffffff"><b>Izvēlne</b></font>", pēc tam pieskarieties vienumam:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importēt/eksportēt, lai importētu kontaktpersonas no SD kartes.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importēt/eksportēt, lai importētu kontaktpersonas no SD kartes.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Nav nevienas parādāmas kontaktpersonas. (Ja tikko pievienojāt kontu, kontaktpersonu sinhronizācija var ilgt dažas minūtes.)
 
-Lai pievienotu kontaktpersonas, pieskarieties vienumam "<b><font fgcolor="#ffffffff">Izvēlne</font></b>", pēc tam pieskarieties vienumam:
+Lai pievienotu kontaktpersonas, pieskarieties vienumam "<font fgcolor="#ffffffff"><b>Izvēlne</b></font>", pēc tam pieskarieties vienumam:
  
-"<b><font fgcolor="#ffffffff"><li>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Attēlojuma opcijas, lai mainītu redzamo kontaktpersonu iestatījumus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importēt/eksportēt, lai importētu kontaktpersonas no SD kartes.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Konti, lai pievienotu vai iestatītu ar tālruni sinhronizējamu kontu, kurā ir kontaktpersonas;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Attēlojuma opcijas, lai mainītu redzamo kontaktpersonu iestatījumus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Jauna kontaktpersona, lai izveidotu jaunu kontaktpersonu, neizmantojot esošus datus;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importēt/eksportēt, lai importētu kontaktpersonas no SD kartes.
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Jūs neesat izveidojis izlasi.
 
 Lai pievienotu kontaktpersonu izlasei, rīkojieties šādi:
@@ -2002,6 +2000,8 @@ Vienas rokas darbība daudzkārt atvieglo tā lietošanu"</string>
     <string name="sensor_keyboard_close">Mercury tastatūra ir izslēgta. Lai ieslēgtu tastatūru, ātri velciet to pa kreisi!</string>
     <string name="telecom_menu_call">Yi numura sastādīšana</string>
     <string name="notification_multiple">%s nelasīti ziņojumi.</string>
+    <string name="author">Kontaktu pārvaldnieks</string>
+    <string name="description">Kontaktu pārvaldnieks</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc, visas tiesības paturētas
 Autortiesības © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Sistēma izdzēsīs šo ziņu!</string>

@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Налична е нова версия за U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Сега инсталирайте apk.</string>
     <string name="app_name">Диспечер на контактите</string>
-    <string name="author">Диспечер на контактите</string>
-    <string name="description">Диспечер на контактите</string>
     <string name="email_home">Изпращане на имейл до домашен</string>
     <string name="email_mobile">Изпращане на имейл до мобилен</string>
     <string name="email_work">Изпращане на имейл до служебен</string>
@@ -253,48 +251,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Нямате контакти за показване.</string>
     <string name="noContactsHelpText">"Нямате контакти за показване.
 
-За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+За добавяне на контакти докоснете "<font fgcolor="#ffffffff"><b>Меню</b></font>" и след това:
  
-"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SIM или SD карта.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Нов контакт, за да създадете съвсем нов контакт;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импортиране/Експортиране, за да импортирате контакти от своята SIM или SD карта.
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Нямате контакти за показване. (Ако току-що сте добавили профил, синхронизирането им може да отнеме няколко минути.)
 
-За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+За добавяне на контакти докоснете "<font fgcolor="#ffffffff"><b>Меню</b></font>" и след това:
  
-"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Опции за показване, за да промените кои контакти са видими;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране , за да импортирате контакти от своята SIM или SD карта.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Опции за показване, за да промените кои контакти са видими;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Нов контакт, за да създадете съвсем нов контакт;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импортиране/Експортиране , за да импортирате контакти от своята SIM или SD карта.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Нямате контакти за показване.
 
- За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+ За добавяне на контакти докоснете "<font fgcolor="#ffffffff"><b>Меню</b></font>" и след това:
  
-"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Нов контакт, за да създадете съвсем нов контакт;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Нямате контакти за показване. (Ако току-що сте добавили профил, синхронизирането им може да отнеме няколко минути.)
 
-За добавяне на контакти докоснете "<b><font fgcolor="#ffffffff">Меню</font></b>" и след това:
+За добавяне на контакти докоснете "<font fgcolor="#ffffffff"><b>Меню</b></font>" и след това:
  
-"<b><font fgcolor="#ffffffff"><li>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Опции за показване, за да промените кои контакти са видими;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Нов контакт, за да създадете съвсем нов контакт;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Профили, за да добавите или настроите профил с контакти, които можете да синхронизирате с телефона;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Опции за показване, за да промените кои контакти са видими;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Нов контакт, за да създадете съвсем нов контакт;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импортиране/Експортиране, за да импортирате контакти от своята SD карта.
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Нямате любими контакти.
 
 За добавяне на контакт към любими:
@@ -2019,6 +2017,8 @@
     <string name="sensor_keyboard_close">Интелигентната програма за набиране е деактивирана. Плъзнете надясно програмата за набиране, за да я активирате!</string>
     <string name="telecom_menu_call">Телекомуникационно обаждане</string>
     <string name="notification_multiple">%s непрочетени съобщения.</string>
+    <string name="author">Диспечер на контактите</string>
+    <string name="description">Диспечер на контактите</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc всички права запазени
 © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Системата ще изтрие това съобщение!</string>

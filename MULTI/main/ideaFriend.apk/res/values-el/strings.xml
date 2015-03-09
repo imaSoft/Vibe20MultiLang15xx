@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Νέα διαθέσιμη έκδοση για το U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Να εγκατασταθεί τώρα το APK.</string>
     <string name="app_name">Πρόγραμμα διαχείρισης επαφών</string>
-    <string name="author">Πρόγραμμα διαχείρισης επαφών</string>
-    <string name="description">Πρόγραμμα διαχείρισης επαφών</string>
     <string name="email_home">Email προς οικία</string>
     <string name="email_mobile">Email προς κινητή συσκευή</string>
     <string name="email_work">Email προς εργασία</string>
@@ -253,48 +251,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Δεν υπάρχουν επαφές για προβολή.</string>
     <string name="noContactsHelpText">"Δεν υπάρχουν επαφές προς εμφάνιση.
 
-Για να προσθέσετε επαφές, αγγίξτε το στοιχείο "<b><font fgcolor="#ffffffff">Μενού</font></b>" και έπειτα:
+Για να προσθέσετε επαφές, αγγίξτε το στοιχείο "<font fgcolor="#ffffffff"><b>Μενού</b></font>" και έπειτα:
  
-"<b><font fgcolor="#ffffffff"><li>"Λογαριασμοί, για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές τις οποίες μπορείτε να συγχρονίσετε με το τηλέφωνο
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Νέα επαφή, για να δημιουργήσετε μαι νέα επαφή
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα σας SIM ή SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί, για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές τις οποίες μπορείτε να συγχρονίσετε με το τηλέφωνο
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Νέα επαφή, για να δημιουργήσετε μαι νέα επαφή
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα σας SIM ή SD
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Δεν έχετε επαφές προς προβολή. (Αν προσθέσατε κάποιον λογαριασμό μόλις τώρα, θα χρειαστούν λίγα λεπτά έως ότου γίνει ο συγχρονισμός.)
 
-Για την προσθήκη επαφών, πατήστε "<b><font fgcolor="#ffffffff">Μενού</font></b>" και αγγίξτε την επιλογή:
+Για την προσθήκη επαφών, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>" και αγγίξτε την επιλογή:
  
-"<b><font fgcolor="#ffffffff"><li>"Λογαριασμοί, για την προσθήκη ή ρύθμιση λογαριασμού με επαφές τις οποίες μπορείτε να συγχρονίσετε στο τηλέφωνο
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Προβολή επιλογών, για να αλλάξετε τις επαφές που είναι ορατές
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Νέα επαφή, για δημιουργία νέας επαφής
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SIM ή SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί, για την προσθήκη ή ρύθμιση λογαριασμού με επαφές τις οποίες μπορείτε να συγχρονίσετε στο τηλέφωνο
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Προβολή επιλογών, για να αλλάξετε τις επαφές που είναι ορατές
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Νέα επαφή, για δημιουργία νέας επαφής
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SIM ή SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Δεν υπάρχουν επαφές προς εμφάνιση.
 
-Για να προσθέσετε επαφές, αγγίξτε το στοιχείο "<b><font fgcolor="#ffffffff">Μενού</font></b>" και έπειτα:
+Για να προσθέσετε επαφές, αγγίξτε το στοιχείο "<font fgcolor="#ffffffff"><b>Μενού</b></font>" και έπειτα:
  
-"<b><font fgcolor="#ffffffff"><li>"Λογαριασμοί, για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές τις οποίες μπορείτε να συγχρονίσετε με το τηλέφωνο
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Νέα επαφή, για να δημιουργήσετε μαι νέα επαφή
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί, για να προσθέσετε ή να ρυθμίσετε έναν λογαριασμό με επαφές τις οποίες μπορείτε να συγχρονίσετε με το τηλέφωνο
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Νέα επαφή, για να δημιουργήσετε μαι νέα επαφή
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Δεν έχετε επαφές προς προβολή. (Αν προσθέσατε κάποιον λογαριασμό μόλις τώρα, θα χρειαστούν λίγα λεπτά έως ότου γίνει ο συγχρονισμός.)
 
-Για την προσθήκη επαφών, πατήστε "<b><font fgcolor="#ffffffff">Μενού</font></b>" και αγγίξτε την επιλογή:
+Για την προσθήκη επαφών, πατήστε "<font fgcolor="#ffffffff"><b>Μενού</b></font>" και αγγίξτε την επιλογή:
  
-"<b><font fgcolor="#ffffffff"><li>"Λογαριασμοί, για την προσθήκη ή ρύθμιση λογαριασμού με επαφές τις οποίες μπορείτε να συγχρονίσετε στο τηλέφωνο
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Προβολή επιλογών, για να αλλάξετε τις επαφές που είναι ορατές
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Νέα επαφή, για δημιουργία νέας επαφής
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Λογαριασμοί, για την προσθήκη ή ρύθμιση λογαριασμού με επαφές τις οποίες μπορείτε να συγχρονίσετε στο τηλέφωνο
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Προβολή επιλογών, για να αλλάξετε τις επαφές που είναι ορατές
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Νέα επαφή, για δημιουργία νέας επαφής
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Εισαγωγή/Εξαγωγή για την εισαγωγή επαφών από την κάρτα SD
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Δεν έχετε αγαπημένα.
 
 Για προσθήκη επαφής στη λίστα των αγαπημένων σας:
@@ -2019,6 +2017,8 @@
     <string name="sensor_keyboard_close">Απενεργοποιήθηκε το Έξυπνο πληκτρολόγιο οθόνης. Σύρετε προς τα δεξιά στο πληκτρολόγιο οθόνης για ενεργοποίηση!</string>
     <string name="telecom_menu_call">Κλήση telecom</string>
     <string name="notification_multiple">%s μη αναγνωσμένα μηνύματα.</string>
+    <string name="author">Πρόγραμμα διαχείρισης επαφών</string>
+    <string name="description">Πρόγραμμα διαχείρισης επαφών</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo, Inc Με επιφύλαξη παντός δικαιώματος
 Πνευματικά δικαιώματα © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Το σύστημα θα διαγράψει το μήνυμα!</string>

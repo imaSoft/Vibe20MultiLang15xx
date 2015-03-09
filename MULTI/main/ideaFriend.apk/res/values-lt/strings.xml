@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Yra nauja versija, skirta U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Įdiegiama programa.</string>
     <string name="app_name">Adresatų tvarkytuvė</string>
-    <string name="author">Adresatų tvarkytuvė</string>
-    <string name="description">Adresatų tvarkytuvė</string>
     <string name="email_home">Namų el. paštas</string>
     <string name="email_mobile">Siųsti el. laišką mobiliuoju el. pašto adresu</string>
     <string name="email_work">Siųsti el. laišką į darbo el. paštą</string>
@@ -254,48 +252,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Neturite adresatų, kuriuos būtų galima pateikti.</string>
     <string name="noContactsHelpText">"Neturite pateiktinų kontaktų.
 
-Jei norite įtraukti kontaktų, palieskite "<b><font fgcolor="#ffffffff">Meniu</font></b>", tada palieskite:
+Jei norite įtraukti kontaktų, palieskite "<font fgcolor="#ffffffff"><b>Meniu</b></font>", tada palieskite:
  
-"<b><font fgcolor="#ffffffff"><li>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SIM ar SD kortelės
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SIM ar SD kortelės
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Neturite pateiktinų kontaktų. (Jei ką tik pridėjote paskyrą, kontaktų sinchronizavimas gali užtrukti kelias minutes.)
 
-Jei norite pridėti kontaktų, palieskite "<b><font fgcolor="#ffffffff">Meniu</font></b>", tada palieskite:
+Jei norite pridėti kontaktų, palieskite "<font fgcolor="#ffffffff"><b>Meniu</b></font>", tada palieskite:
  
-"<b><font fgcolor="#ffffffff"><li>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Pateikties parinktys, kad pakeistumėte matomus kontaktus
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SIM ar SD kortelės
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Pateikties parinktys, kad pakeistumėte matomus kontaktus
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SIM ar SD kortelės
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Neturite pateiktinų kontaktų.
 
-Jei norite įtraukti kontaktų, palieskite "<b><font fgcolor="#ffffffff">Meniu</font></b>", tada palieskite:
+Jei norite įtraukti kontaktų, palieskite "<font fgcolor="#ffffffff"><b>Meniu</b></font>", tada palieskite:
  
-"<b><font fgcolor="#ffffffff"><li>"Paskyros, kad įtrauktumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SD kortelės
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Paskyros, kad įtrauktumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Naujas kontaktas, kad sukurtumėte visiškai naują kontaktą
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SD kortelės
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Neturite pateiktinų kontaktų. (Jei ką tik pridėjote paskyrą, kontaktų sinchronizavimas gali užtrukti.) 
 
-Jei norite pridėti kontaktų, palieskite "<b><font fgcolor="#ffffffff">Meniu</font></b>", tada palieskite:
+Jei norite pridėti kontaktų, palieskite "<font fgcolor="#ffffffff"><b>Meniu</b></font>", tada palieskite:
  
-"<b><font fgcolor="#ffffffff"><li>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Pateikties parinktys, kad pakeistumėte matomus kontaktus
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Naujas kontaktas, kad pridėtumėte visiškai naują kontaktą
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SD kortelės
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Paskyros, kad pridėtumėte ar nustatytumėte paskyrą su kontaktais, kuriuos galite sinchronizuoti su telefonu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Pateikties parinktys, kad pakeistumėte matomus kontaktus
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Naujas kontaktas, kad pridėtumėte visiškai naują kontaktą
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importuoti / eksportuoti, kad importuotumėte kontaktus iš SD kortelės
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Nėra adresyno įrašų.
 
 Jei norite pridėti adresatą prie adresyno sąrašo:
@@ -2001,6 +1999,8 @@ Valdyti viena ranka visiškai paprasta"</string>
     <string name="sensor_keyboard_close">„Mercury“ klaviatūra išjungta. Greitai nustumkite klaviatūrą į dešinę, kad ją įjungtumėte!</string>
     <string name="telecom_menu_call">„Yi“ skambinimas</string>
     <string name="notification_multiple">%s neperskaityti (-ų) pranešimai (-ų).</string>
+    <string name="author">Adresatų tvarkytuvė</string>
+    <string name="description">Adresatų tvarkytuvė</string>
     <string name="infocenter_AboutInfoSuffix">"„Lenovo Inc“ visos teisės saugomos
 © 2013 m., „Lenovo“"</string>
     <string name="confirm_dialog_msg">Sistema ištrins šį pranešimą!</string>

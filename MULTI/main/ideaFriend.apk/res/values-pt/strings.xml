@@ -16,8 +16,6 @@
     <string name="SUS_CANCEL">Mais tarde</string>
     <string name="SUS_CANCELBUTTON">Cancelar</string>
     <string name="app_name">Gestor de Contactos</string>
-    <string name="author">Gestor de Contactos</string>
-    <string name="description">Gestor de Contactos</string>
     <string name="email_home">E-mail (residencial)</string>
     <string name="email_mobile">Enviar e-mail para celular</string>
     <string name="email_work">E-mail (comercial)</string>
@@ -221,48 +219,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Você não tem contatos para exibir.</string>
     <string name="noContactsHelpText">"Você não tem nenhum contato para exibir.
 
-Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>" e, a seguir, toque em:
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>" e, a seguir, toque em:
  
-"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o telefone
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um novo contato do início
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contatos do seu cartão SIM ou SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um novo contato do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do seu cartão SIM ou SD
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Você não tem contatos para exibir. Se acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos.
 
-Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>" e toque em:
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>" e toque em:
  
-"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opções de exibição para alterar quais contatos serão visíveis
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um novo contato do início
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contatos do cartão SD ou SIM
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o tablet
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opções de exibição para alterar quais contatos serão visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um novo contato do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do cartão SD ou SIM
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Você não tem nenhum contato para exibir.
 
-Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>" e, a seguir, toque em:
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>" e, a seguir, toque em:
  
-"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o telefone
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um novo contato do início
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contatos do cartão SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o telefone
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um novo contato do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do cartão SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Você não tem contatos para exibir. Se acabou de adicionar uma conta, pode levar alguns minutos para sincronizar os contatos.
 
-Para adicionar contatos, toque em "<b><font fgcolor="#ffffffff">Menu</font></b>" e toque em:
+Para adicionar contatos, toque em "<font fgcolor="#ffffffff"><b>Menu</b></font>" e toque em:
  
-"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o tablet
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Opções de exibição para alterar quais contatos serão visíveis
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novo contato para criar um novo contato do início
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importar/Exportar para importar contatos do cartão SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Contas para adicionar ou configurar uma conta com contatos que possam ser sincronizados com o tablet
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Opções de exibição para alterar quais contatos serão visíveis
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Novo contato para criar um novo contato do início
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importar/Exportar para importar contatos do cartão SD
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Você não tem nenhum favorito.
 
 Para adicionar um contato à sua lista de favoritos:
@@ -1963,6 +1961,8 @@ Operação com uma só mão simplifica exactamente como gostaria"</string>
     <string name="sensor_keyboard_close">Teclado Mercúrio desactivado. Faça deslizar rapidamente o teclado para a direita para activar!</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s mensagens não lidas.</string>
+    <string name="author">Gestor de Contactos</string>
+    <string name="description">Gestor de Contactos</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc Todos os direitos reservados
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">O sistema eliminará esta mensagem!</string>

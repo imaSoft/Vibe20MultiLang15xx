@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">Остання версія</string>
     <string name="SUS_FIND_NEW_VERSION">Доступна нова версія</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">На домашню адресу</string>
     <string name="email_mobile">На мобільний</string>
     <string name="email_work">На робочу адресу</string>
@@ -251,51 +249,51 @@
     <string name="noContactsHelpTextForCreateShortcut">Немає жодних контактів, які можна відобразити.</string>
     <string name="noContactsHelpText">"Немає жодних контактів, які можна відобразити.
 
-Щоб додати контакти, зайдіть у "<font fgcolor="#ffffffff"><b>Меню</b></font>" та виберіть елемент:
+Щоб додати контакти, зайдіть у "<b><font fgcolor="#ffffffff">Меню</font></b>" та виберіть елемент:
  
-"<li><font fgcolor="#ffffffff"><b>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новий контакт, щоб створити новий контакт \"з нуля\"
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Імпорт/Експорт, щоб імпортувати контакти із %s- або SD-карти
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новий контакт, щоб створити новий контакт \"з нуля\"
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Імпорт/Експорт, щоб імпортувати контакти із %s- або SD-карти
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"Немає жодних контактів, які можна відобразити. (Якщо ви щойно створили обліковий запис, для синхронізації контактів знадобиться кілька хвилин.)
 
-Щоб додати контакти, зайдіть у "<font fgcolor="#ffffffff"><b>Меню</b></font>" та виберіть елемент:
+Щоб додати контакти, зайдіть у "<b><font fgcolor="#ffffffff">Меню</font></b>" та виберіть елемент:
  
-"<li><font fgcolor="#ffffffff"><b>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Параметри відображення, щоб змінити контакти, які відображаються
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новий контакт, щоб створити новий контакт \"з нуля\"
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Імпорт/Експорт, щоб імпортувати контакти із %s- або SD-карти
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Параметри відображення, щоб змінити контакти, які відображаються
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новий контакт, щоб створити новий контакт \"з нуля\"
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Імпорт/Експорт, щоб імпортувати контакти із %s- або SD-карти
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"Немає жодних контактів, які можна відобразити.
 
-Щоб додати контакти, зайдіть у "<font fgcolor="#ffffffff"><b>Меню</b></font>" та виберіть елемент:
+Щоб додати контакти, зайдіть у "<b><font fgcolor="#ffffffff">Меню</font></b>" та виберіть елемент:
  
-"<li><font fgcolor="#ffffffff"><b>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новий контакт, щоб створити новий контакт \"з нуля\"
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Імпорт/Експорт, щоб імпортувати контакти із SD-карти
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новий контакт, щоб створити новий контакт \"з нуля\"
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Імпорт/Експорт, щоб імпортувати контакти із SD-карти
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"Немає жодних контактів, які можна відобразити. (Якщо ви щойно створили обліковий запис, для синхронізації контактів знадобиться кілька хвилин.)
 
-Щоб додати контакти, зайдіть у "<font fgcolor="#ffffffff"><b>Меню</b></font>" та виберіть елемент:
+Щоб додати контакти, зайдіть у "<b><font fgcolor="#ffffffff">Меню</font></b>" та виберіть елемент:
  
-"<li><font fgcolor="#ffffffff"><b>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Параметри відображення, щоб змінити контакти, які відображаються
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Новий контакт, щоб створити новий контакт \"з нуля\"
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Імпорт/Експорт, щоб імпортувати контакти із SD-карти
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Облікові записи, щоб додати чи налаштувати обліковий запис із контактами для синхронізації з телефоном
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Параметри відображення, щоб змінити контакти, які відображаються
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Новий контакт, щоб створити новий контакт \"з нуля\"
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Імпорт/Експорт, щоб імпортувати контакти із SD-карти
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"Немає жодних обраних контактів.
 
@@ -2013,4 +2011,6 @@
     <string name="sensor_keyboard_close">Срібляста клавіатура вимкнена. Щоб увімкнути її, швидко зсуньте її вправо.</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">Непрочит. повідомл: %s</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
 </resources>

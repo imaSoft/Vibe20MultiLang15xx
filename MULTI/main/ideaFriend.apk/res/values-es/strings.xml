@@ -41,8 +41,6 @@
     <string name="SUS_NEW_VERSION">Versión más reciente</string>
     <string name="SUS_FIND_NEW_VERSION">Hay una nueva versión disponible para usted.</string>
     <string name="app_name">ContactManager</string>
-    <string name="author">ContactManager</string>
-    <string name="description">ContactManager</string>
     <string name="email_home">Enviar correo a casa</string>
     <string name="email_mobile">Enviar correo a móvil</string>
     <string name="email_work">Enviar correo a trabajo</string>
@@ -252,51 +250,51 @@
     <string name="noContactsHelpTextForCreateShortcut">No tiene contactos para mostrar.</string>
     <string name="noContactsHelpText">"No tiene contactos para mostrar.
 
-Para agregar contactos, toque "<font fgcolor="#ffffffff"><b>Menú</b></font>" y luego:
+Para agregar contactos, toque "<b><font fgcolor="#ffffffff">Menú</font></b>" y luego:
  
-"<li><font fgcolor="#ffffffff"><b>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nuevo contacto para crear un nuevo contacto
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/exportar para importar contactos de la tarjeta %s o SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un nuevo contacto
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar/exportar para importar contactos de la tarjeta %s o SD
+"</li></font></b>"
 "</string>
     <string name="noContactsHelpTextWithSync">"No tiene contactos para mostrar. (Si acaba de agregar una cuenta, puede tardar algunos minutos en sincronizar los contactos.)
 
-Para agregar contactos, toque "<font fgcolor="#ffffffff"><b>Menú</b></font>" y luego:
+Para agregar contactos, toque "<b><font fgcolor="#ffffffff">Menú</font></b>" y luego:
  
-"<li><font fgcolor="#ffffffff"><b>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opciones de pantalla para cambiar los contactos que están visibles
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nuevo contacto para crear un nuevo contacto
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/exportar para importar contactos de la tarjeta %s o SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opciones de pantalla para cambiar los contactos que están visibles
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un nuevo contacto
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar/exportar para importar contactos de la tarjeta %s o SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpText">"No tiene contactos para mostrar.
 
-Para agregar contactos, toque "<font fgcolor="#ffffffff"><b>Menú</b></font>" y luego:
+Para agregar contactos, toque "<b><font fgcolor="#ffffffff">Menú</font></b>" y luego:
  
-"<li><font fgcolor="#ffffffff"><b>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nuevo contacto para crear un nuevo contacto
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/exportar para importar contactos de la tarjeta SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un nuevo contacto
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar/exportar para importar contactos de la tarjeta SD
+"</li></font></b>"
 "</string>
     <string name="noContactsNoSimHelpTextWithSync">"No tiene contactos para mostrar. (Si acaba de agregar una cuenta, puede tardar algunos minutos en sincronizar los contactos.)
 
-Para agregar contactos, toque "<font fgcolor="#ffffffff"><b>Menú</b></font>" y luego:
+Para agregar contactos, toque "<b><font fgcolor="#ffffffff">Menú</font></b>" y luego:
  
-"<li><font fgcolor="#ffffffff"><b>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Opciones de pantalla para cambiar los contactos que están visibles
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Nuevo contacto para crear un nuevo contacto
-"</b></font></li>" 
-"<li><font fgcolor="#ffffffff"><b>"Importar/exportar para importar contactos de la tarjeta SD
-"</b></font></li>"
+"<b><font fgcolor="#ffffffff"><li>"Cuentas ¿para agregar o configurar una cuenta con contactos que puede sincronizar con el teléfono
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opciones de pantalla para cambiar los contactos que están visibles
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nuevo contacto para crear un nuevo contacto
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Importar/exportar para importar contactos de la tarjeta SD
+"</li></font></b>"
 "</string>
     <string name="noFavoritesHelpText">"No tiene favoritos.
 
@@ -2021,6 +2019,8 @@ La operación con una sola mano es muy sencilla"</string>
     <string name="sensor_keyboard_close">Teclado de mercurio apagado. Deslice rápidamente el teclado hacia la derecha para encenderlo.</string>
     <string name="telecom_menu_call">Telecom call</string>
     <string name="notification_multiple">%s mensajes no leídos</string>
+    <string name="author">ContactManager</string>
+    <string name="description">ContactManager</string>
     <string name="infocenter_AboutInfoSuffix">"Todos los derechos reservados. 
 Copyright © 2013 Lenovo Inc."</string>
     <string name="confirm_dialog_msg">El sistema borrará este mensaje.</string>

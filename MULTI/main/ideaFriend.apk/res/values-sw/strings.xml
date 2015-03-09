@@ -167,48 +167,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Hauna anwani zozote za kuonyesha.</string>
     <string name="noContactsHelpText">"Hauna anwani zozote za kuonyesha.
 
-Ili kuongeza anwani, gusa "<b><font fgcolor="#ffffffff"> Menyu</font></b>", kisha uguse: 
+Ili kuongeza anwani, gusa "<font fgcolor="#ffffffff"><b> Menyu</b></font>", kisha uguse: 
  
-"<b><font fgcolor="#ffffffff"><li>"Akaunti ili kuongeza au kusanidi akaunti yenye anwani unazoweza kulandanisha na simu {
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" Anwani mpya kuunda anwani mpya kutoka mwanzo 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" Leta/Hamisha  ili kuleta anwani kutoka kwa kadi yako wa SIM au ya SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Akaunti ili kuongeza au kusanidi akaunti yenye anwani unazoweza kulandanisha na simu {
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" Anwani mpya kuunda anwani mpya kutoka mwanzo 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" Leta/Hamisha  ili kuleta anwani kutoka kwa kadi yako wa SIM au ya SD
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Hauna anwani zozote za kuonyesha. (Kama umeongeza akaunti sasa hivi, inaweza kuchukua dakika chache kulandanisha anwani.)
 
-Kuongeza anwani, gusa "<b><font fgcolor="#ffffffff">Menyu</font></b>",kisha uguse:{
+Kuongeza anwani, gusa "<font fgcolor="#ffffffff"><b>Menyu</b></font>",kisha uguse:{
  
-"<b><font fgcolor="#ffffffff"><li>"Akaunti ili kuongeza au kuanzisha akaunti yenye anwani unazoweza kulandanisha kwenye simu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Onyesha uchaguzi ili kubadilisha anwani gani zinazoonekana
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Anwani mpyaili kuunda anwani mpya kutoka mwanzo
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Leta/Hamisha ili kuleta anwani kutoka kwa kadi yako ya SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Akaunti ili kuongeza au kuanzisha akaunti yenye anwani unazoweza kulandanisha kwenye simu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Onyesha uchaguzi ili kubadilisha anwani gani zinazoonekana
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Anwani mpyaili kuunda anwani mpya kutoka mwanzo
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Leta/Hamisha ili kuleta anwani kutoka kwa kadi yako ya SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Hauna anwani zozote za kuonyesha.
 
-Ili kuongeza anwani, gusa "<b><font fgcolor="#ffffffff"> Menyu </font></b>", kisha uguse: 
+Ili kuongeza anwani, gusa "<font fgcolor="#ffffffff"><b> Menyu </b></font>", kisha uguse: 
  
-"<b><font fgcolor="#ffffffff"><li>"Akaunti kuongeza au kusanidi akaunti yenye anwani unazoweza kulandanisha kwa simu 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Anwani mpya Ili kuunda anwani mpya kutoka mwanzo 
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>" Leta/Hamisha  ili kuhamisha anwani kutoka kwa kadi yako ya SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Akaunti kuongeza au kusanidi akaunti yenye anwani unazoweza kulandanisha kwa simu 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Anwani mpya Ili kuunda anwani mpya kutoka mwanzo 
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>" Leta/Hamisha  ili kuhamisha anwani kutoka kwa kadi yako ya SD
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Hauna anwani zozote za kuonyesha. (Kama umeongeza akaunti sasa hivi, inaweza kuchukua dakika chache kulandanisha anwani.)
 
-Kuongeza anwani, gusa "<b><font fgcolor="#ffffffff">Menyu</font></b>",kisha uguse:{
+Kuongeza anwani, gusa "<font fgcolor="#ffffffff"><b>Menyu</b></font>",kisha uguse:{
  
-"<b><font fgcolor="#ffffffff"><li>"Akaunti ili kuongeza au kuanzisha akaunti yenye anwani unazoweza kulandanisha kwenye simu
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Onyesha uchaguzi kwa kubadilisha anwani gani zinazoonekana
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Anwani mpyaili kuunda anwani mpya kutoka mwanzo
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Leta/Hamisha ili kuleta anwani kutoka kwa kadi yako ya SD
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Akaunti ili kuongeza au kuanzisha akaunti yenye anwani unazoweza kulandanisha kwenye simu
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Onyesha uchaguzi kwa kubadilisha anwani gani zinazoonekana
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Anwani mpyaili kuunda anwani mpya kutoka mwanzo
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Leta/Hamisha ili kuleta anwani kutoka kwa kadi yako ya SD
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Huna vipendwa vyovyote.
 
  Ili kuongeza anwani kwenye orodha yako ya vipendwa:

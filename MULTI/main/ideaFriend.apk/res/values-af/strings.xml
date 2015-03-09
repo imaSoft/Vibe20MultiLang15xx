@@ -165,48 +165,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Jy het geen kontakte om te wys nie.</string>
     <string name="noContactsHelpText">"Jy het geen kontakte om te vertoon nie. 
 
-Om kontakte by te voeg, raak "<b><font fgcolor="#ffffffff">Kieslys</font></b>", raak dan:
+Om kontakte by te voeg, raak "<font fgcolor="#ffffffff"><b>Kieslys</b></font>", raak dan:
 
- "<b><font fgcolor="#ffffffff"><li>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy kan sinkroniseer na die foon
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuwe kontak Om 'n nuwe kontak van nuuts af te skep
-"</li></font></b>"
- "<b><font fgcolor="#ffffffff"><li>"Invoer/Uitvoerom kontakte van jou SIM of SD-kaart in te voer
-"</li></font></b></string>
+ "<li><font fgcolor="#ffffffff"><b>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy kan sinkroniseer na die foon
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Nuwe kontak Om 'n nuwe kontak van nuuts af te skep
+"</b></font></li>"
+ "<li><font fgcolor="#ffffffff"><b>"Invoer/Uitvoerom kontakte van jou SIM of SD-kaart in te voer
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"Jy het nie enige kontakte om te wys nie. (As jy sopas 'n rekening bygevoeg het, kan dit 'n paar minute neem om kontakte te sinkroniseer.)
 
-Om kontakte by te voeg, raak "<b><font fgcolor="#ffffffff">Kieslys</font></b>" en raak dan:
+Om kontakte by te voeg, raak "<font fgcolor="#ffffffff"><b>Kieslys</b></font>" en raak dan:
 
-"<b><font fgcolor="#ffffffff"><li>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy met die foon kan sinkroniseer
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Vertoonopsies om te verander watter kontakte sigbaar is
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuwe kontak om 'n nuwe kontak van nuuts af te skep
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Invoer/uitvoer om kontakte van jou SIM of SD-kaart in te voer
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy met die foon kan sinkroniseer
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Vertoonopsies om te verander watter kontakte sigbaar is
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Nuwe kontak om 'n nuwe kontak van nuuts af te skep
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Invoer/uitvoer om kontakte van jou SIM of SD-kaart in te voer
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"Jy het geen kontakte om te vertoon nie. 
 
-Om kontakte by te voeg, raak "<b><font fgcolor="#ffffffff">Kieslys</font></b>", raak dan:
+Om kontakte by te voeg, raak "<font fgcolor="#ffffffff"><b>Kieslys</b></font>", raak dan:
 
-"<b><font fgcolor="#ffffffff"><li>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy kan sinkroniseer na die foon
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuwe kontak Om 'n nuwe kontak van nuuts af te skep
-"</li></font></b>"
- "<b><font fgcolor="#ffffffff"><li>"Invoer/Uitvoerom kontakte van jou SD-kaart in te voer
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy kan sinkroniseer na die foon
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Nuwe kontak Om 'n nuwe kontak van nuuts af te skep
+"</b></font></li>"
+ "<li><font fgcolor="#ffffffff"><b>"Invoer/Uitvoerom kontakte van jou SD-kaart in te voer
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"Jy het nie enige kontakte om te wys nie. (As jy sopas 'n rekening bygevoeg het, kan dit 'n paar minute neem om kontakte te sinkroniseer.)
 
-Om kontakte by te voeg, raak "<b><font fgcolor="#ffffffff">Kieslys</font></b>" en raak dan:
+Om kontakte by te voeg, raak "<font fgcolor="#ffffffff"><b>Kieslys</b></font>" en raak dan:
 
-"<b><font fgcolor="#ffffffff"><li>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy met die foon kan sinkroniseer
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Vertoonopsies om te verander watter kontakte sigbaar is 
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Nuwe kontak om 'n nuwe kontak van nuuts af te skep
-"</li></font></b>"
-"<b><font fgcolor="#ffffffff"><li>"Invoer/uitvoerom kontakte van jou SD-kaart in te voer
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Rekeninge om 'n rekening met kontakte by te voeg of op te stel wat jy met die foon kan sinkroniseer
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Vertoonopsies om te verander watter kontakte sigbaar is 
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Nuwe kontak om 'n nuwe kontak van nuuts af te skep
+"</b></font></li>"
+"<li><font fgcolor="#ffffffff"><b>"Invoer/uitvoerom kontakte van jou SD-kaart in te voer
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"Jy het nie enige gunstelinge nie.
 
  Om 'n kontak by jou lys gunstelinge te voeg:

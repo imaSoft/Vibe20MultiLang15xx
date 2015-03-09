@@ -16,8 +16,6 @@
     <string name="SUS_CANCEL">Mais tarde</string>
     <string name="SUS_CANCELBUTTON">Cancelar</string>
     <string name="app_name">Gerenciador de Contatos</string>
-    <string name="author">Gerenciador de Contatos</string>
-    <string name="description">Gerenciador de Contatos</string>
     <string name="email_home">Email residencial</string>
     <string name="email_mobile">Enviar email para celular</string>
     <string name="email_work">Email trabalho</string>
@@ -1996,6 +1994,8 @@ A operação de mão única o torna tão fácil quanto desejável"</string>
     <string name="sensor_keyboard_close">Teclado Mercury desativado. Deslize rapidamente o teclado para a direita para ativá-lo!</string>
     <string name="telecom_menu_call">Chamada de telecom</string>
     <string name="notification_multiple">%smensagens não lidas.</string>
+    <string name="author">Gerenciador de Contatos</string>
+    <string name="description">Gerenciador de Contatos</string>
     <string name="infocenter_AboutInfoSuffix">"Todos os direitos reservados. 
 Copyright © 2013 Lenovo Inc."</string>
     <string name="confirm_dialog_msg">O sistema excluirá esta mensagem!</string>

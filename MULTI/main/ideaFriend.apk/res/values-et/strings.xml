@@ -42,8 +42,6 @@
     <string name="SUS_FIND_NEW_VERSION">Saadaval uus versioon U~~</string>
     <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Installin rakendust</string>
     <string name="app_name">Kontaktihaldur</string>
-    <string name="author">Kontaktihaldur</string>
-    <string name="description">Kontaktihaldur</string>
     <string name="email_home">Saada e-kiri kodusele e-posti aadressile</string>
     <string name="email_mobile">Saada e-kiri telefoni</string>
     <string name="email_work">Saada e-kiri ettevõtte e-posti aadressile</string>
@@ -1990,6 +1988,8 @@ Tänu ühekäelisele kasutamisele on see väga lihtne"</string>
     <string name="sensor_keyboard_close">Mercury klahvistik on välja lülitatud. Sisse lülitamiseks lohistage klahvistikku kiiresti paremale!</string>
     <string name="telecom_menu_call">Yi numbrivalik</string>
     <string name="notification_multiple">%s lugemata sõnumit.</string>
+    <string name="author">Kontaktihaldur</string>
+    <string name="description">Kontaktihaldur</string>
     <string name="infocenter_AboutInfoSuffix">"Lenovo Inc. Kõik õigused on kaitstud.
 Copyright © 2013 Lenovo"</string>
     <string name="confirm_dialog_msg">Süsteem kustutab selle sõnumi!</string>
