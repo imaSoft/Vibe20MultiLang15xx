@@ -92,8 +92,8 @@ Saate edastada vähem faile või vabastada kaardil mäluruumi"</string>
     <string name="pull_to_refresh_release_label">Värskendamiseks vabasta...</string>
     <string name="pull_to_refresh_refreshing_label">Laadimine...</string>
     <string name="netdisk_my">Minu võrguketas</string>
-    <string name="netdisk_login_tip1">Piltide ja failide varundamine.</string>
-    <string name="netdisk_login_tip2">"Need ei lähe kaotsi. 
+    <string name="netdisk_login_tip1">Piltide ja failide varundamine</string>
+    <string name="netdisk_login_tip2">"Need ei lähe kaotsi
 "</string>
     <string name="netdisk_login_tip3">Palju vaba mälu massiivseks salvestamiseks. Failide sünkroonimine millal vaja</string>
     <string name="netdisk_login_tip_err">Võrguketta viga, praegu ei saa sisse logida. Meie tehnikud tegelevad parandamisega...</string>
@@ -232,7 +232,7 @@ Saate edastada vähem faile või vabastada kaardil mäluruumi"</string>
     <string name="File_DeleteState">Kustuta seanss</string>
     <string name="File_UnZip">Paki lahti</string>
     <string name="File_More">Rohkem</string>
-    <string name="File_SetDisplay">Kuva sätted</string>
+    <string name="File_SetDisplay">Kuvasätted</string>
     <string name="File_Next_NotAsk">Kas järgmine kord mitte küsida?</string>
     <string name="File_Compression">ZIP-failid</string>
     <string name="search_setting_description">Kohalikud failid ja kaustad</string>
@@ -286,7 +286,7 @@ Saate edastada vähem faile või vabastada kaardil mäluruumi"</string>
     <string name="File_UnShowHideFile">Ära kuva peidetud kaustu</string>
     <string name="File_RecentFile">Hiljutised failid</string>
     <string name="File_MultiFileSelNum">%1$d on valitud</string>
-    <string name="File_SoftwareInfo">Tarkvara teave</string>
+    <string name="File_SoftwareInfo">Tarkvarateave</string>
     <string name="File_BrowserFristFile">See on esimene pilt</string>
     <string name="File_BrowserLastFile">See on viimane pilt</string>
     <string name="File_AddCollectionSuccess">Lisatud lemmikutesse</string>
@@ -331,6 +331,4 @@ Saate edastada vähem faile või vabastada kaardil mäluruumi"</string>
     <string name="File_OtgMMC">Välismälu</string>
     <string name="File_Type">Filter</string>
     <string name="File_AdvancedFunc">Täpsemad funktsioonid</string>
-    <string name="File_History_setTip">Inkognito</string>
-    <string name="File_History_setContent">Ära näita failitoimingute kirjeid</string>
 </resources>

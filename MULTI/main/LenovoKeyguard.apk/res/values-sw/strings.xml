@@ -13,6 +13,10 @@
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
     <string name="verify_unlock">verifyUnlock</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">Hali ya Ndege</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Chapa PUK ya %s na msimbo mpya wa PIN</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">Msimbo wa PUK ya %s</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Msimbo mpya wa PIN ya %s</string>

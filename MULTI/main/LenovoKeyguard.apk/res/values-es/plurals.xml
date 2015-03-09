@@ -21,23 +21,23 @@
         <item quantity="one">La contraseña debe tener al menos un símbolo especial.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">La contraseña debe tener al menos %d caracteres no alfabéticos.</item>
-        <item quantity="one">La contraseña debe tener al menos un carácter no alfabético.</item>
+        <item quantity="other">La contraseña debe tener al menos %d caracteres que no sean letras.</item>
+        <item quantity="one">La contraseña debe tener al menos un carácter que no sea una letra.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_pin_code">
-        <item quantity="other">Código PIN de la tarjeta %1$s incorrecto. Quedan %2$d intentos.</item>
-        <item quantity="one">Código PIN de la tarjeta %1$s incorrecto. Queda %2$d intento para tener que ponerte en contacto con tu operador para desbloquear el dispositivo.</item>
+        <item quantity="other">El código PIN de la tarjeta %1$s es incorrecto. Te quedan %2$d intentos.</item>
+        <item quantity="one">El código PIN de la tarjeta %1$s es incorrecto. Te queda %2$d intento antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_puk_code">
-        <item quantity="other">Código PUK de la tarjeta %1$s incorrecto. Quedan %2$d intentos para que la tarjeta %1$s no se pueda utilizar de forma permanente.</item>
-        <item quantity="one">Código PUK de la tarjeta %1$s incorrecto. Te queda %2$d intento para que la tarjeta %1$s no se pueda utilizar de forma permanente.</item>
+        <item quantity="other">El código PUK de la tarjeta %1$s es incorrecto. Te quedan %2$d intentos antes de que la tarjeta %1$s quede inutilizable permanentemente.</item>
+        <item quantity="one">El código PUK de la tarjeta %1$s es incorrecto. Te queda %2$d intento antes de que la tarjeta %1$s quede inutilizable permanentemente.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
-        <item quantity="other">Código PIN de la tarjeta SIM incorrecto. Quedan %d intentos.</item>
-        <item quantity="one">Código PIN de la tarjeta SIM incorrecto. Queda %d intento para tener que ponerte en contacto con tu operador para desbloquear el dispositivo.</item>
+        <item quantity="other">El código PIN de la tarjeta SIM es incorrecto. Te quedan %d intentos.</item>
+        <item quantity="one">El código PIN de la tarjeta SIM es incorrecto. Te queda %d intento antes de que debas comunicarte con el proveedor para desbloquear el dispositivo.</item>
     </plurals>
     <plurals name="kg_password_wrong_puk_code">
-        <item quantity="other">Código PUK de la tarjeta SIM incorrecto. Quedan %d intentos para que la tarjeta SIM no se pueda utilizar de forma permanente.</item>
-        <item quantity="one">Código PUK de la tarjeta SIM incorrecto. Te queda %d intento para que la tarjeta SIM no se pueda utilizar de forma permanente.</item>
+        <item quantity="other">El código PUK de la tarjeta SIM es incorrecto. Te quedan %d intentos antes de que la tarjeta SIM quede inutilizable permanentemente.</item>
+        <item quantity="one">El código PUK de la tarjeta SIM es incorrecto. Te queda %d intento antes de que la tarjeta SIM quede inutilizable permanentemente.</item>
     </plurals>
 </resources>

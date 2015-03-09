@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Névjegy</string>
+    <string name="ab_version_introduction">A funkció bemutatása</string>
+    <string name="ab_contacts">Kapcsolatfelvételi mód</string>
+    <string name="ab_feedback">Visszajelzés</string>
+    <string name="ab_checking_update">Frissítések ellenőrzése...</string>
+    <string name="ab_downloading_update">Frissítések letöltése...</string>
+    <string name="ab_website">Hivatalos webhely</string>
+    <string name="ab_patch_update">Forgalomcsökkentő frissítés</string>
     <string name="File_CleanTitle">Tisztítás</string>
     <string name="File_CleanCrash">Szemét tisztítása</string>
     <string name="File_CleanLargeFile">Nagy fájlok tisztítása</string>
@@ -96,7 +104,7 @@ Kevesebb fájlt vigyen át, vagy szabadítson fel helyet a kártyán"</string>
     <string name="netdisk_login_tip2">Soha ne veszítse el őket.</string>
     <string name="netdisk_login_tip3">Ingyenes memória a nagy tárhelyért. Szinkronizálja fájljait bármikor.</string>
     <string name="netdisk_login_tip_err">Hálózati lemezzel kapcsolatos hiba; jelenleg nem lehet bejelentkezni. A mérnökeink már dolgoznak a hiba kijavításán...</string>
-    <string name="netdisk_login_btn">Kezdés</string>
+    <string name="netdisk_login_btn">Azonnali használat</string>
     <string name="netdisk_space_info">Tárhely részletei</string>
     <string name="netdisk_transmit_list">Adatátviteli lista</string>
     <string name="netdisk_exit">Hálózati lemez bezárása</string>
@@ -330,6 +338,4 @@ Kevesebb fájlt vigyen át, vagy szabadítson fel helyet a kártyán"</string>
     <string name="File_OtgMMC">Külső tároló</string>
     <string name="File_Type">Szűrő</string>
     <string name="File_AdvancedFunc">Speciális funkciók</string>
-    <string name="File_History_setTip">Inkognitó</string>
-    <string name="File_History_setContent">A fájlműveletek bejegyzései nem jelennek meg</string>
 </resources>

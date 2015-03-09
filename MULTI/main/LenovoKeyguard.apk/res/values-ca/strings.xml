@@ -13,6 +13,10 @@
     <string name="on_screen_turned_on">onScreenTurnedOn</string>
     <string name="do_keyguard">doKeyguard</string>
     <string name="verify_unlock">verifyUnlock</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">"Mode d'avió"</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Escriu el PUK de la %s i el codi PIN nou.</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">Codi PUK de la %s</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Codi PIN de la %s nou</string>

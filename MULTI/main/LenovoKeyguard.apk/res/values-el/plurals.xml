@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Ο κωδ. πρόσβασης πρέπει να περιλαμβάνει τουλάχ. %d γράμ.</item>
-        <item quantity="one">Ο κωδ. πρόσβασης πρέπει να περιλαμβάνει τουλάχ. 1 γράμμα.</item>
+        <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d γράμ.</item>
+        <item quantity="one">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. 1 γράμμα.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
         <item quantity="other">Ο κωδ. πρόσ. πρέπ. να περ. τουλ. %d πεζά γράμ.</item>

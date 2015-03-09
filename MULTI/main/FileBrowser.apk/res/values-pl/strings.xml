@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Informacje</string>
+    <string name="ab_version_introduction">Wprowadzenie do funkcji</string>
+    <string name="ab_contacts">Sposób kontaktu</string>
+    <string name="ab_feedback">Informacje zwrotne</string>
+    <string name="ab_checking_update">Sprawdzanie dostępności aktualizacji...</string>
+    <string name="ab_downloading_update">Pobieranie aktualizacji...</string>
+    <string name="ab_website">Oficjalny serwis WWW</string>
+    <string name="ab_patch_update">Aktualizacja dotycząca redukcji transmisji danych</string>
     <string name="File_CleanTitle">Oczyszczanie</string>
     <string name="File_CleanCrash">Wyczyść kosz</string>
     <string name="File_CleanLargeFile">Usuń duże pliki</string>
@@ -330,8 +338,6 @@ Można przesłać mniej plików lub zwolnić część pamięci na karcie"</strin
     <string name="File_OtgMMC">Zewnętrzna pamięć masowa</string>
     <string name="File_Type">Filtruj</string>
     <string name="File_AdvancedFunc">Funkcje zaawansowane</string>
-    <string name="File_History_setTip">Incognito</string>
-    <string name="File_History_setContent">Nie wyświetlaj rekordów operacji na plikach</string>
     <string name="instruction1_close">Po aktywacji</string>
     <string name="instruction2_pad_close">Zarządzaj plikami w swoim telefonie przesyłanymi na komputer</string>
     <string name="instruction1_open">Włączono</string>

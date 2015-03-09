@@ -139,6 +139,10 @@ El proceso de encriptación tarda aproximadamente una hora. Debes iniciar este p
     <string name="keyguard_internal_call">Llamada de Internet</string>
     <string name="keyguard_sim_auto">Auto</string>
     <string name="keyguard_not_set">Sin establecer</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">La tarjeta %s no está lista</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">Modo avión</string>
+    <string name="lenovo_keyguard_sim_inactive">La tarjeta %s está deshabilitada</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Escribe el PUK de la tarjeta %s y un nuevo código PIN</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">Código PUK de la tarjeta %s</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Nuevo código PIN de tarjeta %s</string>
@@ -192,7 +196,7 @@ El proceso de encriptación tarda aproximadamente una hora. Debes iniciar este p
     <string name="keyguard_missing_sim_message_short_new">Sin tarjeta %s</string>
     <string name="lenovo_new_event_vibrator_setting_title">Alerta vibratoria de evento no leído</string>
     <string name="lenovo_new_event_vibrator_setting_summary">En la interfaz de la pantalla de bloqueo, el teléfono vibrará para alertar un evento no leído</string>
-    <string name="lenovo_pinpuk_attempts">Tiempos restantes:</string>
+    <string name="lenovo_pinpuk_attempts">Intentos restantes:</string>
     <string name="lenovo_double_click_turn_off_screen_title">Toque dos veces para apagar la pantalla</string>
     <string name="lenovo_double_click_turn_off_screen_summary">En la interfaz de la pantalla de bloqueo, si toca dos veces se apagará la pantalla si no toca nada más</string>
     <string name="lockscreen_network_puk_locked_message">Código PUK de red bloqueado. Póngase en contacto con el servicio al cliente</string>
@@ -207,6 +211,8 @@ El proceso de encriptación tarda aproximadamente una hora. Debes iniciar este p
     <string name="lenovo_st_tip_title_text">Consejos</string>
     <string name="lenovo_keyboard_shuffle_setting_title">Aleatorización del teclado</string>
     <string name="lenovo_keyboard_shuffle_setting_summary">Por razones de seguridad, se aleatorizará el teclado al encender la pantalla</string>
+    <string name="bubble_to_unlock_tips">Arrastre la burbuja para desbloquear</string>
+    <string name="bubble_to_unlock_tips_complete">Desbloquear</string>
     <string name="keyguard_password_enter_pin_code">Introduce el código PIN.</string>
     <string name="keyguard_password_enter_puk_code">Escribe el PUK de la tarjeta SIM y un nuevo código PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Código PUK de la tarjeta SIM</string>
@@ -340,6 +346,4 @@ Inténtalo de nuevo en %d segundos."</string>
     <string name="keyguard_transport_stop_description">Botón para detener la reproducción</string>
     <string name="keyguard_carrier_default">Sin servicio</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">Ranura %d : %s</string>
-    <string name="bubble_to_unloc_tips">Arrastre la burbuja para desbloquear</string>
-    <string name="bubble_to_unloc_tips_complete">Desbloquear</string>
 </resources>

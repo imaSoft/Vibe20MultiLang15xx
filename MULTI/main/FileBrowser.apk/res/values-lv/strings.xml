@@ -281,8 +281,8 @@ Varat pārsūtīšanai norādīt mazāk failu vai atbrīvot vairāk vietas kart�
     <string name="drm_secure_timer_message">Jūs nevarējāt izmantot DRM aizsargātos failus. Pārliecinieties, vai ir pieejams datu savienojums.</string>
     <string name="drm_consume_title">Lietot DRM tiesības</string>
     <string name="drm_consume_message">Šīs darbības rezultātā tiks izlietotas DRM tiesības.</string>
-    <string name="File_ShowHideFile">Rādīt sl. mapes</string>
-    <string name="File_UnShowHideFile">Nerādīt sl. mapes</string>
+    <string name="File_ShowHideFile">Rādīt slēptās mapes</string>
+    <string name="File_UnShowHideFile">Nerādīt slēptās mapes</string>
     <string name="File_RecentFile">Nesenie faili</string>
     <string name="File_MultiFileSelNum">Atlasīts: %1$d</string>
     <string name="File_SoftwareInfo">Informācija par programmatūru</string>
@@ -330,6 +330,4 @@ Varat pārsūtīšanai norādīt mazāk failu vai atbrīvot vairāk vietas kart�
     <string name="File_OtgMMC">Ārējā krātuve</string>
     <string name="File_Type">Filtrs</string>
     <string name="File_AdvancedFunc">Izvērstas funkcijas</string>
-    <string name="File_History_setTip">Inkognito</string>
-    <string name="File_History_setContent">Nerādīt failu darbību ierakstus</string>
 </resources>

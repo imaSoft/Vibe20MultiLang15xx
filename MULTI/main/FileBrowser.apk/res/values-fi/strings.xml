@@ -330,6 +330,4 @@ Voit valita siirrettäväksi vähemmän tiedostoja tai vapauttaa kortista tilaa"
     <string name="File_OtgMMC">Ulkoinen tallennustila</string>
     <string name="File_Type">Suodatin</string>
     <string name="File_AdvancedFunc">Lisätoiminnot</string>
-    <string name="File_History_setTip">Inkognito</string>
-    <string name="File_History_setContent">Älä näytä tiedostotoimintotietueita</string>
 </resources>

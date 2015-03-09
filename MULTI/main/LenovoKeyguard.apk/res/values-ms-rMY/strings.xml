@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ct_timevision_ring_to_unloc_tips">Seret bulatan untuk buka kunci</string>
-    <string name="ct_timevision_ring_to_unloc_tips_complete">"Buka kunci "</string>
+    <string name="ct_timevision_ring_to_unloc_tips_complete">Buka kunci</string>
     <string name="cancel">Batal</string>
     <string name="biometric_weak_improve_matching_title">Tingkatkan pemadanan muka</string>
     <string name="biometric_weak_liveliness_title">Pemeriksaan liveness</string>
@@ -103,6 +103,10 @@ Penyulitan mengambil satu jam atau lebih. Anda mesti bermula dengan bateri yang 
     <string name="slot_1_3G_reminder">Petua: Hanya slot 1 menyokong 3G, sila masukkan kad 3G ke dalam slot 1</string>
     <string name="searching_simcard">Mengesan...</string>
     <string name="keyguard_sim_auto">Auto</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">123</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Taip PUK %s dan kod PIN baharu</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">Kod PUK %s</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Kod PIN %s baharu</string>

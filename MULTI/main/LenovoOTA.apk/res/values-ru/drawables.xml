@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="drawable" name="icon_new_rom_come">false</item>
-    <item type="drawable" name="loading_banner_page">false</item>
-    <item type="drawable" name="ic_launcher">false</item>
-</resources>

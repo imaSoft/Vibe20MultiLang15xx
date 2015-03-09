@@ -25,12 +25,12 @@
         <item quantity="one">Пароль должен содержать хотя бы один небуквенный символ.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_pin_code">
-        <item quantity="other">Неверный PIN-код. Осталось попыток: %2$d.</item>
-        <item quantity="one">Неверный PIN-код. Осталось попыток: %2$d. После этого %1$s-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
+        <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>
+        <item quantity="one">Неверный PIN-код. Осталось попыток: %1$d. После этого %2$s-карта будет заблокирована и вам придется обратиться к оператору связи.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_puk_code">
-        <item quantity="other">Неверный PUK-код. Осталось попыток: %2$d. После этого %1$s-карта будет заблокирована навсегда.</item>
-        <item quantity="one">Неверный PUK-код. Осталось попыток: %2$d. После этого %1$s-карта будет заблокирована навсегда.</item>
+        <item quantity="other">Неверный PUK-код. Осталось попыток: %1$d. После этого %2$s-карта будет заблокирована навсегда.</item>
+        <item quantity="one">Неверный PUK-код. Осталось попыток: %1$d. После этого %2$s-карта будет заблокирована навсегда.</item>
     </plurals>
     <plurals name="kg_password_wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось попыток: %d.</item>

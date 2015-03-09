@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Despre</string>
+    <string name="ab_version_introduction">Introducere funcţie</string>
+    <string name="ab_contacts">Metodă de contactare</string>
+    <string name="ab_feedback">Răspuns</string>
+    <string name="ab_checking_update">Se verifică actualizările...</string>
+    <string name="ab_downloading_update">Se descarcă actualizările...</string>
+    <string name="ab_website">Site Web oficial</string>
+    <string name="ab_patch_update">Actualizare reducere trafic</string>
     <string name="File_CleanTitle">Curăţare</string>
     <string name="File_CleanCrash">Golire coş de gunoi</string>
     <string name="File_CleanLargeFile">Golire fişiere mari</string>
@@ -59,9 +67,9 @@
     <string name="notif_title">Serviciu de gestionare de la distanţă activat</string>
     <string name="no_write_operation_category">Puteţi adăuga numai fişiere în acest fişier</string>
     <string name="no_write_operation_latest">Nu puteţi adăuga niciun fişier în acest folder</string>
-    <string name="instruction_close">După activare puteți controla de la distantă fișierele afișate pe telefon de pe computer.</string>
+    <string name="instruction_close">După activare, puteți controla de la distanță fișiere aflate pe telefon de pe computer.</string>
     <string name="instruction_pad_close">După activare, puteți controla de la distanță fișiere aflate pe tabletă de pe computer.</string>
-    <string name="instruction_open">Activat. Asigurați-vă că acest dispozitiv și computerul folosesc aceeași rețea WLAN și introduceți următoarele în bara de adrese din Computerul Meu.</string>
+    <string name="instruction_open">Activat. Asigurați-vă că acest dispozitiv și computerul folosesc aceeași rețea WLAN șiintroduceți următoarele în bara de adrese din My Computer.</string>
     <string name="file_keytransfer">Transfer cu o singură tastă</string>
     <string name="File_NoKeyTransferFileTip">Nu aţi utilizat încă transferul cu o singură tastă</string>
     <string name="File_KeyTransferLast">Ultimul transfer:</string>
@@ -92,7 +100,7 @@ Puteţi alege să transferaţi mai puţine fişiere sau să eliberaţi mai mult 
     <string name="pull_to_refresh_release_label">Eliberaţi pentru a reîmprospăta...</string>
     <string name="pull_to_refresh_refreshing_label">Se încarcă...</string>
     <string name="netdisk_my">Discul meu de reţea</string>
-    <string name="netdisk_login_tip1">Creați copii de rezervă ale imaginilor și ale fișierelor.</string>
+    <string name="netdisk_login_tip1">Creaţi copii de rezervă imaginilor şi fişierelor.</string>
     <string name="netdisk_login_tip2">Să nu le pierdeţi niciodată.</string>
     <string name="netdisk_login_tip3">Pentru stocare masivă, eliberaţi un spaţiu mare din memorie. Sincronizaţi oricând fişierele.</string>
     <string name="netdisk_login_tip_err">Eroare disc de reţea. Imposibil de conectat momentan. Inginerii noştri lucrează la remedierea erorii...</string>
@@ -206,12 +214,12 @@ Puteţi alege să transferaţi mai puţine fişiere sau să eliberaţi mai mult 
     <string name="File_MyOthers">Altele</string>
     <string name="File_Pictures">Imagini</string>
     <string name="File_Videos">Video</string>
-    <string name="File_Audios">Audio</string>
+    <string name="File_Audios">Fişiere audio</string>
     <string name="File_Applications">Aplic.</string>
     <string name="File_Others">Altele</string>
     <string name="File_MultiFileTab">Categorii</string>
     <string name="File_Music">Muzică</string>
-    <string name="File_Doc">Doc</string>
+    <string name="File_Doc">Documente</string>
     <string name="File_App">Aplicaţii</string>
     <string name="File_availsize">Liber</string>
     <string name="File_SelectFile">Selectare fişier</string>
@@ -261,10 +269,10 @@ Puteţi alege să transferaţi mai puţine fişiere sau să eliberaţi mai mult 
     <string name="drm_secure_timer_message">Nu puteţi utiliza fişierele protejate prin DRM. Asiguraţi-vă că este disponibilă conexiunea de date.</string>
     <string name="drm_consume_title">Consumare drepturi DRM</string>
     <string name="drm_consume_message">Acţiunea dvs. va consuma drepturile DRM.</string>
-    <string name="File_ShowHideFile">Foldere ascunse</string>
-    <string name="File_UnShowHideFile">Nu foldere ascunse</string>
+    <string name="File_ShowHideFile">Afişare foldere ascunse</string>
+    <string name="File_UnShowHideFile">Nu se afişează folderele ascunse</string>
     <string name="File_RecentFile">Fişiere recente</string>
-    <string name="File_MultiFileSelNum">%1$d selectat</string>
+    <string name="File_MultiFileSelNum">%1$d selectate</string>
     <string name="File_SoftwareInfo">Informaţii software</string>
     <string name="File_BrowserFristFile">Deja la început</string>
     <string name="File_BrowserLastFile">Deja la sfârşit</string>
@@ -296,8 +304,8 @@ Puteţi alege să transferaţi mai puţine fişiere sau să eliberaţi mai mult 
     <string name="FileFTP_hint">Conectaţi-vă fără fir la un calculator şi gestionaţi cu uşurinţă fişierele</string>
     <string name="FileKeyTransfer_hint">Utilizaţi transferul cu o singură tastă pentru a muta fişiere de pe cardul de memorie intern pe un card de memorie extern</string>
     <string name="FileSafebox_hint">Gestionaţi uşor fişierele private</string>
-    <string name="File_Show_folder_size">Afișare dimensiunile</string>
-    <string name="File_Unshow_folder_size">Nu afișare dimensiunile</string>
+    <string name="File_Show_folder_size">Se afişează dimensiunea folderului</string>
+    <string name="File_Unshow_folder_size">Nu se afişează dimensiunea folderului</string>
     <string name="File_Show_folder_Tip">Se calculează dimensiunea fiecărui folder</string>
     <string name="File_Progress_Current">Progres actual:</string>
     <string name="File_Progress_Total">Progres total:</string>
@@ -310,8 +318,6 @@ Puteţi alege să transferaţi mai puţine fişiere sau să eliberaţi mai mult 
     <string name="File_OtgMMC">Memorie externă</string>
     <string name="File_Type">Filtru</string>
     <string name="File_AdvancedFunc">Funcţii avansate</string>
-    <string name="File_History_setTip">Incognito</string>
-    <string name="File_History_setContent">Nu doresc să se afişeze înregistrările operaţiilor din fişiere</string>
     <string name="instruction1_close">După activare</string>
     <string name="instruction2_pad_close">puteţi gestiona de la distanţă fişierele de pe telefon de la calculator</string>
     <string name="instruction1_open">Activat</string>

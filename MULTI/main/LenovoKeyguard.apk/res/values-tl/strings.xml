@@ -32,6 +32,10 @@
     <string name="keyguard_alwaysask">Laging magtanong</string>
     <string name="keyguard_internal_call">Panloob na tawag</string>
     <string name="keyguard_not_set">Hindi naka-set</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">Airplane mode</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">I-type ang %s PUK at bagong PIN code</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">PUK code ng %s</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Bagong PIN code ng %s</string>

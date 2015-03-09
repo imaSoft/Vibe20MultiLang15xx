@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Информация</string>
+    <string name="ab_version_introduction">Представяне на функция</string>
+    <string name="ab_contacts">Метод за контакт</string>
+    <string name="ab_feedback">Обратна връзка</string>
+    <string name="ab_checking_update">Проверка за актуализации...</string>
+    <string name="ab_downloading_update">Изтегляне на актуализации...</string>
+    <string name="ab_website">Официален уеб сайт</string>
+    <string name="ab_patch_update">Актуализация за намаляване на трафика</string>
     <string name="File_CleanTitle">Изчистване</string>
     <string name="File_CleanCrash">Изчистване на кошчето</string>
     <string name="File_CleanLargeFile">Изчисти голями файлове</string>
@@ -46,7 +54,7 @@
     <string name="File_Clean_has_cleaned">Изчистено</string>
     <string name="File_Clean_no_need">Не е необходимо изчистване</string>
     <string name="File_CleanAll">Изчисти всички</string>
-    <string name="file_ftp">Дистанционно управление</string>
+    <string name="file_ftp">Отдалечено управление</string>
     <string name="start_server">Свързване</string>
     <string name="stop_server">Прекъсване</string>
     <string name="no_wifi">Няма WLAN</string>
@@ -55,12 +63,12 @@
     <string name="instruction2_close">Управлявайте файловете на телефона от компютъра си</string>
     <string name="instruction2_open">Уверете се, че телефонът и компютърът ви са свързани в една и съща мрежа</string>
     <string name="instruction3_open">Въведете URL адреса на интернет браузъра на компютъра</string>
-    <string name="notif_server_starting">Услугата за Дистанционно управление е разрешена</string>
-    <string name="notif_title">Услугата за Дистанционно управление работи</string>
+    <string name="notif_server_starting">Услугата за отдалечено управление е разрешена</string>
+    <string name="notif_title">Услугата за отдалечено управление работи</string>
     <string name="no_write_operation_category">Може само да добавяте файлове в посочената папка</string>
     <string name="no_write_operation_latest">Не може да добавяте никакви файлове в посочената папка</string>
-    <string name="instruction_close">След разрешаване на функцията може да управлявате Дистанционно файловете на телефона от компютъра си</string>
-    <string name="instruction_pad_close">След разрешаване на функцията може да управлявате Дистанционно файловете на таблета от компютъра си</string>
+    <string name="instruction_close">След разрешаване на функцията може да управлявате отдалечено файловете на телефона от компютъра си</string>
+    <string name="instruction_pad_close">След разрешаване на функцията може да управлявате отдалечено файловете на таблета от компютъра си</string>
     <string name="instruction_open">Разрешено. Уверете се, че устройството и компютърът използват една и съща WLAN мрежа, и въведете следното в адресната лента на \"Моят компютър\":</string>
     <string name="file_keytransfer">Прехвърляне на SD карта</string>
     <string name="File_NoKeyTransferFileTip">Не сте използвали функцията за прехвърляне на SD карта</string>
@@ -330,6 +338,4 @@
     <string name="File_OtgMMC">Външна памет</string>
     <string name="File_Type">Филтър</string>
     <string name="File_AdvancedFunc">Разширени функции</string>
-    <string name="File_History_setTip">Инкогнито</string>
-    <string name="File_History_setContent">Не показвай файлови записи за операции</string>
 </resources>

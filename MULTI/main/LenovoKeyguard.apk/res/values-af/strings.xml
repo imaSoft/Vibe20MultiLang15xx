@@ -13,6 +13,10 @@
     <string name="on_screen_turned_on">opSkermAangeskakel</string>
     <string name="do_keyguard">doenKeyguard</string>
     <string name="verify_unlock">verifieerOntsluit</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">Vliegtuigmodus</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Voer %s PUK- en nuwe PIN-kode in</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">%s PUK-kode</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">Nuwe %s PIN-kode</string>

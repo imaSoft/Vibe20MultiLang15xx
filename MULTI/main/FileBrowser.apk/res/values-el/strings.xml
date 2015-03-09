@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Σχετικά</string>
+    <string name="ab_version_introduction">Εισαγωγή στη λειτουργία</string>
+    <string name="ab_contacts">Μέθοδος επικοινωνίας</string>
+    <string name="ab_feedback">Σχόλια</string>
+    <string name="ab_checking_update">Έλεγχος για ενημερώσεις...</string>
+    <string name="ab_downloading_update">Μεταφόρτωση ενημερώσεων...</string>
+    <string name="ab_website">Επίσημος δικτυακός τόπος</string>
+    <string name="ab_patch_update">Ενημέρωση μείωσης κίνησης</string>
     <string name="File_CleanTitle">Εκκαθάριση</string>
     <string name="File_CleanCrash">Εκκαθάριση άχρηστων αρχείων</string>
     <string name="File_CleanLargeFile">Εκκαθάριση μεγάλων αρχείων</string>
@@ -330,6 +338,4 @@
     <string name="File_OtgMMC">Εξωτερικός χώρος αποθήκευσης</string>
     <string name="File_Type">Φίλτρο</string>
     <string name="File_AdvancedFunc">Προηγμένες λειτουργίες</string>
-    <string name="File_History_setTip">Ινκόγκνιτο</string>
-    <string name="File_History_setContent">Να μην εμφανίζονται καταγραφές λειτουργίας αρχείων</string>
 </resources>

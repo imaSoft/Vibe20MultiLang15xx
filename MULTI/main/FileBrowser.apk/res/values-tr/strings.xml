@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="lenovo_about">Hakkında</string>
+    <string name="lenovo_about_update">Güncellemeleri denetleyin.</string>
+    <string name="lenovo_about_update_now">Şimdi Güncelleyin!</string>
+    <string name="lenovo_about_versoin">Yeni Sürüm Kullanılabilir</string>
+    <string name="lenovo_about_qqgroup">QQ Grubu</string>
+    <string name="lenovo_about_weibo">Sina Weibo</string>
+    <string name="lenovo_about_email">E-posta Adresi</string>
+    <string name="lenovo_about_unsupport">Desteklenmiyor, lütfen bekleyin!</string>
+    <string name="lenovo_about_AboutInfoCopyRight_Cn">Lenovo Her hakkı saklıdır</string>
+    <string name="lenovo_about_netconnect_alert">Bu işlem internet bağlantısı kuracak. Devam etmek istiyor musunuz?</string>
+    <string name="SUS_MSG_FAIL_NOWLANCONNECTED">"Lütfen WLAN'ı açın!"</string>
+    <string name="SUS_MSG_LATESTVERSION">Bu, en son sürüm!</string>
+    <string name="SUS_MSG_NOTFOUND">Güncelleme bulunamadı!</string>
+    <string name="SUS_MSG_FAIL_NETWORKUNAVAILABLE">Ağ kullanılamıyor!</string>
+    <string name="SUS_MSG_WARNING_PENDING">Güncelleme bekleniyor!</string>
+    <string name="SUS_MSG_DOWNLOADCOMPLETE">İndirme tamamlandı!</string>
+    <string name="SUS_MSG_UPDATE_EXCEPTION">Güncelleme başarısız. Lütfen tekrar deneyin!</string>
+    <string name="SUS_SETTINGS_NEVERPROMPT">Sorma</string>
+    <string name="SUS_SETTINGS_NEWVERPROMPT">Yeni sürüm bulunduğunda sor</string>
+    <string name="SUS_MSG_INSUFFICIENTSTORAGESPACE">Yetersiz depolama alanı!</string>
+    <string name="SUS_VERSIONUPDATE">Yeni sürüm bulundu!</string>
+    <string name="SUS_UPDATEDESC">Güncelleme açıklaması:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERNAME">Sürüm adı:</string>
+    <string name="SUS_UPDATEVERPROMPT_VERSIZE">Sürüm boyutu:</string>
+    <string name="SUS_UPDATESIZEPROMPT_WLAN">Veri trafiğiniz sınırlıysa WLAN üzerinden indirmenizi öneririz!</string>
+    <string name="SUS_UPDATE">Şimdi güncelle</string>
+    <string name="SUS_CANCEL">Daha sonra</string>
+    <string name="SUS_DOWNLOAD_TITLE">IdeaFriend indiriliyor!</string>
+    <string name="SUS_CANCELBUTTON">İptal</string>
+    <string name="SUS_NOTIFICATION_TITLE">İstem</string>
+    <string name="SUS_NOTIFICATION_UPDATINGPROMPT">Güncelleniyor... Lütfen bekleyin!</string>
+    <string name="SUS_NOTIFICATION_TIMEOUTPROMPT">Ağ zaman aşımı. Tekrar deneniyor...</string>
+    <string name="SUS_NOTIFICATION_HIDE_BUTTONTEXT">Tamam</string>
+    <string name="SUS_NOTIFICATION_ABORTUPDATE_BUTTONTEXT">Durdur</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_1">(Bu iletişim kutusu</string>
+    <string name="SUS_NOTIFICATION_AUTOHIDPROMPTINFO_2">saniye sonra gizlenecek)</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_TITLE">Uygulamayı yüklemek için lütfen dokunun!</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK">Uygulamayı yüklemek için lütfen dokunun:</string>
+    <string name="SUS_CURRENT_VERSION">Geçerli sürüm</string>
+    <string name="SUS_NEW_VERSION">En son sürüm</string>
+    <string name="SUS_FIND_NEW_VERSION">Için Yeni Sürüm Kullanılabilir</string>
+    <string name="SUS_NOTIFICATION_INSTALLAPK_NOW">Uygulama yükleniyor</string>
+    <string name="SUS_BTN_UPDATINGPROMPT">Güncelleme işleniyor...</string>
     <string name="File_CleanTitle">Temizle</string>
     <string name="File_CleanCrash">Atıkları temizle</string>
     <string name="File_CleanLargeFile">Büyük dosyayı temizle</string>
@@ -323,7 +366,7 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
     <string name="File_Progress_Total">Toplam ilerleme:</string>
     <string name="File_Edit">Düzenle</string>
     <string name="File_Back">后退</string>
-    <string name="File_ViewImage_Slider">Kaydirma</string>
+    <string name="File_ViewImage_Slider">幻灯片</string>
     <string name="File_MulSel">多选</string>
     <string name="File_New">新建</string>
     <string name="File_StorageInfo">Hafıza bilgileri</string>
@@ -331,6 +374,5 @@ Daha az sayıda dosya aktarmayı seçebilir veya kartta daha fazla alanı boşal
     <string name="File_OtgMMC">Dış Depolama Alanı</string>
     <string name="File_Type">Filtre</string>
     <string name="File_AdvancedFunc">Gelişmiş işlevler</string>
-    <string name="File_History_setTip">Gizli</string>
-    <string name="File_History_setContent">Dosya işlemi kayıtlarını gösterme</string>
+    <string name="lenovo_about_cmcc_prompt">İpucu</string>
 </resources>

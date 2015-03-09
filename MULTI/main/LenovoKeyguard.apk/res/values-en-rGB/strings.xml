@@ -111,6 +111,10 @@ Encryption takes an hour or more. You must start with a charged battery and keep
     <string name="credentials_install_summary">Install certificates from SD card</string>
     <string name="user_nickname">Nickname</string>
     <string name="global_change_warning">This setting affects all users on this phone.</string>
+    <string name="lenovo_lockscreen_sim_error_message_short">123</string>
+    <string name="lenovo_keyguard_sim_not_ready">123</string>
+    <string name="lenovo_keyguard_sim_airplane_mode">Aeroplane mode</string>
+    <string name="lenovo_keyguard_sim_inactive">123</string>
     <string name="lenovo_keyguard_password_enter_puk_code">Type %s PUK and new PIN code</string>
     <string name="lenovo_keyguard_password_enter_puk_prompt">%s PUK code</string>
     <string name="lenovo_keyguard_password_enter_pin_prompt">New %s PIN code</string>

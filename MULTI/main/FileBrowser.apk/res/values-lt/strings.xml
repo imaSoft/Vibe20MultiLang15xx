@@ -330,6 +330,4 @@ Pasirinkite mažiau failų arba atlaisvinkite kortelėje vietos"</string>
     <string name="File_OtgMMC">Išorinė atmintis</string>
     <string name="File_Type">Filtras</string>
     <string name="File_AdvancedFunc">Papildomos funkcijos</string>
-    <string name="File_History_setTip">Inkognito</string>
-    <string name="File_History_setContent">Nerodyti failų operacijų įrašų</string>
 </resources>

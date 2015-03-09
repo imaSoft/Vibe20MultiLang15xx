@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Geslo mora imeti vsaj toliko črk: %d.</item>
-        <item quantity="one">Geslo mora imeti vsaj eno črko.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko črk: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno črko.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Geslo mora imeti vsaj toliko malih črk: %d.</item>
-        <item quantity="one">Geslo mora imeti vsaj eno malo črko.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko malih črk: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno malo črko.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Geslo mora imeti vsaj toliko velikih črk: %d.</item>
-        <item quantity="one">Geslo mora imeti vsaj eno veliko črko.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko velikih črk: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno veliko črko.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Geslo mora imeti vsaj toliko številk: %d.</item>
-        <item quantity="one">Geslo mora imeti vsaj eno številko.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko števk: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj eno števko.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Geslo mora imeti vsaj toliko posebnih znakov: %d</item>
-        <item quantity="one">Geslo mora imeti vsaj en posebni znak.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko posebnih znakov: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj en posebni znak.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Geslo mora imeti vsaj toliko znakov, ki niso črke: %d.</item>
-        <item quantity="one">Geslo mora imeti vsaj en znak, ki ni črka.</item>
+        <item quantity="other">Geslo mora vsebovati vsaj toliko znakov, ki niso črke: %d.</item>
+        <item quantity="one">Geslo mora vsebovati vsaj en znak, ki ni črka.</item>
     </plurals>
     <plurals name="lenovo_kg_password_wrong_pin_code">
         <item quantity="other">Napačna koda PIN kartice %1$s. Poskusite lahko še %2$d-krat.</item>

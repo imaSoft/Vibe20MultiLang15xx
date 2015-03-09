@@ -329,8 +329,6 @@
     <string name="File_OtgMMC">אחסון חיצוני</string>
     <string name="File_Type">מסנן</string>
     <string name="File_AdvancedFunc">פונקציות מתקדמות</string>
-    <string name="File_History_setTip">ללא רישום</string>
-    <string name="File_History_setContent">אל תציג רשומות פעולה של קבצים</string>
     <string name="instruction1_close">לאחר ההפעלה</string>
     <string name="instruction2_pad_close">תוכלו לנהל מרחוק קבצים בטלפון, באמצעות המחשב</string>
     <string name="instruction1_open">מופעל</string>
