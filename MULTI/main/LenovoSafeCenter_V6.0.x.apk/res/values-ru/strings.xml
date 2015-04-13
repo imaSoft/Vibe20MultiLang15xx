@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="lesafe_no_longer_remind">Не запрашивать</string>
     <string name="net_find_conn_app">Поиск сетевых приложений</string>
@@ -170,8 +170,6 @@
     <string name="net_correct_config_desc">"Настройки для автоматической корректировки использования трафика: "</string>
     <string name="net_correct_cancel">Отмена</string>
     <string name="net_correct_setting_desc">В соответствии с параметрами заданными используемой SIM-картой необходимо указать настройки для проведения корректировки с данными оператора</string>
-    <string name="net_card1">SIM1</string>
-    <string name="net_card2">SIM2</string>
     <string name="net_traffic_no_sim">Нет SIM-карты</string>
     <string name="net_trust_app">Надежные приложения</string>
     <string name="net_traffic_not_on2">Чтобы откалибровать данные, требуется подключение к Интернету. Настройте подключение к Интернету</string>
@@ -422,7 +420,7 @@
     <string name="recover_tolocal">Восстановить телефонные вызовы и сведения о контакте %1$s в системный журнал коммуникаций</string>
     <string name="replay_sms">Ответить по SMS</string>
     <string name="replay_sms2">Ответить</string>
-    <string name="replay_sms_card1">"SIM1 "</string>
+    <string name="replay_sms_card1">"SIM1"</string>
     <string name="replymes_dialogtitle">Содержание SMS сообщения</string>
     <string name="replymes_title">"Содержание ответа по SMS при
 сбросе вызова"</string>
@@ -458,7 +456,7 @@
     <string name="input_pwd_again">Повторите ввод пароля</string>
     <string name="private_title">Защита вашей приватности...</string>
     <string name="recovery_sms">Восстановить во входящие</string>
-    <string name="replay_sms_card2">"SIM2 "</string>
+    <string name="replay_sms_card2">"SIM2"</string>
     <string name="send_smshint">Введите ответ</string>
     <string name="sign_tagnull">Отсутствуют помеченные входящие звонки</string>
     <string name="strange_stitle">Блокировка вызовов с неопределенных номеров</string>
@@ -3021,4 +3019,7 @@ Liu Yongfeng, Dong Chunyan, Ruan Jingchun, Zhang Cheng, Li Gan, Yang Dapeng, Wu 
  户流量的行为。点击“开始使用”即表示
  您已清楚本软件所使用的权限并同意
  使用该软件，如不需要使用请退出客户端。"</string>
+    <string name="net_card1">SIM1</string>
+    <string name="net_card2">SIM2</string>
+    <string name="net_card">SIM</string>
 </resources>
